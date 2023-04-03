@@ -12,7 +12,6 @@ with open('../constantine-1/constantine-1-export-1200861.json') as json_file:
   print(occurances)
   gl.del_account(d, constantine_1_burn_account)
   print(gl.search_genesis(d, constantine_1_burn_account))
-  print(gl.search_genesis(d, "constantine-1"))
   
 
 # write d to a file
