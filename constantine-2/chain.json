@@ -1,0 +1,103 @@
+{
+    "$schema": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain.schema.json",
+    "chain_name": "archway",
+    "status": "live",
+    "network_type": "testnet",
+    "website": "https://archway.io/",
+    "pretty_name": "Archway",
+    "chain_id": "constantine-2",
+    "bech32_prefix": "const",
+    "daemon_name": "archwayd",
+    "node_home": "$HOME/.archway",
+    "key_algos": [
+      "secp256k1"
+    ],
+    "slip44": 118,
+    "fees": {
+      "fee_tokens": [
+        {
+          "denom": "uconst"
+        }
+      ]
+    },
+    "staking": {
+      "staking_tokens": [
+        {
+          "denom": "uconst"
+        }
+      ]
+    },
+    "codebase": {
+      "git_repo": "https://github.com/archway-network/archway",
+      "recommended_version": "v0.3.0",
+      "compatible_versions": [
+        "v0.3.0"
+      ],
+      "binaries": {
+        "linux/amd64": "https://github.com/archway-network/archway/releases/download/v0.3.0/archway_0.3.0_linux_amd64.tar.gz"      },
+      "cosmos_sdk_version": "v0.45.14",
+      "tendermint_version": "v0.34.26",
+      "cosmwasm_version": "v0.29.2-archway",
+      "cosmwasm_enabled": true,
+      "ibc_go_version": "v3.3.0",
+      "genesis": {
+        "genesis_url": "https://github.com/archway-network/networks/raw/main/constantine-2/genesis.json.tar.gz"
+      },
+      "versions": [
+        {
+          "name": "v0.3.0",
+          "tag": "v0.3.0",
+          "height": 1200862
+        }
+      ]
+    },
+    "peers": {
+      "seeds": [
+        {
+          "id": "c736f251fd419ff228302bd28f1861b27585cafd",
+          "address": "34.28.113.201:26656",
+          "provider": "Archway Foundation"
+        }
+      ],
+      "persistent_peers": [
+        {
+          "id": "a05590886e3d3b0baa7a605ef2ee00db689308b8",
+          "address": "35.238.216.151:26656",
+          "provider": "Archway Foundation"
+        },
+        {
+          "id": "aaa634d10eb2d0ca973441a17fa329dc33ebd5cf",
+          "address": "34.134.104.171:26656",
+          "provider": "Archway Foundation"
+        },
+        {
+          "id": "67cbe1ad9d1fe96466837543cdc39e549a3ee6d7",
+          "address": "34.122.137.98:26656",
+          "provider": "Archway Foundation"
+        },
+      ]
+    },
+    "apis": {
+      "rpc": [
+        {
+          "address": "https://rpc.constantine-2.archway.tech",
+          "provider": "Archway Foundation"
+        }
+      ],
+      "rest": [
+        {
+          "address": "https://api.constantine-2.archway.tech",
+          "provider": "Archway Foundation"
+        }
+      ],
+      "grpc": [
+        {
+          "address": "grpc.constantine-2.archway.tech:443",
+          "provider": "Archway Foundation"
+        }
+      ]
+    },
+    "explorers": [
+    ]
+  }
+  
