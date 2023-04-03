@@ -85,7 +85,7 @@ def search_genesis(genesis_dict, search_term):
     return occurrences
 
 
-def get_balances(genesis_dict, accounts, denom):
+def get_balances(genesis_dict, accounts):
     """
     Get the balances of a list of accounts in a Python object representation of a genesis file.
 
