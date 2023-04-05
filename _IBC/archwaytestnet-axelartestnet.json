@@ -1,29 +1,29 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "constantine-1",
-    "client_id": "07-tendermint-72",
-    "connection_id": "connection-42"
+    "chain_name": "constantine-2",
+    "client_id": "07-tendermint-102",
+    "connection_id": "connection-53"
   },
   "chain_2": {
     "chain_name": "axelar-testnet-lisbon-3",
-    "client_id": "07-tendermint-300",
-    "connection_id": "connection-211"
+    "client_id": "07-tendermint-401",
+    "connection_id": "connection-312"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-8",
+        "channel_id": "channel-18",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-183",
+        "channel_id": "channel-214",
         "port_id": "transfer"
       },
       "ordering": "unordered",
       "version": "ics20-1",
       "tags": {
-        "status": "live",
+        "status": "live"
       }
     }
   ]
