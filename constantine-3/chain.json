@@ -56,27 +56,27 @@
     "peers": {
       "seeds": [
         {
-          "id": "3c5bc400c786d8e57ae2b85639273d1aec79829a",
-          "address": "34.31.130.235:26656",
+          "id": "e8d60ff778f3c27f54382ff22c7ac071f2a81027",
+          "address": "35.223.36.227:26656",
           "provider": "Archway Foundation"
         }
       ],
       "persistent_peers": [
         {
-          "id": "b2d39b9b7991c0a9a7678994f5afe04a1b3df923",
+          "id": "7e31ab391f5b5756a75dc18b5275b609c81a34ee",
           "address": "34.122.164.239:26656",
           "provider": "Archway Foundation"
         },
         {
-          "id": "930bf53d3858340d52bb7e541617740d91477ff0",
+          "id": "6b137e1df61936010ea30a354d8abd7010598e29",
           "address": "35.239.130.141:26656",
           "provider": "Archway Foundation"
         },
         {
-          "id": "434015482b70fff4e6bc96299dee7b84aca01343",
-          "address": "35.223.36.227:26656",
+          "id": "7786f708c1851dd433a03f71ec3ff74d65895de7",
+          "address": "34.31.130.235:26656",
           "provider": "Archway Foundation"
-        },
+        }
       ]
     },
     "apis": {
