@@ -1,23 +1,23 @@
 {
-  "$schema": "../ibc_data_schema.json",
+  "$schema": "../ibc_data.schema.json",
   "chain_1": {
     "chain_name": "constantine-2",
-    "client_id": "07-tendermint-103",
-    "connection_id": "connection-59"
+    "client_id": "07-tendermint-112",
+    "connection_id": "connection-69"
   },
   "chain_2": {
-    "chain_name": "theta-testnet-001",
-    "client_id": "07-tendermint-1967",
-    "connection_id": "connection-2292"
+    "chain_name": "axelar-testnet-lisbon-3",
+    "client_id": "07-tendermint-446",
+    "connection_id": "connection-354"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-23",
+        "channel_id": "channel-31",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-2466",
+        "channel_id": "channel-250",
         "port_id": "transfer"
       },
       "ordering": "unordered",
