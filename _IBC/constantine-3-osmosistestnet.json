@@ -2,22 +2,22 @@
   "$schema": "../ibc_data_schema.json",
   "chain_1": {
     "chain_name": "constantine-3",
-    "client_id": "07-tendermint-1",
-    "connection_id": "connection-1"
+    "client_id": "07-tendermint-4",
+    "connection_id": "connection-4"
   },
   "chain_2": {
     "chain_name": "osmo-test-5",
-    "client_id": "07-tendermint-72",
-    "connection_id": "connection-90"
+    "client_id": "07-tendermint-120",
+    "connection_id": "connection-131"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-1",
+        "channel_id": "channel-4",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-74",
+        "channel_id": "channel-120",
         "port_id": "transfer"
       },
       "ordering": "unordered",
