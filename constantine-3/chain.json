@@ -33,13 +33,13 @@
       "compatible_versions": [
       ],
       "binaries": {
-        "linux/amd64": "https://github.com/archway-network/archway/releases/download/v0.5.1/archwayd_linux_amd64",
-        "linux/arm64": "https://github.com/archway-network/archway/releases/download/v0.5.1/archwayd_linux_arm64"},
-      "cosmos_sdk_version": "v0.45.14",
-      "tendermint_version": "v0.34.26",
-      "cosmwasm_version": "v0.29.2-archway",
+        "linux/amd64": "https://github.com/archway-network/archway/releases/download/v0.6.0/archwayd_linux_amd64",
+        "linux/arm64": "https://github.com/archway-network/archway/releases/download/v0.6.0/archwayd_linux_arm64"},
+      "cosmos_sdk_version": "v0.45.16",
+      "tendermint_version": "v0.34.27",
+      "cosmwasm_version": "v0.32.0-archway",
       "cosmwasm_enabled": true,
-      "ibc_go_version": "v3.3.0",
+      "ibc_go_version": "v4.3.1",
       "genesis": {
         "genesis_url": "https://github.com/archway-network/networks/raw/main/constantine-3/genesis.json"
       },
@@ -50,8 +50,8 @@
           "height": 1
         },
         {
-            "name": "v0.6.0"
-            "tag": "v0.6.0"
+            "name": "v0.6.0",
+            "tag": "v0.6.0",
             "height": 300331
         }
       ]
