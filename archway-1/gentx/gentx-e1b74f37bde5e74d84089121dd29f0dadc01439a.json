@@ -12,8 +12,8 @@
             },
             "commission":{
                "rate":"0.050000000000000000",
-               "max_rate":"0.100000000000000000",
-               "max_change_rate":"0.100000000000000000"
+               "max_rate":"0.200000000000000000",
+               "max_change_rate":"0.050000000000000000"
             },
             "min_self_delegation":"1",
             "delegator_address":"archway1dht6wr376rw07nh60s6qqalatpen8htwkpphgv",
@@ -65,6 +65,6 @@
       }
    },
    "signatures":[
-      "BfXtwBltSp8WRT0bMlsPI7A1D/oB0frBq/mt1qaipnx+zIdXK/FMeZrIxl/+7RZwyA8/qWq+wQb1YyPNQZdRyw=="
+      "/g7ccBJfxVr4sDczFKtlnag0DwRId5l3zbgNa0ffHSNRJaFFFb9LF2wMDJCwJsqZxMmkeRVsK1eCM88e/y0LUw=="
    ]
 }
