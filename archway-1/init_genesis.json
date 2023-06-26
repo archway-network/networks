@@ -1399,24 +1399,24 @@
           "description": "The native staking token of the Archway blockchain.",
           "denom_units": [
             {
-              "denom": "arch",
+              "denom": "aarch",
               "exponent": 0,
               "aliases": []
             },
             {
               "denom": "uarch",
-              "exponent": 6,
+              "exponent": 12,
               "aliases": []
             },
             {
-              "denom": "aarch",
+              "denom": "arch",
               "exponent": 18,
               "aliases": []
             }
           ],
-          "base": "arch",
+          "base": "aarch",
           "display": "arch",
-          "name": "Archway ARCH",
+          "name": "Archway Network Token",
           "symbol": "ARCH"
         }
       ],
