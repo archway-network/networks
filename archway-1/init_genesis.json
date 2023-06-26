@@ -1,0 +1,1652 @@
+{
+  "app_hash": "",
+  "app_state": {
+    "auth": {
+      "accounts": [
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42k3mqj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1kv2c4q3d2q396fgfd9mc9g0sfynuf59p7y5eg0",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway10m7wk6jk2k90s0k8k0v6lmcrn0xaveu9uwx4sd",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway16vh6jdzrvda47stsjlxap6yukh5pq4q065p6kn",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1pc03t9pxw235pwv29qd0lx3c6zp23q7ccf4xzh",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway18wdwndqaaukkgwn4s0ynw7mdddty6h6vtlr22g",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1uvkmmjtvzxtn9cjhd2c9kdncjfslnql8mxh9he",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1ra4y9k2lle29ztcztcf7chvr7ayjr7uvrkvasj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1wr8v2eept0n26nsa706k5a9kssnw7kdajd0euu",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1vdmhn49edkx42pk8tzrtuwrvyxahv20jp2xw8l",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1lnjm5he7kd4peahyz874p53xva8rps32rrma7m",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1xajq58h5x2quul39xr0a7lw7zdcsu9wy0p9u9j",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway14q6gk2fdhym8q58x2at9lqke4chuk46em0dwp6",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1tunvmmw4v6nedchg3w355k9swt00ld0k0ugn07",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1lmpway2t6ltvpvv2rlgp0kk8g7vzkayxesylu7",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1kjrhhn2tg6wuvqjjrhr7l65yqhfvmax8mvhn3r",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway16pj5gljqnqs0ajxakccfjhu05yczp987neyh9z",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1846wx4dzcrm5guey0l5gp4kf6dp2zmqrj72r46",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1eze2npmnmu4mu5gklw02rnp6sa6cqysn8j0sa7",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1lq9la9sh5kjla8x7pg74p7djy2f74u6g6t6ags",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1v8er9uqsx0hd6tav2pltqplu2zgj0a3ree5lkz",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1rjrcd7826hfghldgpcwtvnxe9e5ku9q5ez7ayf",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1feuxzwn0d498v38799x06n6hqlc5d04yd93qsf",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway120gntmczryywurtkp6tw8rwjtdxazlscrtz0vj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway18qs78duhvkdchrrz9nr4y6t857dwhxqenesnex",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1a7fng4tw3dxzaxt0c698qgu8v3m9pjveapldqd",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway17wysu3cvfyd9xpxwmym7kw57grufsgkpfuxxw9",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1zttnm2cl60m5ffsrfeqtzkmtvepl4hwndgpfm5",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1j84hef7m9jrh36aanr0p4rd5ff2lsjsts5a4dn",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1gjtvly9lel6zskvwtvlg5vhwpu9c9waww0wngz",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1esg4kluvdkfcxl0atcf2us2p9m9y9sjjscxh50",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wkef5wf",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1mj2muyc2el7z9l243thhj3crhzzn2ds4t52us2",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1lyj3ywvl4cj68sl2ac5rp5y06hdfxx3el6650j",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway18xqqw8nfrc7zm9286fcl0w64semwxlzgrpc2lg",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1jzz2uw3nz446s4936afz9408vmk84lytdhlrmq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1x20lytyf6zkcrv5edpkfkn8sz578qg5sqkk89q",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1jrgjvtv0p5yu3fulz24wfhav577p68fcxv03rh",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway180798qlvh6jmxd9x74t4paweecgenk7j6ra5tt",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1s0lankh33kprer2l22nank5rvsuh9ksatchqvc",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1k8wmx9texf0velkysk69wkse0gxv7ahtdedx8e",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1uzas4yac6r5svjmw5qmmtgd02vde0uq8lncpy4",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1n7ucxt0afdd2cny94p7syu22chvfttx6lar52x",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1vj2xdt654d7el6eghz63qf8ls8watvkatcn53w",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway140l6y2gp3gxvay6qtn70re7z2s0gn57zej0qvk",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1kw5n4hk62kqjumc8p900df7ug5e3j8rt6cta48",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway166a4vy3609c0wgmrs4kdww79apwceu7nsm3rcl",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway13j855f6lqsclydw0ahptw2psvxspmk9h9d0ghx",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1l54f8nfhtmd9m6sheancpeyse7qtax48dcdra3",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1pnu3tpydg7264ncfv0vy763p56e7drf3pvs8d0",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1eunmpgl2rspj38x26h9t8gr8226s2xd9sx6nsw",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway10j0jzlpuqkjujrpd5k2qr9j53p3d3w3xlmywma",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1judfxhsvzckqzhd4l3wdwrtn3prggjdq2rd6hm",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1gdc6yhkgwu88p6479azcpyw69ftraq5w6cxshq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1skc8aut895jvg4hdxx7q89sus5x63ede7y0j83",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway16ktf3yu7cnkpx5n7qwmpkaxten8lw2k7e0menx",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway19f0w9svr905fhefusyx4z8sf83j6et0g4qu43m",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1ep3mayvcxyr26mc3nmk7gkk7krnssuml86dgxy",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1zpr0n5mf6ktfdlr2l80pf0a0d0ddzcnfs9t2ym",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1dzlykd5g05lqemtshuvxj5w2urf4mz64gsvrna",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1728wq7c67e6xkgkjy546l7996dn8xgtlvgr3uj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1vnet33snv6xtklyw2ad9dewu3m0z4wh57auxku",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1g976ww27dfqcjrzxr3vemcwu7e360yx2u3yk93",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1jdm7fprjl8p94fygap772jpqhq4fekppc74rpu",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway14sp0yjvxkrsj7qjltga65g9ctz5c2nrw8upjnr",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1ce7vq2ektpgzl5v7qhgvlv22h2se9aagtjug0d",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1cz6unq70w0sdm2gwghv8m4uqmhwxz5x4af5e2w",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1c37x9qfka8ms3pmqkxl39vd8gks6d0dalpuw0g",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway173zlk665f6f4hl8rnmelhql9qkttc2e79xay7n",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1pkqd2k3g6tyq8n8xf85mutngevt7ckxuevlhpj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway132cmdmha0tehev0jhw7r8rcx6ecge45wld39pz",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1qe8uuf5x69c526h4nzxwv4ltftr73v7q47cajm",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway17qv63dpkg2zwxj5mypgh9ryldpmvsew4pd6wp5",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1dht6wr376rw07nh60s6qqalatpen8htwkpphgv",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1emv3genha0hmd058r0g0pttexwg4xelju2crqf",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn806f8",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1968axqhgdcmyc8xypw53v0092gld8pmqa2ylv2",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1gdzs7qjhpp875rttkx5y9v0szt7uhmvqga8ujw",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1c2f4nd85gcntlleqtx84vcnedqejlhu2r4d4m9",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1jhn0mats4dgy7x9lk4m30yfcx5mkkezuh5umk3",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1eufkxcmzzs44d5fzvmy7l4kygdym0vt9p8c9uq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway18zma4gfcnp9pcr5x56qcnedj333vfvp35hfkqq",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1fzzxu5296sqkye9ccujc9x43h32j5dn8n7uvap",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway12w8wnpevn6u5jtujlccjerry9f6el3fw7c362m",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1yyl4trj45lsznmst3d2ys4tvc25gw7yye5c7p7",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "archway1xjyw0swav97upg2f5trvuxrmzympm0gu0prlj0",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        }
+      ],
+      "params": {
+        "max_memo_characters": "256",
+        "sig_verify_cost_ed25519": "590",
+        "sig_verify_cost_secp256k1": "1000",
+        "tx_sig_limit": "7",
+        "tx_size_cost_per_byte": "10"
+      }
+    },
+    "authz": {
+      "authorization": []
+    },
+    "bank": {
+      "balances": [
+        {
+          "address": "archway1n3mhyp9fvcmuu8l0q8qvjy07x0rql8q42k3mqj",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1kv2c4q3d2q396fgfd9mc9g0sfynuf59p7y5eg0",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway10m7wk6jk2k90s0k8k0v6lmcrn0xaveu9uwx4sd",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway16vh6jdzrvda47stsjlxap6yukh5pq4q065p6kn",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1pc03t9pxw235pwv29qd0lx3c6zp23q7ccf4xzh",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway18wdwndqaaukkgwn4s0ynw7mdddty6h6vtlr22g",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1uvkmmjtvzxtn9cjhd2c9kdncjfslnql8mxh9he",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1ra4y9k2lle29ztcztcf7chvr7ayjr7uvrkvasj",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1wr8v2eept0n26nsa706k5a9kssnw7kdajd0euu",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1vdmhn49edkx42pk8tzrtuwrvyxahv20jp2xw8l",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1lnjm5he7kd4peahyz874p53xva8rps32rrma7m",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1xajq58h5x2quul39xr0a7lw7zdcsu9wy0p9u9j",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway14q6gk2fdhym8q58x2at9lqke4chuk46em0dwp6",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1tunvmmw4v6nedchg3w355k9swt00ld0k0ugn07",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1lmpway2t6ltvpvv2rlgp0kk8g7vzkayxesylu7",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1kjrhhn2tg6wuvqjjrhr7l65yqhfvmax8mvhn3r",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway16pj5gljqnqs0ajxakccfjhu05yczp987neyh9z",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1846wx4dzcrm5guey0l5gp4kf6dp2zmqrj72r46",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1eze2npmnmu4mu5gklw02rnp6sa6cqysn8j0sa7",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1lq9la9sh5kjla8x7pg74p7djy2f74u6g6t6ags",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1v8er9uqsx0hd6tav2pltqplu2zgj0a3ree5lkz",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1rjrcd7826hfghldgpcwtvnxe9e5ku9q5ez7ayf",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1feuxzwn0d498v38799x06n6hqlc5d04yd93qsf",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway120gntmczryywurtkp6tw8rwjtdxazlscrtz0vj",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway18qs78duhvkdchrrz9nr4y6t857dwhxqenesnex",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1a7fng4tw3dxzaxt0c698qgu8v3m9pjveapldqd",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway17wysu3cvfyd9xpxwmym7kw57grufsgkpfuxxw9",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1zttnm2cl60m5ffsrfeqtzkmtvepl4hwndgpfm5",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1j84hef7m9jrh36aanr0p4rd5ff2lsjsts5a4dn",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1gjtvly9lel6zskvwtvlg5vhwpu9c9waww0wngz",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1esg4kluvdkfcxl0atcf2us2p9m9y9sjjscxh50",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1ej2es5fjztqjcd4pwa0zyvaevtjd2y5wkef5wf",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1mj2muyc2el7z9l243thhj3crhzzn2ds4t52us2",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1lyj3ywvl4cj68sl2ac5rp5y06hdfxx3el6650j",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway18xqqw8nfrc7zm9286fcl0w64semwxlzgrpc2lg",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1jzz2uw3nz446s4936afz9408vmk84lytdhlrmq",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1x20lytyf6zkcrv5edpkfkn8sz578qg5sqkk89q",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1jrgjvtv0p5yu3fulz24wfhav577p68fcxv03rh",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway180798qlvh6jmxd9x74t4paweecgenk7j6ra5tt",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1s0lankh33kprer2l22nank5rvsuh9ksatchqvc",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1k8wmx9texf0velkysk69wkse0gxv7ahtdedx8e",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1uzas4yac6r5svjmw5qmmtgd02vde0uq8lncpy4",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1n7ucxt0afdd2cny94p7syu22chvfttx6lar52x",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1vj2xdt654d7el6eghz63qf8ls8watvkatcn53w",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway140l6y2gp3gxvay6qtn70re7z2s0gn57zej0qvk",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1kw5n4hk62kqjumc8p900df7ug5e3j8rt6cta48",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway166a4vy3609c0wgmrs4kdww79apwceu7nsm3rcl",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway13j855f6lqsclydw0ahptw2psvxspmk9h9d0ghx",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1l54f8nfhtmd9m6sheancpeyse7qtax48dcdra3",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1pnu3tpydg7264ncfv0vy763p56e7drf3pvs8d0",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1eunmpgl2rspj38x26h9t8gr8226s2xd9sx6nsw",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway10j0jzlpuqkjujrpd5k2qr9j53p3d3w3xlmywma",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1judfxhsvzckqzhd4l3wdwrtn3prggjdq2rd6hm",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1gdc6yhkgwu88p6479azcpyw69ftraq5w6cxshq",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1skc8aut895jvg4hdxx7q89sus5x63ede7y0j83",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway16ktf3yu7cnkpx5n7qwmpkaxten8lw2k7e0menx",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway19f0w9svr905fhefusyx4z8sf83j6et0g4qu43m",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1ep3mayvcxyr26mc3nmk7gkk7krnssuml86dgxy",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1zpr0n5mf6ktfdlr2l80pf0a0d0ddzcnfs9t2ym",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1dzlykd5g05lqemtshuvxj5w2urf4mz64gsvrna",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1728wq7c67e6xkgkjy546l7996dn8xgtlvgr3uj",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1vnet33snv6xtklyw2ad9dewu3m0z4wh57auxku",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1g976ww27dfqcjrzxr3vemcwu7e360yx2u3yk93",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1jdm7fprjl8p94fygap772jpqhq4fekppc74rpu",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway14sp0yjvxkrsj7qjltga65g9ctz5c2nrw8upjnr",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1ce7vq2ektpgzl5v7qhgvlv22h2se9aagtjug0d",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1cz6unq70w0sdm2gwghv8m4uqmhwxz5x4af5e2w",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1c37x9qfka8ms3pmqkxl39vd8gks6d0dalpuw0g",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway173zlk665f6f4hl8rnmelhql9qkttc2e79xay7n",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1pkqd2k3g6tyq8n8xf85mutngevt7ckxuevlhpj",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway132cmdmha0tehev0jhw7r8rcx6ecge45wld39pz",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1qe8uuf5x69c526h4nzxwv4ltftr73v7q47cajm",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway17qv63dpkg2zwxj5mypgh9ryldpmvsew4pd6wp5",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1dht6wr376rw07nh60s6qqalatpen8htwkpphgv",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1emv3genha0hmd058r0g0pttexwg4xelju2crqf",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1c9ye54e3pzwm3e0zpdlel6pnavrj9qqvn806f8",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1968axqhgdcmyc8xypw53v0092gld8pmqa2ylv2",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1gdzs7qjhpp875rttkx5y9v0szt7uhmvqga8ujw",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1c2f4nd85gcntlleqtx84vcnedqejlhu2r4d4m9",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1jhn0mats4dgy7x9lk4m30yfcx5mkkezuh5umk3",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1eufkxcmzzs44d5fzvmy7l4kygdym0vt9p8c9uq",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway18zma4gfcnp9pcr5x56qcnedj333vfvp35hfkqq",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1fzzxu5296sqkye9ccujc9x43h32j5dn8n7uvap",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway12w8wnpevn6u5jtujlccjerry9f6el3fw7c362m",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1yyl4trj45lsznmst3d2ys4tvc25gw7yye5c7p7",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        },
+        {
+          "address": "archway1xjyw0swav97upg2f5trvuxrmzympm0gu0prlj0",
+          "coins": [
+            {
+              "amount": "10000000000000000000",
+              "denom": "aarch"
+            }
+          ]
+        }
+      ],
+      "denom_metadata": [
+        {
+          "description": "The native staking token of the Archway blockchain.",
+          "denom_units": [
+            {
+              "denom": "arch",
+              "exponent": 0,
+              "aliases": []
+            },
+            {
+              "denom": "uarch",
+              "exponent": 6,
+              "aliases": []
+            },
+            {
+              "denom": "aarch",
+              "exponent": 18,
+              "aliases": []
+            }
+          ],
+          "base": "arch",
+          "display": "arch",
+          "name": "Archway ARCH",
+          "symbol": "ARCH"
+        }
+      ],
+      "params": {
+        "default_send_enabled": true,
+        "send_enabled": []
+      },
+      "supply": [
+        {
+          "amount": "860000000000000000000",
+          "denom": "aarch"
+        }
+      ]
+    },
+    "capability": {
+      "index": "1",
+      "owners": []
+    },
+    "crisis": {
+      "constant_fee": {
+        "amount": "1000000000000000000000",
+        "denom": "aarch"
+      }
+    },
+    "distribution": {
+      "delegator_starting_infos": [],
+      "delegator_withdraw_infos": [],
+      "fee_pool": {
+        "community_pool": []
+      },
+      "outstanding_rewards": [],
+      "params": {
+        "base_proposer_reward": "0.010000000000000000",
+        "bonus_proposer_reward": "0.040000000000000000",
+        "community_tax": "0.060000000000000000",
+        "withdraw_addr_enabled": true
+      },
+      "previous_proposer": "",
+      "validator_accumulated_commissions": [],
+      "validator_current_rewards": [],
+      "validator_historical_rewards": [],
+      "validator_slash_events": []
+    },
+    "evidence": {
+      "evidence": []
+    },
+    "feegrant": {
+      "allowances": []
+    },
+    "feeibc": {
+      "fee_enabled_channels": [],
+      "forward_relayers": [],
+      "identified_fees": [],
+      "registered_counterparty_payees": [],
+      "registered_payees": []
+    },
+    "genmsg": {
+      "messages": []
+    },
+    "genutil": {
+      "gen_txs": []
+    },
+    "gov": {
+      "starting_proposal_id": "1",
+      "deposits": [],
+      "votes": [],
+      "proposals": [],
+      "deposit_params": {
+        "min_deposit": [
+          {
+            "amount": "5000000000000000000000",
+            "denom": "aarch"
+          }
+        ],
+        "max_deposit_period": "1209600s"
+      },
+      "voting_params": {
+        "voting_period": "1209600s"
+      },
+      "tally_params": {
+        "quorum": "0.334000000000000000",
+        "threshold": "0.500000000000000000",
+        "veto_threshold": "0.334000000000000000"
+      }
+    },
+    "ibc": {
+      "channel_genesis": {
+        "ack_sequences": [],
+        "acknowledgements": [],
+        "channels": [],
+        "commitments": [],
+        "next_channel_sequence": "0",
+        "receipts": [],
+        "recv_sequences": [],
+        "send_sequences": []
+      },
+      "client_genesis": {
+        "clients": [],
+        "clients_consensus": [],
+        "clients_metadata": [],
+        "create_localhost": false,
+        "next_client_sequence": "0",
+        "params": {
+          "allowed_clients": [
+            "06-solomachine",
+            "07-tendermint"
+          ]
+        }
+      },
+      "connection_genesis": {
+        "client_connection_paths": [],
+        "connections": [],
+        "next_connection_sequence": "0",
+        "params": {
+          "max_expected_time_per_block": "30000000000"
+        }
+      }
+    },
+    "mint": {
+      "minter": {
+        "annual_provisions": "0.000000000000000000",
+        "inflation": "0.130000000000000000"
+      },
+      "params": {
+        "blocks_per_year": "5259600",
+        "goal_bonded": "0.670000000000000000",
+        "inflation_max": "0.100000000000000000",
+        "inflation_min": "0.099999999999999999",
+        "inflation_rate_change": "0.130000000000000000",
+        "mint_denom": "aarch"
+      }
+    },
+    "params": null,
+    "rewards": {
+      "block_rewards": [],
+      "contracts_metadata": [],
+      "flat_fees": [],
+      "min_consensus_fee": {
+        "amount": "0",
+        "denom": ""
+      },
+      "params": {
+        "inflation_rewards_ratio": "0.250000000000000000",
+        "max_withdraw_records": "25000",
+        "tx_fee_rebate_ratio": "0.500000000000000000",
+        "min_price_of_gas": {
+          "amount": "900000000000",
+          "denom": "aarch"
+        }
+      },
+      "rewards_record_last_id": "0",
+      "rewards_records": [],
+      "tx_rewards": []
+    },
+    "slashing": {
+      "missed_blocks": [],
+      "params": {
+        "downtime_jail_duration": "600s",
+        "min_signed_per_window": "0.500000000000000000",
+        "signed_blocks_window": "10000",
+        "slash_fraction_double_sign": "0.050000000000000000",
+        "slash_fraction_downtime": "0.0001"
+      },
+      "signing_infos": []
+    },
+    "staking": {
+      "delegations": [],
+      "exported": false,
+      "last_total_power": "0",
+      "last_validator_powers": [],
+      "params": {
+        "bond_denom": "aarch",
+        "historical_entries": "10000",
+        "max_entries": "7",
+        "max_validators": "100",
+        "unbonding_time": "1814400s"
+      },
+      "redelegations": [],
+      "unbonding_delegations": [],
+      "validators": []
+    },
+    "tracking": {
+      "contract_op_info_last_id": "0",
+      "contract_op_infos": [],
+      "tx_info_last_id": "0",
+      "tx_infos": []
+    },
+    "transfer": {
+      "denom_traces": [],
+      "params": {
+        "receive_enabled": true,
+        "send_enabled": true
+      },
+      "port_id": "transfer"
+    },
+    "upgrade": {},
+    "vesting": {},
+    "wasm": {
+      "codes": [],
+      "contracts": [],
+      "params": {
+        "code_upload_access": {
+          "address": "",
+          "addresses": [],
+          "permission": "Everybody"
+        },
+        "instantiate_default_permission": "Everybody"
+      },
+      "sequences": []
+    }
+  },
+  "chain_id": "archway-1",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "300000000",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {
+      "max_age_duration": "172800000000000",
+      "max_age_num_blocks": "100000",
+      "max_bytes": "1048576"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    },
+    "version": {}
+  },
+  "genesis_time": "2023-07-03T12:00:00.000000Z",
+  "initial_height": "1"
+}
