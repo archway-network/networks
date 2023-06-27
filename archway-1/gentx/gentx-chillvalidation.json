@@ -24,7 +24,7 @@
                 },
                 "value": {
                     "denom": "aarch",
-                    "amount": "10000000000000000000"
+                    "amount": "9500000000000000000"
                 }
             }
         ],
@@ -61,6 +61,6 @@
         }
     },
     "signatures": [
-        "JHq7eW3Xchz3NGDw1G+9l/0IcVem5YWJLpNRgRutDvAQi2CMnkpV0bP7+Dx7dmMqGqlOSIx6s7ZjOnigUra18g=="
+        "mVbS08asWWXFgvNmqiVUK/o/EIP5CFj4kNK/Yj2p6SxIDVPRODPmgMOJmwaBqPKKjJunDsrVK7hpETgOHWQ/0w=="
     ]
 }
