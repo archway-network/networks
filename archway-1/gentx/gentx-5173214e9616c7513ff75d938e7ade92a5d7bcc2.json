@@ -49,13 +49,18 @@
             }
         ],
         "fee": {
-            "amount": [],
+            "amount": [
+                {
+                    "denom": "aarch",
+                    "amount": "180000000000000000"
+                }
+            ],
             "gas_limit": "200000",
             "payer": "",
             "granter": ""
         }
     },
     "signatures": [
-        "HThDKfZ1Z8qUPgr3WhS1O6uLptNr//Uo8PlQByZIepRvaydlIuFk/1O31aS6/sKRrNOAApDHtDseehd2yMJLWA=="
+        "4VwzI+UFgjMXLwp+8Q/fUSPZBRsTJcIzLrH0TvGH/lxM49n/1f6KtII1CKnR4Vyl/ci1OrsmPgsnzeuThxyv8w=="
     ]
 }
