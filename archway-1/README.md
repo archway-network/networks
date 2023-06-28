@@ -20,4 +20,4 @@ More information how to become a validator can be found from Archway's documenta
 | Name      | Value                                                         | Description                         |
 | --------- | ------------------------------------------------------------- | ----------------------------------- |
 | ChainID   | archway-1                                                     | Name of the chain that will be used |
-| Seed node | TBD                                                           | Seed nodes to be configured         |
+| Seed node | 3ba7bf08f00e228026177e9cdc027f6ef6eb2b39@35.232.234.58:26656  | Seed nodes to be configured         |
