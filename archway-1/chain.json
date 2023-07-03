@@ -85,6 +85,12 @@
       "url": "https://archway.explorers.guru/",
       "tx_page": "https://archway.explorers.guru/transaction/${txHash}",
       "account_page": "https://archway.explorers.guru/account/${accountAddress}"
+    },
+    {
+      "kind": "Mintscan",
+      "url": "https://mintscan.io/archway/",
+      "tx_page": "https://mintscan.io/archway/txs/${txHash}",
+      "account_page": "https://mintscan.io/archway/account/${accountAddress}"
     }
   ]
 }
