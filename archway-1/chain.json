@@ -71,18 +71,30 @@
       {
         "address": "https://rpc.mainnet.archway.io",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "https://rpc-1.archway.nodes.guru",
+        "provider": "Nodes.Guru"
       }
     ],
     "rest": [
       {
         "address": "https://api.mainnet.archway.io",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "https://api-1.archway.nodes.guru",
+        "provider": "Nodes.Guru"
       }
     ],
     "grpc": [
       {
         "address": "grpc.mainnet.archway.io:443",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "grpc-1.archway.nodes.guru:10690",
+        "provider": "Nodes.Guru"
       }
     ]
   },
