@@ -29,7 +29,10 @@
       {
         "denom": "aarch"
       }
-    ]
+    ],
+    "lock_duration": {
+      "time": "1209600s"
+    }
   },
   "codebase": {
     "git_repo": "https://github.com/archway-network/archway",
