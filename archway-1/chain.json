@@ -61,6 +61,11 @@
         "id": "3ba7bf08f00e228026177e9cdc027f6ef6eb2b39",
         "address": "35.232.234.58:26656",
         "provider": "Archway Foundation"
+      },
+      {
+        "id": "b308dda41e4db2ee00852d91846f981c49943d46",
+        "address": "161.97.96.91:46656",
+        "provider": "AM Solutions"
       }
     ]
   },
@@ -77,6 +82,10 @@
       {
         "address": "https://archway.rpc.silknodes.io/",
         "provider": "Silk Nodes"
+      },
+      {
+        "address": "https://rpc-archway.theamsolutions.info",
+        "provider": "AM Solutions"
       }
     ],
     "rest": [
@@ -91,6 +100,10 @@
       {
         "address": "https://archway.api.silknodes.io/",
         "provider": "Silk Nodes"
+      },
+      {
+        "address": "https://rest-archway.theamsolutions.info",
+        "provider": "AM Solutions"
       }
     ],
     "grpc": [
@@ -101,6 +114,10 @@
       {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "grpc-archway.theamsolutions.info:443",
+        "provider": "AM Solutions"
       }
     ]
   },
