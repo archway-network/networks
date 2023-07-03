@@ -108,6 +108,12 @@
         "url": "https://testnet.archway.explorers.guru/",
         "tx_page": "https://testnet.archway.explorers.guru/transaction/${txHash}",
         "account_page": "https://testnet.archway.explorers.guru/account/${accountAddress}"
+      },
+      {
+        "kind": "Mintscan",
+        "url": "https://testnet.mintscan.io/archway-testnet",
+        "tx_page": "https://testnet.mintscan.io/archway-testnet/txs/${txHash}",
+        "account_page": "https://testnet.mintscan.io/archway-testnet/account/${accountAddress}"
       }
     ]
   }
