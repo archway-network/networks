@@ -75,6 +75,10 @@
       {
         "address": "https://rpc-1.archway.nodes.guru",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "https://rpc.archway.nodestake.top",
+        "provider": "NodeStake"
       }
     ],
     "rest": [
@@ -85,6 +89,10 @@
       {
         "address": "https://api-1.archway.nodes.guru",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "https://api.archway.nodestake.top",
+        "provider": "NodeStake"
       }
     ],
     "grpc": [
@@ -95,6 +103,10 @@
       {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "https://grpc.archway.nodestake.top:443",
+        "provider": "NodeStake"
       }
     ]
   },
@@ -110,6 +122,12 @@
       "url": "https://mintscan.io/archway/",
       "tx_page": "https://mintscan.io/archway/txs/${txHash}",
       "account_page": "https://mintscan.io/archway/account/${accountAddress}"
+    },
+    {
+      "kind": "NodeStake Explorer",
+      "url": "https://explorer.nodestake.top/archway/",
+      "tx_page": "https://explorer.nodestake.top/archway/txs/${txHash}",
+      "account_page": "https://explorer.nodestake.top/archway/account/${accountAddress}"
     }
   ]
 }
