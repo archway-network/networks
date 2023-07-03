@@ -9,9 +9,7 @@
   "bech32_prefix": "archway",
   "daemon_name": "archwayd",
   "node_home": "$HOME/.archway",
-  "key_algos": [
-    "secp256k1"
-  ],
+  "key_algos": ["secp256k1"],
   "slip44": 118,
   "fees": {
     "fee_tokens": [
@@ -75,6 +73,10 @@
       {
         "address": "https://rpc-1.archway.nodes.guru",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "https://archway.rpc.silknodes.io/",
+        "provider": "Silk Nodes"
       }
     ],
     "rest": [
@@ -85,6 +87,10 @@
       {
         "address": "https://api-1.archway.nodes.guru",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "https://archway.api.silknodes.io/",
+        "provider": "Silk Nodes"
       }
     ],
     "grpc": [
@@ -110,6 +116,12 @@
       "url": "https://mintscan.io/archway/",
       "tx_page": "https://mintscan.io/archway/txs/${txHash}",
       "account_page": "https://mintscan.io/archway/account/${accountAddress}"
+    },
+    {
+      "kind": "Silk Nodes",
+      "url": "https://explorer.silknodes.io/archway",
+      "tx_page": "https://explorer.silknodes.io/archway/tx/${txHash}",
+      "account_page": "https://explorer.silknodes.io/archway/account/${accountAddress}"
     }
   ]
 }
