@@ -79,6 +79,10 @@
         "provider": "Silk Nodes"
       },
       {
+        "address": "https://archway.rpc.kjnodes.com",
+        "provider": "kjnodes"
+      },
+      {
         "address": "https://rpc.archway.nodestake.top",
         "provider": "NodeStake"
       }
@@ -97,6 +101,10 @@
         "provider": "Silk Nodes"
       },
       {
+        "address": "https://archway.api.kjnodes.com",
+        "provider": "kjnodes"
+      },
+      {
         "address": "https://api.archway.nodestake.top",
         "provider": "NodeStake"
       }
@@ -109,6 +117,10 @@
       {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "archway.grpc.kjnodes.com:15690",
+        "provider": "kjnodes"
       },
       {
         "address": "https://grpc.archway.nodestake.top:443",
