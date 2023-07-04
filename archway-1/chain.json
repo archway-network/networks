@@ -77,6 +77,10 @@
       {
         "address": "https://archway.rpc.silknodes.io/",
         "provider": "Silk Nodes"
+      },
+      {
+        "address": "https://rpc.archway.nodestake.top",
+        "provider": "NodeStake"
       }
     ],
     "rest": [
@@ -91,6 +95,10 @@
       {
         "address": "https://archway.api.silknodes.io/",
         "provider": "Silk Nodes"
+      },
+      {
+        "address": "https://api.archway.nodestake.top",
+        "provider": "NodeStake"
       }
     ],
     "grpc": [
@@ -101,6 +109,10 @@
       {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "https://grpc.archway.nodestake.top:443",
+        "provider": "NodeStake"
       }
     ]
   },
@@ -122,6 +134,12 @@
       "url": "https://explorer.silknodes.io/archway",
       "tx_page": "https://explorer.silknodes.io/archway/tx/${txHash}",
       "account_page": "https://explorer.silknodes.io/archway/account/${accountAddress}"
+    },
+    {
+      "kind": "NodeStake Explorer",
+      "url": "https://explorer.nodestake.top/archway/",
+      "tx_page": "https://explorer.nodestake.top/archway/txs/${txHash}",
+      "account_page": "https://explorer.nodestake.top/archway/account/${accountAddress}"
     },
     {
       "kind": "Exploreme",
