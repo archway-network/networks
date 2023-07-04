@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain.schema.json",
+  "$schema": "../chain.schema.json",
   "chain_name": "archway",
   "status": "live",
   "network_type": "mainnet",
@@ -9,7 +9,9 @@
   "bech32_prefix": "archway",
   "daemon_name": "archwayd",
   "node_home": "$HOME/.archway",
-  "key_algos": ["secp256k1"],
+  "key_algos": [
+    "secp256k1"
+  ],
   "slip44": 118,
   "fees": {
     "fee_tokens": [
@@ -35,6 +37,9 @@
   "codebase": {
     "git_repo": "https://github.com/archway-network/archway",
     "recommended_version": "v1.0.0",
+    "compatible_versions": [
+      "v1.0.0"
+    ],
     "binaries": {
       "linux/amd64": "https://github.com/archway-network/archway/releases/download/v1.0.0/archwayd_linux_amd64",
       "linux/arm64": "https://github.com/archway-network/archway/releases/download/v1.0.0/archwayd_linux_arm64"
@@ -54,6 +59,10 @@
         "height": 1
       }
     ]
+  },
+  "logo_URIs": {
+    "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.png",
+    "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg"
   },
   "peers": {
     "seeds": [
