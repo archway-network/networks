@@ -80,6 +80,11 @@
         "id": "d2362ebcdd562500ac8c4cfa2214a89ad811033c",
         "address": "seeds.whispernode.com:11556",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "id": "bd9332cd0a99f5830ea457a32a56b32790f68716",
+        "address": "135.181.58.28:27456",
+        "provider": "Validatrium.com"
       }
     ]
   },
@@ -120,6 +125,10 @@
       {
         "address": "https://rpc-archway.whispernode.com",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "address": "https://rpc-archway.mainnet.validatrium.club",
+        "provider": "Validatrium.com"
       }
     ],
     "rest": [
@@ -183,7 +192,11 @@
       },
       {
         "address": "grpc-archway.theamsolutions.info:443",
-        "provider": "AM Solutions"
+        "provider": "AM Solutions" 
+      },
+      {
+        "address": "https://api-archway.mainnet.validatrium.club",
+        "provider": "Validatrium.com"
       }
     ]
   },
