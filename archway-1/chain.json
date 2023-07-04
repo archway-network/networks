@@ -75,6 +75,11 @@
         "id": "b308dda41e4db2ee00852d91846f981c49943d46",
         "address": "161.97.96.91:46656",
         "provider": "AM Solutions"
+      },
+      {
+        "id": "d2362ebcdd562500ac8c4cfa2214a89ad811033c",
+        "address": "seeds.whispernode.com:11556",
+        "provider": "WhisperNode🤐"
       }
     ]
   },
@@ -103,6 +108,10 @@
       {
         "address": "https://rpc-archway.theamsolutions.info",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "https://rpc-archway.whispernode.com",
+        "provider": "WhisperNode🤐"
       }
     ],
     "rest": [
@@ -129,6 +138,10 @@
       {
         "address": "https://rest-archway.theamsolutions.info",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "https://lcd-archway.whispernode.com:443",
+        "provider": "WhisperNode🤐"
       }
     ],
     "grpc": [
