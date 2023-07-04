@@ -106,6 +106,10 @@
         "provider": "kjnodes"
       },
       {
+        "address": "https://rpc-archway.cryptech.com.ua",
+        "provider": "cryptech"
+      },
+      {
         "address": "https://rpc.archway.nodestake.top",
         "provider": "NodeStake"
       },
@@ -140,6 +144,10 @@
         "provider": "kjnodes"
       },
       {
+        "address": "https://api-archway.cryptech.com.ua",
+        "provider": "cryptech"
+      },
+      {
         "address": "https://api.archway.nodestake.top",
         "provider": "NodeStake"
       },
@@ -164,6 +172,10 @@
       {
         "address": "archway.grpc.kjnodes.com:15690",
         "provider": "kjnodes"
+      },
+      {
+        "address": "https://grpc-archway.cryptech.com.ua",
+        "provider": "cryptech"
       },
       {
         "address": "https://grpc.archway.nodestake.top:443",
