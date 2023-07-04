@@ -76,6 +76,10 @@
         "provider": "Archway Foundation"
       },
       {
+        "address": "https://m-archway.rpc.utsa.tech",
+        "provider": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀"
+      },
+      {
         "address": "https://rpc-1.archway.nodes.guru",
         "provider": "Nodes.Guru"
       },
@@ -100,6 +104,10 @@
       {
         "address": "https://api.mainnet.archway.io",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "https://m-archway.api.utsa.tech",
+        "provider": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀"
       },
       {
         "address": "https://api-1.archway.nodes.guru",
@@ -151,6 +159,12 @@
       "url": "https://archway.explorers.guru/",
       "tx_page": "https://archway.explorers.guru/transaction/${txHash}",
       "account_page": "https://archway.explorers.guru/account/${accountAddress}"
+    },
+    {
+      "kind": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀",
+      "url": "https://exp.utsa.tech/archway",
+      "tx_page": "https://exp.utsa.tech/archway/tx/${txHash}",
+      "account_page": "https://exp.utsa.tech/archway/account/${accountAddress}"
     },
     {
       "kind": "Mintscan",
