@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain.schema.json",
+  "$schema": "../chain.schema.json",
   "chain_name": "archway",
   "status": "live",
   "network_type": "mainnet",
@@ -9,7 +9,9 @@
   "bech32_prefix": "archway",
   "daemon_name": "archwayd",
   "node_home": "$HOME/.archway",
-  "key_algos": ["secp256k1"],
+  "key_algos": [
+    "secp256k1"
+  ],
   "slip44": 118,
   "fees": {
     "fee_tokens": [
@@ -35,6 +37,9 @@
   "codebase": {
     "git_repo": "https://github.com/archway-network/archway",
     "recommended_version": "v1.0.0",
+    "compatible_versions": [
+      "v1.0.0"
+    ],
     "binaries": {
       "linux/amd64": "https://github.com/archway-network/archway/releases/download/v1.0.0/archwayd_linux_amd64",
       "linux/arm64": "https://github.com/archway-network/archway/releases/download/v1.0.0/archwayd_linux_arm64"
@@ -55,6 +60,10 @@
       }
     ]
   },
+  "logo_URIs": {
+    "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.png",
+    "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg"
+  },
   "peers": {
     "seeds": [
       {
@@ -66,6 +75,11 @@
         "id": "b308dda41e4db2ee00852d91846f981c49943d46",
         "address": "161.97.96.91:46656",
         "provider": "AM Solutions"
+      },
+      {
+        "id": "d2362ebcdd562500ac8c4cfa2214a89ad811033c",
+        "address": "seeds.whispernode.com:11556",
+        "provider": "WhisperNode🤐"
       }
     ]
   },
@@ -98,6 +112,10 @@
       {
         "address": "https://rpc-archway.theamsolutions.info",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "https://rpc-archway.whispernode.com",
+        "provider": "WhisperNode🤐"
       }
     ],
     "rest": [
@@ -128,6 +146,10 @@
       {
         "address": "https://rest-archway.theamsolutions.info",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "https://lcd-archway.whispernode.com:443",
+        "provider": "WhisperNode🤐"
       }
     ],
     "grpc": [
