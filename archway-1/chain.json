@@ -120,6 +120,10 @@
       {
         "address": "https://rpc-archway.whispernode.com",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "address": "https://archway-rpc.0base.dev",
+        "provider": "0base.vc"
       }
     ],
     "rest": [
@@ -158,6 +162,10 @@
       {
         "address": "https://lcd-archway.whispernode.com:443",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "address": "https://archway-rest.0base.dev",
+        "provider": "0base.vc"
       }
     ],
     "grpc": [
