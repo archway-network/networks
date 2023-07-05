@@ -90,6 +90,10 @@
         "provider": "Archway Foundation"
       },
       {
+        "address": "https://archway-mainnet-archive.allthatnode.com:26657",
+        "provider": "All That Node"
+      },
+      {
         "address": "https://m-archway.rpc.utsa.tech",
         "provider": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀"
       },
@@ -126,6 +130,10 @@
       {
         "address": "https://api.mainnet.archway.io",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "https://archway-mainnet-archive.allthatnode.com:1317",
+        "provider": "All That Node"
       },
       {
         "address": "https://m-archway.api.utsa.tech",
