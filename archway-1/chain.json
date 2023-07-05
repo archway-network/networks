@@ -124,6 +124,10 @@
       {
         "address": "https://rpc-archway.whispernode.com",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "address": "https://archway-mainnet.rpc.l0vd.com",
+        "provider": "L0vd.com"
       }
     ],
     "rest": [
@@ -166,6 +170,10 @@
       {
         "address": "https://lcd-archway.whispernode.com:443",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "address": "https://archway-mainnet.api.l0vd.com",
+        "provider": "L0vd.com"
       }
     ],
     "grpc": [
@@ -192,6 +200,10 @@
       {
         "address": "grpc-archway.theamsolutions.info:443",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "archway-mainnet.grpc.l0vd.com:80",
+        "provider": "L0vd.com"
       }
     ]
   },
@@ -231,6 +243,12 @@
       "url": "https://archway.exploreme.pro/",
       "tx_page": "https://archway.exploreme.pro/transaction/${txHash}",
       "account_page": "https://archway.exploreme.pro/account/${accountAddress}"
+    },
+    {
+      "kind": "L0vd.com",
+      "url": "https://explorers.l0vd.com/archway-mainnet/",
+      "tx_page": "https://explorers.l0vd.com/archway-mainnet/tx/${txHash}",
+      "account_page": "https://explorers.l0vd.com/archway-mainnet/account/${accountAddress}"
     }
   ]
 }
