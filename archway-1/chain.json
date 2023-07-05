@@ -194,7 +194,7 @@
         "provider": "AM Solutions"
       },
       {
-        "address": "https://archway-grpc.huginn.tech:4090",
+        "address": "archway-grpc.huginn.tech:4090",
         "provider": "Huginn"
       }
     ]
