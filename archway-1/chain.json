@@ -80,6 +80,11 @@
         "id": "d2362ebcdd562500ac8c4cfa2214a89ad811033c",
         "address": "seeds.whispernode.com:11556",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "id": "400f3d9e30b69e78a7fb891f60d76fa3c73f0ecc",
+        "address": "archway.rpc.kjnodes.com:15659",
+        "provider": "kjnodes"
       }
     ]
   },
@@ -124,6 +129,10 @@
       {
         "address": "https://rpc-archway.whispernode.com",
         "provider": "WhisperNode🤐"
+      },
+      {
+        "address": "https://archway-rpc.huginn.tech",
+        "provider": "Huginn"
       },
       {
         "address": "https://archway-rpc.0base.dev",
@@ -180,6 +189,10 @@
         "provider": "WhisperNode🤐"
       },
       {
+        "address": "https://archway-lcd.huginn.tech",
+        "provider": "Huginn"
+      },
+      {
         "address": "https://archway-rest.0base.dev",
         "provider": "0base.vc"
       },
@@ -216,6 +229,10 @@
       {
         "address": "grpc-archway.theamsolutions.info:443",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "archway-grpc.huginn.tech:4090",
+        "provider": "Huginn"
       },
       {
         "address": "archway-mainnet.grpc.l0vd.com:80",
