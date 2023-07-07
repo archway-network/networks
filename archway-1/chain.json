@@ -126,6 +126,10 @@
         "provider": "WhisperNode🤐"
       },
       {
+        "address": "https://archway-rpc.huginn.tech",
+        "provider": "Huginn"
+      },
+      {
         "address": "https://archway-rpc.0base.dev",
         "provider": "0base.vc"
       },
@@ -176,6 +180,10 @@
         "provider": "WhisperNode🤐"
       },
       {
+        "address": "https://archway-lcd.huginn.tech",
+        "provider": "Huginn"
+      },
+      {
         "address": "https://archway-rest.0base.dev",
         "provider": "0base.vc"
       },
@@ -208,6 +216,10 @@
       {
         "address": "grpc-archway.theamsolutions.info:443",
         "provider": "AM Solutions"
+      },
+      {
+        "address": "archway-grpc.huginn.tech:4090",
+        "provider": "Huginn"
       },
       {
         "address": "archway-mainnet.grpc.l0vd.com:80",
