@@ -36,7 +36,7 @@
   },
   "codebase": {
     "git_repo": "https://github.com/archway-network/archway",
-    "recommended_version": "v1.0.0",
+    "recommended_version": "v1.0.1",
     "compatible_versions": [
       "v1.0.0"
     ],
@@ -90,6 +90,10 @@
         "provider": "Archway Foundation"
       },
       {
+        "address": "https://archway-mainnet-archive.allthatnode.com:26657",
+        "provider": "All That Node"
+      },
+      {
         "address": "https://m-archway.rpc.utsa.tech",
         "provider": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀"
       },
@@ -124,12 +128,24 @@
       {
         "address": "https://archway-rpc.huginn.tech",
         "provider": "Huginn"
+      },
+      {
+        "address": "https://archway-rpc.0base.dev",
+        "provider": "0base.vc"
+      },
+      {
+        "address": "https://archway-mainnet.rpc.l0vd.com",
+        "provider": "L0vd.com"
       }
     ],
     "rest": [
       {
         "address": "https://api.mainnet.archway.io",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "https://archway-mainnet-archive.allthatnode.com:1317",
+        "provider": "All That Node"
       },
       {
         "address": "https://m-archway.api.utsa.tech",
@@ -166,6 +182,14 @@
       {
         "address": "https://archway-lcd.huginn.tech",
         "provider": "Huginn"
+      },
+      {
+        "address": "https://archway-rest.0base.dev",
+        "provider": "0base.vc"
+      },
+      {
+        "address": "https://archway-mainnet.api.l0vd.com",
+        "provider": "L0vd.com"
       }
     ],
     "grpc": [
@@ -196,6 +220,10 @@
       {
         "address": "archway-grpc.huginn.tech:4090",
         "provider": "Huginn"
+      },
+      {
+        "address": "archway-mainnet.grpc.l0vd.com:80",
+        "provider": "L0vd.com"
       }
     ]
   },
@@ -235,6 +263,12 @@
       "url": "https://archway.exploreme.pro/",
       "tx_page": "https://archway.exploreme.pro/transaction/${txHash}",
       "account_page": "https://archway.exploreme.pro/account/${accountAddress}"
+    },
+    {
+      "kind": "L0vd.com",
+      "url": "https://explorers.l0vd.com/archway-mainnet/",
+      "tx_page": "https://explorers.l0vd.com/archway-mainnet/tx/${txHash}",
+      "account_page": "https://explorers.l0vd.com/archway-mainnet/account/${accountAddress}"
     }
   ]
 }
