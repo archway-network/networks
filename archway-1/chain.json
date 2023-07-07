@@ -239,7 +239,7 @@
         "provider": "L0vd.com"
       },
       {
-        "address": "https://archway-grpc.openbitlab.com",
+        "address": "archway-grpc.openbitlab.com:443",
         "provider": "openbitlab"
       }
     ]
