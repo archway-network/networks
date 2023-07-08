@@ -141,6 +141,10 @@
       {
         "address": "https://archway-mainnet.rpc.l0vd.com",
         "provider": "L0vd.com"
+      },
+      {
+        "address": "https://archway-rpc.openbitlab.com",
+        "provider": "openbitlab"
       }
     ],
     "rest": [
@@ -195,6 +199,10 @@
       {
         "address": "https://archway-mainnet.api.l0vd.com",
         "provider": "L0vd.com"
+      },
+      {
+        "address": "https://archway-api.openbitlab.com",
+        "provider": "openbitlab"
       }
     ],
     "grpc": [
@@ -229,6 +237,10 @@
       {
         "address": "archway-mainnet.grpc.l0vd.com:80",
         "provider": "L0vd.com"
+      },
+      {
+        "address": "archway-grpc.openbitlab.com:443",
+        "provider": "openbitlab"
       }
     ]
   },
