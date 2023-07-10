@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain.schema.json",
+    "$schema": "../chain.schema.json",
     "chain_name": "archway",
     "status": "live",
     "network_type": "testnet",
@@ -29,15 +29,17 @@
     },
     "codebase": {
       "git_repo": "https://github.com/archway-network/archway",
-      "recommended_version": "v0.6.0",
+      "recommended_version": "v1.0.1",
       "compatible_versions": [
+        "v1.0.0"
       ],
       "binaries": {
-        "linux/amd64": "https://github.com/archway-network/archway/releases/download/v0.6.0/archwayd_linux_amd64",
-        "linux/arm64": "https://github.com/archway-network/archway/releases/download/v0.6.0/archwayd_linux_arm64"},
+        "linux/amd64": "https://github.com/archway-network/archway/releases/download/v1.0.1/archwayd_linux_amd64",
+        "linux/arm64": "https://github.com/archway-network/archway/releases/download/v1.0.1/archwayd_linux_arm64"
+      },
       "cosmos_sdk_version": "v0.45.16",
       "tendermint_version": "v0.34.27",
-      "cosmwasm_version": "v0.32.0-archway",
+      "cosmwasm_version": "v0.32.0",
       "cosmwasm_enabled": true,
       "ibc_go_version": "v4.3.1",
       "genesis": {
@@ -50,9 +52,19 @@
           "height": 1
         },
         {
-            "name": "v0.6.0",
-            "tag": "v0.6.0",
-            "height": 300331
+          "name": "v0.6.0",
+          "tag": "v0.6.0",
+          "height": 300331
+        },
+        {
+          "name": "v1.0.0-rc.4",
+          "tag": "v1.0.0-rc.4",
+          "height": 695333
+        },
+        {
+          "name": "v1.0.1",
+          "tag": "v1.0.1",
+          "height": 744300
         }
       ]
     },
@@ -108,6 +120,12 @@
         "url": "https://testnet.archway.explorers.guru/",
         "tx_page": "https://testnet.archway.explorers.guru/transaction/${txHash}",
         "account_page": "https://testnet.archway.explorers.guru/account/${accountAddress}"
+      },
+      {
+        "kind": "Mintscan",
+        "url": "https://testnet.mintscan.io/archway-testnet",
+        "tx_page": "https://testnet.mintscan.io/archway-testnet/txs/${txHash}",
+        "account_page": "https://testnet.mintscan.io/archway-testnet/account/${accountAddress}"
       }
     ]
   }
