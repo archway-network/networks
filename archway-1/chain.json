@@ -85,6 +85,11 @@
         "id": "400f3d9e30b69e78a7fb891f60d76fa3c73f0ecc",
         "address": "archway.rpc.kjnodes.com:15659",
         "provider": "kjnodes"
+      },
+      {
+        "id": "bd9332cd0a99f5830ea457a32a56b32790f68716",
+        "address": "135.181.58.28:27456",
+        "provider": "Validatrium"
       }
     ]
   },
@@ -145,6 +150,10 @@
       {
         "address": "https://archway-rpc.openbitlab.com",
         "provider": "openbitlab"
+      },
+      {
+        "address": "https://rpc-archway.mainnet.validatrium.club",
+        "provider": "Validatrium"
       }
     ],
     "rest": [
@@ -203,6 +212,10 @@
       {
         "address": "https://archway-api.openbitlab.com",
         "provider": "openbitlab"
+      },
+      {
+        "address": "https://api-archway.mainnet.validatrium.club",
+        "provider": "Validatrium"
       }
     ],
     "grpc": [
@@ -241,6 +254,10 @@
       {
         "address": "archway-grpc.openbitlab.com:443",
         "provider": "openbitlab"
+      },
+      {
+        "address": "https://grpc-archway.mainnet.validatrium.club",
+        "provider": "Validatrium"
       }
     ]
   },
