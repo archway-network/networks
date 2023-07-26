@@ -85,6 +85,11 @@
         "id": "400f3d9e30b69e78a7fb891f60d76fa3c73f0ecc",
         "address": "archway.rpc.kjnodes.com:15659",
         "provider": "kjnodes"
+      },
+      {
+        "id": "6471ac9ff8474373e8055d45b6246fd8c5204890",
+        "address": "archway.seed.mzonder.com:10756",
+        "provider": "MZONDER"
       }
     ]
   },
@@ -145,6 +150,10 @@
       {
         "address": "https://archway-rpc.openbitlab.com",
         "provider": "openbitlab"
+      },
+      {
+        "address": "https://rpc-archway.mzonder.com",
+        "provider": "MZONDER"
       }
     ],
     "rest": [
@@ -203,6 +212,10 @@
       {
         "address": "https://archway-api.openbitlab.com",
         "provider": "openbitlab"
+      },
+      {
+        "address": "https://api-archway.mzonder.com",
+        "provider": "MZONDER"
       }
     ],
     "grpc": [
@@ -241,6 +254,10 @@
       {
         "address": "archway-grpc.openbitlab.com:443",
         "provider": "openbitlab"
+      },
+      {
+        "address": "grpc-archway.mzonder.com:443",
+        "provider": "MZONDER"
       }
     ]
   },
