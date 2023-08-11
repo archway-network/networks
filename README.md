@@ -23,4 +23,4 @@ If you are builder on Archway protocol and/or looking to connect Archway Network
 
 Relayers operating IBC paths connecting to archway-1 (mainnet) may apply for a feegrant to pay for IBC transfer fees.
 
-To apply for a feegrant fill fill out the following form: https://forms.gle/AfUbwRpHU5XGBquM6
+To apply for a feegrant fill out the following form: https://forms.gle/AfUbwRpHU5XGBquM6
