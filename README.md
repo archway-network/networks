@@ -6,6 +6,7 @@ Schema files containing the recommended metadata structure can be found in the *
 
 # Adding new IBC paths
 
+If you are a relayer operator and wish to add a new IBC path connecting to Archway Networks, please follow the below mentioned criteria and create a PR after creating the path.
 ## Requirements for the IBC channel:
 - Archway client's trusting period should be set to 2/3 of unbonding period e.g. for archway-1 (mainnet) the clients trusting period must be 1209600s
 - IBC client for your chain should also have trusting period set to exactly 2/3 of your unbonding period
@@ -13,6 +14,10 @@ Schema files containing the recommended metadata structure can be found in the *
 ## Steps to create new IBC paths
 
 We recommend using hermes relayer implementation and use this [tutorial](https://hermes.informal.systems/tutorials/local-chains/add-a-new-relay-path.html) to create new paths.
+
+# Requesting a new IBC path
+
+If you are builder on Archway protocol and/or looking to connect Archway Networks to another chain through IBC, but do have the expertise or the capacity to operate relayers, you can still create an issue with a proposal in this repo requesting a new path and we would try our best to get that public infrastructure setup.
 
 # Feegrants Program
 
