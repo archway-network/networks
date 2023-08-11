@@ -9,7 +9,7 @@ Schema files containing the recommended metadata structure can be found in the *
 If you are a relayer operator and wish to add a new IBC path connecting to Archway Networks, please follow the below mentioned criteria and create a PR after creating the path.
 ## Requirements for the IBC channel:
 - Archway client's trusting period should be set to 2/3 of unbonding period e.g. for archway-1 (mainnet) the clients trusting period must be 1209600s
-- IBC client for the counterparty chain should also have trusting period set to exactly 2/3 of your unbonding period
+- IBC client for the counterparty chain should also have a trusting period set to exactly 2/3 of the chains unbonding period
 
 ## Steps to create new IBC paths
 
