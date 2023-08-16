@@ -227,7 +227,7 @@
         "provider": "MZONDER"
       },
       {
-        "address": "api-archway.mainnet.validatrium.club:27490",
+        "address": "https://api-archway.mainnet.validatrium.club",
         "provider": "Validatrium"
       }
     ],
