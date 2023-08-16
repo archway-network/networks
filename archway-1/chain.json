@@ -87,6 +87,11 @@
         "provider": "kjnodes"
       },
       {
+        "id": "6471ac9ff8474373e8055d45b6246fd8c5204890",
+        "address": "archway.seed.mzonder.com:10756",
+        "provider": "MZONDER"
+      },
+      {
         "id": "b6c1198fa025ce24d26d90527c5d2b71f9399756",
         "address": "seed-node.mms.team:34656",
         "provider": "MMS"
@@ -152,6 +157,10 @@
         "provider": "openbitlab"
       },
       {
+        "address": "https://rpc-archway.mzonder.com",
+        "provider": "MZONDER"
+      },
+      {
         "address": "https://rpc-archway.mms.team",
         "provider": "MMS"
       }
@@ -214,6 +223,10 @@
         "provider": "openbitlab"
       },
       {
+        "address": "https://api-archway.mzonder.com",
+        "provider": "MZONDER"
+      },
+      {
         "address": "https://api-archway.mms.team",
         "provider": "MMS"
       }
@@ -254,6 +267,10 @@
       {
         "address": "archway-grpc.openbitlab.com:443",
         "provider": "openbitlab"
+      },
+      {
+        "address": "grpc-archway.mzonder.com:443",
+        "provider": "MZONDER"
       },
       {
         "address": "https://grpc-archway.mms.team:443",
