@@ -214,7 +214,7 @@
         "provider": "openbitlab"
       },
       {
-        "address": "https://api-archway.mainnet.validatrium.club",
+        "address": "grpc-archway.mainnet.validatrium.club:27490",
         "provider": "Validatrium"
       }
     ],
@@ -256,7 +256,7 @@
         "provider": "openbitlab"
       },
       {
-        "address": "https://grpc-archway.mainnet.validatrium.club",
+        "address": "135.181.58.28:27490",
         "provider": "Validatrium"
       }
     ]
