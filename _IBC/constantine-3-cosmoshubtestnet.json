@@ -2,22 +2,22 @@
   "$schema": "../ibc_data_schema.json",
   "chain_1": {
     "chain_name": "constantine-3",
-    "client_id": "07-tendermint-7",
-    "connection_id": "connection-7"
+    "client_id": "07-tendermint-68",
+    "connection_id": "connection-58"
   },
   "chain_2": {
     "chain_name": "theta-testnet-001",
-    "client_id": "07-tendermint-2065",
-    "connection_id": "connection-2408"
+    "client_id": "07-tendermint-2369",
+    "connection_id": "connection-2710"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-7",
+        "channel_id": "channel-48",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-2748",
+        "channel_id": "channel-3125",
         "port_id": "transfer"
       },
       "ordering": "unordered",
