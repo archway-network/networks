@@ -3,21 +3,21 @@
   "chain_1": {
     "chain_name": "constantine-3",
     "client_id": "07-tendermint-68",
-    "connection_id": "connection-58"
+    "connection_id": "connection-71"
   },
   "chain_2": {
     "chain_name": "theta-testnet-001",
-    "client_id": "07-tendermint-2369",
-    "connection_id": "connection-2710"
+    "client_id": "07-tendermint-2393",
+    "connection_id": "connection-2754"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-48",
+        "channel_id": "channel-54",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-3125",
+        "channel_id": "channel-3166",
         "port_id": "transfer"
       },
       "ordering": "unordered",
