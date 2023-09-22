@@ -42,7 +42,7 @@ Philabs (on behalf of Archway foundation) is building monitoring tools e.g. [rel
 
 ## Feegrants Program
 
-All relayers operating IBC paths connecting to Archway mainnet are eligible for a feegrant to pay for IBC transfers fees on Archway network.
+All relayers operating IBC paths connecting to Archway mainnet are eligible for a feegrant to pay for IBC transaction fees on Archway network.
 
 ### Feegrant selection criteria:
 
