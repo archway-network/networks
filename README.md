@@ -1,6 +1,6 @@
 # Archway Netowrks
 
-This repo contains a registry of Archway protocol based networks, IBC connections to these networks. A chain.json contains data that makes it easy to start running or interacting with a node.
+This repo contains a registry of Archway protocol based networks, IBC connections to these networks.
 
 Schema files containing the recommended metadata structure can be found in the *.schema.json files located in the root directory. Schemas are still undergoing revision as user needs are surfaced. Optional fields may be added beyond what is contained in the schema files.
 
@@ -12,10 +12,6 @@ If you are a relayer operator and wish to add a new IBC path connecting to Archw
 
 - Archway client's trusting period should be set to 2/3 of unbonding period e.g. for archway-1 (mainnet) the clients trusting period must be 1209600s
 - IBC client for the counterparty chain should also have a trusting period set to exactly 2/3 of the chains unbonding period
-
-### Requirements for Relayers
-
-- Must have a local fullnode
 
 ### Steps to create new IBC paths
 
