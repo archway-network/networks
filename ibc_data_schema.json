@@ -98,10 +98,6 @@
             "type": "object",
             "$ref": "#/$defs/operator_info"
           },
-          "description": {
-            "type": "string",
-            "description": "Relayer addresses and metadata."
-          },
           "memo": {
             "type": "string",
             "description": "Relayer memo included in transactions"
