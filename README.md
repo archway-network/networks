@@ -16,7 +16,6 @@ If you are a relayer operator and wish to add a new IBC path connecting to Archw
 ### Steps to create new IBC paths
 
 We recommend using hermes relayer implementation and use this [tutorial](https://hermes.informal.systems/tutorials/local-chains/add-a-new-relay-path.html) to create new paths.
-  - [ ] External relayers account balances
 
 ## Requesting a new IBC path
 
@@ -39,6 +38,7 @@ Philabs (on behalf of Archway foundation) is building monitoring tools e.g. [rel
 - [ ] Account balances
   - [x] Philabs operated relayers
   - [x] Foundation feegranter account balance (this account is used to provide feegrants for relayers)
+  - [ ] External relayers account balances
 
 ## Feegrants Program
 
