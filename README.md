@@ -24,7 +24,7 @@ If you are a builder on the Archway protocol and/or looking to connect Archway N
 - Join [Arcway Discord](https://discord.gg/5FVvx3WGfa)
 - Use "@Mainnet Validator" or "@Relayer" tag on discord to request a new relay path from within Archway Network operators and partners
   - Suitable channel for such requests: "build-together"
-  - You may use "Community Mods" discord tag for Archway community moderators and/or "DevRel" discord tag for Philabs developer relations team, to ask for help in your search of finding a new relayer partner
+  - You may use the "@Community Mods" discord tag for Archway community moderators and/or the "@DevRel" discord tag for Philabs developer relations team, to ask for help in your search of finding a new relayer partner
 - Each relayer connecting the cosmos to Archway networks is eligible for a feegrant to pay for IBC transfer on Archway mainnet. Please check [feegrants program](#feegrants-program) below for more details
 
 ## Monitoring IBC paths
