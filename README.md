@@ -53,6 +53,7 @@ All relayers operating IBC paths connecting to Archway mainnet are eligible for 
 - Feegrants programs aims to have availablity of maximum 2 to 3 relayers on each published path
 - Relayer must have local full nodes available for both connecting chains
 - Relayer must publish its metadata and signer addresses for both connecting chains. Please use [ibc_data_schema.json](../ibc_data.schema.json) for schema reference.
+- Relayer must update the [Active Feegrants](#active-feegrants) below.
 
 
 ### Active Feegrants
