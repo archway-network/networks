@@ -32,9 +32,10 @@ If you are builder on Archway protocol and/or looking to connect Archway Network
 Philabs (on behalf of Archway foundation) is building monitoring tools e.g. [relayer_exporter](https://github.com/archway-network/relayer_exporter) and also leveraging existing tools like [chainpulse](https://github.com/informalsystems/chainpulse). These monitoring tools will be used to monitor relayers and IBC paths published on this repo for the following metrics
 
 - [x] Client Expiry
-- [ ] Total IBC packets transmitted
+- [x] Total IBC packets transmitted
 - [ ] Fee paid per packet transmitted
 - [ ] Redundant packets transmitted
+- [ ] Stuck packets
 - [ ] Account balances
   - [x] Philabs operated relayers
   - [x] Foundation feegranter account balance (this account is used to provide feegrants for relayers)
@@ -47,6 +48,7 @@ All relayers operating IBC paths connecting to Archway mainnet are eligible for 
 ### Feegrant selection criteria:
 
 - Feegrants programs aims to have availablity of maximum 2 to 3 relayers on each published path
+- Feegrants will be reviewed based relayer performance
 - Relayer must have local full nodes available for both connecting chains
 - Relayer must publish its metadata and signer addresses for both connecting chains. Please use [ibc_data_schema.json](../ibc_data.schema.json) for schema reference.
 - Relayer must update the [Active Feegrants](#active-feegrants) below.
