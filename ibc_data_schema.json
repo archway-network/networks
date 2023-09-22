@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$schema": "https://json-schema.org/draft-07/schema",
   "type": "object",
   "required": [
     "chain_1",
@@ -80,7 +80,39 @@
         },
         "additionalProperties": false
       }
-    }
+    },
+    "operators": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "chain_1",
+          "chain_2"
+        ],
+        "properties": {
+          "chain_1": {
+            "type": "object",
+            "$ref": "#/$defs/operator_info"
+          },
+          "chain_2": {
+            "type": "object",
+            "$ref": "#/$defs/operator_info"
+          },
+          "memo": {
+            "type": "string",
+            "description": "Relayer memo included in transactions"
+          },
+          "name": {
+            "type": "string",
+            "description": "Relayer name"
+          },
+          "discord_handle": {
+            "type": "string",
+            "description": "Relayer discord handle"
+          }
+        }
+      }
+    }   
   },
   "additionalProperties": false,
   "$defs": {
@@ -124,6 +156,18 @@
         }
       },
       "additionalProperties": false
+    },
+    "operator_info": {
+      "type": "object",
+      "required": [
+        "address"
+      ],
+      "properties": {
+        "address": {
+          "type": "string",
+          "description": "The signer address of the relayer operator"
+        }
+      }
     }
   }
 }
