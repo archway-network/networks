@@ -19,7 +19,7 @@ We recommend using hermes relayer implementation and use this [tutorial](https:/
 
 ## Requesting a new IBC path
 
-If you are builder on Archway protocol and/or looking to connect Archway Networks to another chain through IBC, but do have the expertise or the capacity to operate relayers, you can request the desired IBC relayer from archway community:
+If you are a builder on the Archway protocol and/or looking to connect Archway Networks to another chain through IBC, but do not have the expertise or the capacity to operate relayers, you can request the desired IBC relayer from archway community:
 
 - Join [Arcway Discord](https://discord.gg/5FVvx3WGfa)
 - Use "Mainnet Validators" or "Relayers" tag on discord to request a new relay path from within Archway Network operators and partners
