@@ -1,4 +1,4 @@
-# Archway Netowrks
+# Archway Networks
 
 This repo contains a registry of Archway protocol based networks, IBC connections to these networks.
 
@@ -11,7 +11,7 @@ If you are a relayer operator and wish to add a new IBC path connecting to Archw
 ### Requirements for the IBC channel
 
 - Archway client's trusting period should be set to 2/3 of unbonding period e.g. for archway-1 (mainnet) the clients trusting period must be 1209600s
-- IBC client for the counterparty chain should also have a trusting period set to exactly 2/3 of the chains unbonding period
+- IBC client for the counter-party chain should also have a trusting period set to exactly 2/3 of the chains unbonding period
 
 ### Steps to create new IBC paths
 
@@ -47,7 +47,7 @@ All relayers operating IBC paths connecting to Archway mainnet are eligible for 
 
 ### Feegrant selection criteria:
 
-- Feegrants programs aims to have availablity of maximum 2 to 3 relayers on each published path
+- Feegrants programs aims to have availability of maximum 2 to 3 relayers on each published path
 - Feegrants will be reviewed based relayer performance and renewed periodically
 - Relayer must have local full nodes available for both connecting chains
 - Relayer must publish its metadata and signer addresses for both connecting chains. Please use [ibc_data_schema.json](../ibc_data.schema.json) for schema reference.
