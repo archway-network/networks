@@ -26,5 +26,18 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0" 
+      },
+      "chain_2": {
+        "address": "axelar1e7k29yvxqmgrekznv9537gdtfxkqt69q7khktj"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord_handle": "mzonder"
+    }
   ]
 }
