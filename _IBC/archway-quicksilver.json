@@ -1,0 +1,43 @@
+{
+  "$schema": "../ibc_data_schema.json",
+  "chain_1": {
+    "chain_name": "archway-1",
+    "client_id": "07-tendermint-36",
+    "connection_id": "connection-39"
+  },
+  "chain_2": {
+    "chain_name": "quicksilver-2",
+    "client_id": "07-tendermint-83",
+    "connection_id": "connection-58"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-34",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-116",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1cx82d7pm4dgffy7a93rl6ul5g84vjgxkjd68em" 
+      },
+      "chain_2": {
+        "address": "quick1ln3l6waaqdjcskt3ztzqlzkpvmzp7zw4aq653n"
+      },
+      "memo": "Relayed by Architect Nodes! ",
+      "name": "Architect Nodes",
+      "discord_handle": "architectnodes"
+    }
+  ]
+}
