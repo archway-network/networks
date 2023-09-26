@@ -45,32 +45,17 @@ Philabs (on behalf of Archway foundation) is building monitoring tools e.g. [rel
 
 All relayers operating IBC paths connecting to Archway mainnet are eligible for a feegrant to pay for IBC transaction fees on Archway network.
 
-### Feegrant selection criteria:
+To enable feegrants for your relayere use the following fee granter address and configuration docs for your relayer:
+
+Archway fee granter address: `archway1ktka5q3cnsy3ar7qwj2huzz6qj9q4ys7h74l9y`
+
+### Feegrant selection criteria
 
 - Feegrants programs aims to have availability of maximum 2 to 3 relayers on each published path
 - Feegrants will be reviewed based relayer performance and renewed periodically
 - Relayer must have local full nodes available for both connecting chains
 - Relayer must publish its metadata and signer addresses for both connecting chains. Please use [ibc_data_schema.json](../ibc_data.schema.json) for schema reference.
-- Relayer must update the [Active Feegrants](#active-feegrants) below.
 
+### Active feegrants
 
-### Active Feegrants
-
-|                                            | Osmosis | Cosmoshub | Axelar | Umee | Jackal | Kujira | Juno | Agoric | Ojo | Noble | Nois |
-| ------------------------------------------ | ------- | --------- | ------ | ---- | ------ | ------ | ---- | ------ | --- | ----- | ---- |
-| Phi Labs                                   | ✓       | ✓         | ✓      |      |        |        |      |        |     |       |      |
-| MZONDER                                    | ✓       | ✓         | ✓      | ✓    |        |        |      |        |     |       |      |
-| Crosnest                                   | ✓       | ✓         | ✓      |      |        |        |      |        |     |       |      |
-| Nodes.Guru                                 | ✓       |           | ✓      |      |        |        |      |        |     |       |      |
-| AM Solutions                               |         |           |        | ✓    | ✓      | ✓      |      |        |     |       |      |
-| NodeStake                                  |         |           |        |      | ✓      |        |      |        |     |       |      |
-| Gelotto                                    |         |           |        |      |        |        | ✓    |        |     |       | ✓    |
-| Lavender.Five Nodes                        |         |           |        |      |        |        |      | ✓      |     |       |      |
-| kjnodes                                    |         |           |        | ✓    |        | ✓      |      | ✓      |     |       |      |
-| DSRV                                       |         |           |        | ✓    |        |        |      |        |     |       |      |
-| B-Harvest                                  |         |           |        |      |        |        |      |        |     | ✓     |      |
-| Validatrium                                |         |           |        |      |        |        | ✓    |        |     |       |      |
-| Architect Nodes                            |         |           |        |      |        |        |      |        |     |       | ✓    |
-| DSRV                                       |         |           |        |      |        |        |      |        |     | ✓     |      |
-| Ojo                                        |         |           |        |      |        |        |      |        | ✓   |       |      |
-| \# of Relayers                             | 4       | 3         | 4      | 4    | 2      | 2      | 2    | 2      | 1   | 2     | 2    |
+All operators published under [_IBC](./_IBC/) have active feegrants e.g. to see active feegrants for `archway <> osmosis` path are under `operator` section of [archway-osmosis.json](./_IBC/archway-osmosis.json)
