@@ -45,7 +45,7 @@ Philabs (on behalf of Archway foundation) is building monitoring tools e.g. [rel
 
 All relayers operating IBC paths connecting to Archway mainnet are eligible for a feegrant to pay for IBC transaction fees on Archway network.
 
-To enable feegrants for your relayere use the following fee granter address and configuration docs for your relayer:
+To enable feegrants for your relayer use the following fee granter address and configuration docs for your relayer:
 
 Archway fee granter address: `archway1ktka5q3cnsy3ar7qwj2huzz6qj9q4ys7h74l9y`
 
