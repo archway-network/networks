@@ -49,6 +49,17 @@
       "memo": "lesnik_utsa (UTSA relayer)",
       "name": "lesnik | UTSA",
       "discord_handle": "lesnik_utsa"
+    },
+    {
+      "chain_1": {
+        "address": "archway1vfsly37szfmaukxy2gfqlt4cq82lwvfhh657u4" 
+      },
+      "chain_2": {
+        "address": "quick19x3p4n600sgglqfudtnmdqmeanpce9npwv8mxf"
+      },
+      "memo": "Relayed with love by openbitlab",
+      "name": "openbitlab",
+      "discord_handle": "openbitlab"
     }
   ]
 }
