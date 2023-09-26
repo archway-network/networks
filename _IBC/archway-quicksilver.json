@@ -38,6 +38,17 @@
       "memo": "Relayed by Architect Nodes! ",
       "name": "Architect Nodes",
       "discord_handle": "architectnodes"
+    },
+    {
+      "chain_1": {
+        "address": "archway1k670rkzc45xmdgywe4vxwheslk3kxm3h7gqk7f" 
+      },
+      "chain_2": {
+        "address": "quick1k670rkzc45xmdgywe4vxwheslk3kxm3hq8vqdv"
+      },
+      "memo": "lesnik_utsa (UTSA relayer)",
+      "name": "lesnik | UTSA",
+      "discord_handle": "lesnik_utsa"
     }
   ]
 }
