@@ -38,6 +38,17 @@
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
       "discord_handle": "kjnodes"
+    },
+    {
+      "chain_1": {
+        "address": "archway1wmzvyml04pzza6ddr0tvxga64q5q55z0mrg5gx"
+      },
+      "chain_2": {
+        "address": "bcna1q9rerlkmrd9y9yty4ch3pd005u4w6gn75deskf"
+      },
+      "memo": "Relayed by L0vd.com",
+      "name": "L0vd.com",
+      "discord_handle": "jango_l0vd"
     }
   ]
 }
