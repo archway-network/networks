@@ -49,6 +49,17 @@
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
       "discord_handle": "kjnodes"
+    },
+        {
+      "chain_1": {
+        "address": "archway16l5ls4ajah6hethh374tpgn42r5q4sqeuw8udj"
+      },
+      "chain_2": {
+        "address": "umee1m2kv586nc7e2e6t6lfqjqsstp967wjc56s5ljv"
+      },
+      "memo": "by AM Solutions | https://www.theamsolutions.info",
+      "name": "AM Solutions",
+      "discord_handle": "AlexeyM#5409"
     }
   ]
 }
