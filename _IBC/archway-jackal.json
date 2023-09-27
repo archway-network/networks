@@ -26,5 +26,18 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway16l5ls4ajah6hethh374tpgn42r5q4sqeuw8udj"
+      },
+      "chain_2": {
+        "address": "jkl134a4es94hjqqej732cymf0w3988zh3c4yuqtf8"
+      },
+      "memo": "by AM Solutions | https://www.theamsolutions.info",
+      "name": "AM Solutions",
+      "discord_handle": "AlexeyM#5409"
+    }
   ]
 }
