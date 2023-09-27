@@ -38,6 +38,17 @@
       "memo": "mzonder",
       "name": "mzonder",
       "discord_handle": "mzonder"
+    },
+    {
+      "chain_1": {
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce" 
+      },
+      "chain_2": {
+        "address": "osmo18p5jxxtsgdcn2un0jarase89a2cgtetyqeg5yu"
+      },
+      "memo": "Nodes.Guru | https://stake.nodes.guru",
+      "name": "Nodes.Guru",
+      "discord_handle": "0xan_nodes_guru"
     }
   ]
 }
