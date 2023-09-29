@@ -1,12 +1,12 @@
 {
   "$schema": "../ibc_data_schema.json",
   "chain_1": {
-    "chain_name": "constantine-3",
+    "chain_name": "archwaytestnet",
     "client_id": "07-tendermint-69",
     "connection_id": "connection-59"
   },
   "chain_2": {
-    "chain_name": "osmo-test-5",
+    "chain_name": "osmosistestnet",
     "client_id": "07-tendermint-983",
     "connection_id": "connection-877"
   },

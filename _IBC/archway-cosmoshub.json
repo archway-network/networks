@@ -1,12 +1,12 @@
 {
   "$schema": "../ibc_data_schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-0",
     "connection_id": "connection-0"
   },
   "chain_2": {
-    "chain_name": "cosmoshub-4",
+    "chain_name": "cosmoshub",
     "client_id": "07-tendermint-1152",
     "connection_id": "connection-873"
   },
@@ -30,7 +30,7 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0" 
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
       },
       "chain_2": {
         "address": "cosmos1nusnne6zlx3ymfdzcllsdsepu7wctxrpfamg4v"

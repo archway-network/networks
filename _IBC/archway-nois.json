@@ -1,12 +1,12 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-22",
     "connection_id": "connection-20"
   },
   "chain_2": {
-    "chain_name": "nois-1",
+    "chain_name": "nois",
     "client_id": "07-tendermint-15",
     "connection_id": "connection-9"
   },
@@ -40,6 +40,6 @@
       "tags": {
         "status": "live"
       }
-    }  
+    }
   ]
 }
