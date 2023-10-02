@@ -1,12 +1,12 @@
 {
   "$schema": "../ibc_data_schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-2",
     "connection_id": "connection-1"
   },
   "chain_2": {
-    "chain_name": "osmosis-1",
+    "chain_name": "osmosis",
     "client_id": "07-tendermint-2850",
     "connection_id": "connection-2362"
   },
@@ -30,7 +30,7 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0" 
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
       },
       "chain_2": {
         "address": "osmo10f8g9ahz3nnt2h8ceyrw30suzpc2sc0x95tyg9"
@@ -41,7 +41,7 @@
     },
     {
       "chain_1": {
-        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce" 
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
       },
       "chain_2": {
         "address": "osmo18p5jxxtsgdcn2un0jarase89a2cgtetyqeg5yu"

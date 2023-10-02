@@ -1,12 +1,12 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-16",
     "connection_id": "connection-17"
   },
   "chain_2": {
-    "chain_name": "axelar-dojo-1",
+    "chain_name": "axelar",
     "client_id": "07-tendermint-160",
     "connection_id": "connection-145"
   },
@@ -30,7 +30,7 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0" 
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
       },
       "chain_2": {
         "address": "axelar1e7k29yvxqmgrekznv9537gdtfxkqt69q7khktj"
@@ -41,7 +41,7 @@
     },
     {
       "chain_1": {
-        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce" 
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
       },
       "chain_2": {
         "address": "axelar18p5jxxtsgdcn2un0jarase89a2cgtetyvvdve0"
