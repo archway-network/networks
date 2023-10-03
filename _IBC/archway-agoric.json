@@ -38,6 +38,17 @@
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
       "discord_handle": "kjnodes"
+    },
+    {
+      "chain_1": {
+        "address": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+      },
+      "chain_2": {
+        "address": "agoric18dswkgr8xlw3jjpunzsxqm5z9u5v8m70wwvep5"
+      },
+      "memo": "Relayed by Lavender.Five",
+      "name": "Lavender.Five Nodes",
+      "discord_handle": "dylanschultzie"
     }
   ]
 }
