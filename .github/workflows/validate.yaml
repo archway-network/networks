@@ -1,9 +1,9 @@
 name: Validate Gentx
-on:
-  push:
-  pull_request:
-    branches:
-      - main
+# on:
+#   push:
+#   pull_request:
+#     branches:
+#       - main
 jobs:
   changes:
     runs-on: ubuntu-20.04
