@@ -38,6 +38,17 @@
       "memo": "mzonder",
       "name": "mzonder",
       "discord_handle": "mzonder"
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "cosmos10y870un4j8ud4z593pf0rhgvyj6etzuxkmavv9"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord_handle": "sw33pronodes"
     }
   ]
 }
