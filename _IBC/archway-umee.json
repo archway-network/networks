@@ -60,6 +60,17 @@
       "memo": "by AM Solutions | https://www.theamsolutions.info",
       "name": "AM Solutions",
       "discord_handle": "AlexeyM#5409"
+    },
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "umee1nts9ckkhj226kxrmal40ak24hytczplhmaz2yu"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord_handle": "meetrick"
     }
   ]
 }
