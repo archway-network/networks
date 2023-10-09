@@ -1,0 +1,59 @@
+---
+name: Validate JSON
+on:
+  pull_request:
+    branches:
+      - main
+
+concurrency: ci-${{ github.ref }}
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      changes: ${{ steps.filter.outputs.changes }}
+      chain_files: ${{ steps.filter.outputs.chain_files }}
+      assetlist_files: ${{ steps.filter.outputs.assetlist_files }}
+      ibc_files: ${{ steps.filter.outputs.ibc_files }}
+    steps:
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          list-files: shell
+          filters: |
+            chain:
+              - added|modified: '**/chain.json'
+            assetlist:
+              - added|modified: '**/assetlist.json'
+            ibc:
+              - added|modified: '**/_IBC/*.json'
+
+  validation:
+    needs: changes
+    runs-on: ubuntu-latest
+    if: ${{ fromJSON(needs.changes.outputs.changes)[0] != null }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - schema: "chain.schema.json"
+            files: "${{ needs.changes.outputs.chain_files }}"
+            name: chain
+          - schema: "assetlist.schema.json"
+            files: "${{ needs.changes.outputs.assetlist_files }}"
+            name: assetlist
+          - schema: "ibc_data.schema.json"
+            files: "${{ needs.changes.outputs.ibc_files }}"
+            name: IBC
+    steps:
+      - name: Checkout
+        if: ${{ matrix.files != null }}
+        uses: actions/checkout@v4
+
+      - name: Install check-jsonschema
+        if: ${{ matrix.files != null }}
+        run: pip install check-jsonschema
+
+      - name: Validate ${{ matrix.name }} JSON
+        if: ${{ matrix.files != null }}
+        run: check-jsonschema ${{ matrix.files }} --schemafile ${{ matrix.schema }} --color always

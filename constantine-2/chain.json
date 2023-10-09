@@ -1,5 +1,5 @@
 {
-    "$schema": "https://raw.githubusercontent.com/cosmos/chain-registry/master/chain.schema.json",
+    "$schema": "../chain.schema.json",
     "chain_name": "archway",
     "status": "live",
     "network_type": "testnet",
@@ -36,7 +36,10 @@
       "binaries": {
         "linux/amd64": "https://github.com/archway-network/archway/releases/download/v0.3.0/archway_0.3.0_linux_amd64.tar.gz"      },
       "cosmos_sdk_version": "v0.45.14",
-      "tendermint_version": "v0.34.26",
+      "consensus": {
+        "type": "tendermint",
+        "version": "v0.34.26"
+      },
       "cosmwasm_version": "v0.29.2-archway",
       "cosmwasm_enabled": true,
       "ibc_go_version": "v3.3.0",
@@ -74,7 +77,7 @@
           "id": "67cbe1ad9d1fe96466837543cdc39e549a3ee6d7",
           "address": "34.122.137.98:26656",
           "provider": "Archway Foundation"
-        },
+        }
       ]
     },
     "apis": {
@@ -106,4 +109,3 @@
       }
     ]
   }
-  
