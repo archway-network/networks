@@ -34,8 +34,8 @@ echo "$MNEMONIC" | archwayd keys add mainnet-relayer-archway --keyring-backend t
 # Get all operators and if it's null exit with error
 OPERATORS=$(get_operators)
 if [[ "$OPERATORS" == "null" ]]; then
-  echo "Error: Could not find any operators" >&2
-  exit 1
+  echo "Could not find any operators" >&2
+  exit 0
 fi
 
 # Checks every operator address if it can find active feegrant
