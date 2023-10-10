@@ -53,4 +53,3 @@ for operator in $OPERATORS; do
 done
 
 echo "Done" >&2
-exit 0
