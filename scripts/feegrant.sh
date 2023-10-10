@@ -46,7 +46,7 @@ for operator in $OPERATORS; do
   if [[ -z "$GRANT" ]]; then
     exit 1
   fi
-  if [[ "$GRANT" -le 0 ]]; then
+  if [[ "$GRANT" -eq 0 ]]; then
     echo "Did not find fee grant for ${operator}" >&2
     create_grant
   fi
