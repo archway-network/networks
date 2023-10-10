@@ -42,7 +42,7 @@ fi
 # if $GRANT length less or equal to 0, create the fee grant
 for operator in $OPERATORS; do
   echo "Checking operator ${operator}" >&2
-  GRANT=$(archwayd q feegrant grants-by-grantee "$operator" --node https://rpc.mainnet.archway.io:443 -o json |jq '.allowances | length' )
+  GRANT=$(archwayd q feegrant grants-by-grantee "$operator" --node "$NODE_URL" -o json |jq '.allowances | length' )
   if [[ -z "$GRANT" ]]; then
     exit 1
   fi
