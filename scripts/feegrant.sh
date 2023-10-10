@@ -6,7 +6,7 @@ set -eu
 DATE=$(date -d@"$((`date +%s`+2592000))" +"%Y-%m-%dT08:10:00Z")
 CHAIN_ID="archway-1"
 NODE_URL="https://rpc.mainnet.archway.io:443"
-ALLOWED_MESSAGES="/ibc.core.channel.v1.MsgTimeout,/ibc.core.client.v1.MsgUpdateClient,/ibc.core.channel.v1.MsgAcknowledgement,/ibc.core.channel.v1.MsgRecvPacket,/ibc.applications.transfer.v1.MsgTransfer"
+ALLOWED_MESSAGES="/ibc.core.client.v1.MsgCreateClient,/ibc.core.client.v1.MsgUpdateClient,/ibc.core.client.v1.MsgUpgradeClient,/ibc.core.client.v1.MsgSubmitMisbehaviour,/ibc.core.client.v1.MsgRecoverClient,/ibc.core.client.v1.MsgIBCSoftwareUpgrade,/ibc.core.client.v1.MsgUpdateClientParams,/ibc.core.connection.v1.MsgConnectionOpenInit,/ibc.core.connection.v1.MsgConnectionOpenTry,/ibc.core.connection.v1.MsgConnectionOpenAck,/ibc.core.connection.v1.MsgConnectionOpenConfirm,/ibc.core.connection.v1.MsgUpdateConnectionParams,/ibc.core.channel.v1.MsgChannelOpenInit,/ibc.core.channel.v1.MsgChannelOpenTry,/ibc.core.channel.v1.MsgChannelOpenAck,/ibc.core.channel.v1.MsgChannelOpenConfirm,/ibc.core.channel.v1.MsgChannelCloseInit,/ibc.core.channel.v1.MsgChannelCloseConfirm,/ibc.core.channel.v1.MsgRecvPacket,/ibc.core.channel.v1.MsgTimeout,/ibc.core.channel.v1.MsgTimeoutOnClose,/ibc.core.channel.v1.MsgAcknowledgement,/ibc.applications.transfer.v1.MsgTransfer,/ibc.applications.transfer.v1.MsgUpdateParams"
 GRANT_AMOUNT="1000"
 
 DATA=$(cat "$1")
