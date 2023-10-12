@@ -9,12 +9,18 @@ TIMEOUT=${TIMEOUT:-5}
 
 is_synced() {
     local block_time=$1
+
     if [[ -z $block_time ]]; then
         echo "Error: Block time for endpoint is empty" >&2
         exit 1
     fi
 
-    diff=$(jq '(now - (.time | split(".")[0] + "Z" | fromdate)) | trunc' <<< $block_time)
+    if [[ $block_time = "null" ]]; then
+        echo "Error: Block time for endpoint is null" >&2
+        exit 1
+    fi
+
+    diff=$(echo "{\"time\": $block_time}" | jq '(now - (.time | split(".")[0] + "Z" | fromdate)) | trunc')
     echo "Latest block is from $diff seconds ago" >&2
     if [[ $diff -gt $THRESHOLD ]]; then
         echo "Error: Endpoint is not synced" >&2
@@ -25,24 +31,24 @@ is_synced() {
 check_rpc() {
     local endpoint=$1
     echo "Checking RPC endpoint $endpoint" >&2
-    block_time=$(curl -f -s -S --max-time $TIMEOUT $endpoint/status | jq '{time: .result.sync_info.latest_block_time}')
+    block_time=$(curl -f -s -S --connect-timeout $TIMEOUT --max-time $TIMEOUT $endpoint/status | jq '.result.sync_info.latest_block_time')
     is_synced "$block_time"
 }
 
 check_rest() {
     local endpoint=$1
     echo "Checking REST endpoint $endpoint" >&2
-    block_time=$(curl -f -s -S --max-time $TIMEOUT $endpoint/blocks/latest | jq '{time: .block.header.time}')
+    block_time=$(curl -f -s -S --connect-timeout $TIMEOUT --max-time $TIMEOUT $endpoint/blocks/latest | jq '.block.header.time')
     is_synced "$block_time"
 }
 
 check_grpc() {
     local endpoint=$1
     local service="cosmos.base.tendermint.v1beta1.Service/GetLatestBlock"
-    local cmd="grpcurl --max-time $TIMEOUT $endpoint $service"
-    local cmd_plain="grpcurl --plaintext --max-time $TIMEOUT $endpoint $service"
+    local cmd="grpcurl --connect-timeout $TIMEOUT --max-time $TIMEOUT $endpoint $service"
+    local cmd_plain="grpcurl --plaintext --connect-timeout $TIMEOUT --max-time $TIMEOUT $endpoint $service"
     echo "Checking gRPC endpoint $1" >&2
-    block_time=$($cmd | jq '{time: .block.header.time}' || $cmd_plain | jq '{time: .block.header.time}')
+    block_time=$($cmd | jq '.block.header.time' || $cmd_plain | jq '.block.header.time')
     is_synced "$block_time"
 }
 
