@@ -19,18 +19,13 @@ jobs:
           list-files: shell
           filters: |
             ibc:
-              - added|modified: '_IBC/*.json'
+              - added|modified: '**/_IBC/*.json'
   Validation:
     needs: changes
     runs-on: ubuntu-latest
     if: ${{ needs.changes.outputs.paths != null }}
     steps:
       - uses: actions/checkout@v4
-        with:
-          sparse-checkout: |
-            .github
-            _IBC
-            scripts
       - name: Install rly
         uses: jaxxstorm/action-install-gh-release@v1
         with:
