@@ -49,6 +49,17 @@
       "memo": "Relayed with 💜 by Lavender.Five Nodes 🐝",
       "name": "Lavender.Five Nodes",
       "discord_handle": "dylanschultzie"
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "gravity1z8zdu7fu58qsmzpydmmrlf8wrma6nnepwe9y7y"
+      },
+      "memo": "Relayed by Pro-Nodes75",
+      "name": "Pro-Nodes75",
+      "discord_handle": "sw33pronodes"
     }
   ]
 }
