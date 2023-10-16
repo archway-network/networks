@@ -1,0 +1,45 @@
+---
+name: Create New Fee Grant
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  changes:
+    runs-on: ubuntu-20.04
+    outputs:
+      paths: ${{ steps.filter.outputs.ibc_files }}
+    steps:
+      - uses: actions/checkout@v3
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          list-files: shell
+          filters: |
+            ibc:
+              - added|modified: '_IBC/*.json'
+  CreateFeeGrant:
+    needs: changes
+    runs-on: ubuntu-20.04
+    if: ${{ needs.changes.outputs.paths != null }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            .github
+            _IBC
+            scripts
+      - name: Install Archwayd
+        uses: jaxxstorm/action-install-gh-release@v1
+        with:
+          repo: archway-network/archway
+          tag: v4.0.2
+      - name: Create the fee grant
+        env:
+          MNEMONIC: ${{ secrets.FEEGRANT }}
+        run: |
+          paths=(${{ needs.changes.outputs.paths }})
+          for path in "${paths[@]}"; do
+              scripts/feegrant.sh $path
+          done
