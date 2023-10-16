@@ -71,6 +71,17 @@
       "memo": "Relayed by DSRV",
       "name": "DSRV",
       "discord_handle": "meetrick"
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "umee14ym67y5zwq6qzkek9rlh58zugqrp6hhj8q3qc5"
+      },
+      "memo": "Relayed by Pro-Nodes75",
+      "name": "Pro-Nodes75",
+      "discord_handle": "sw33pronodes"
     }
   ]
 }
