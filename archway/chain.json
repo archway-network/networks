@@ -98,6 +98,11 @@
         "id": "bd9332cd0a99f5830ea457a32a56b32790f68716",
         "address": "135.181.58.28:27456",
         "provider": "Validatrium"
+      },
+      {
+        "id": "86bd5cb6e762f673f1706e5889e039d5406b4b90",
+        "address": "archway.seed.node75.org:10256",
+        "provider": "Pro-Nodes75"
       }
     ]
   },
