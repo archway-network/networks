@@ -98,6 +98,11 @@
         "id": "bd9332cd0a99f5830ea457a32a56b32790f68716",
         "address": "135.181.58.28:27456",
         "provider": "Validatrium"
+      },
+      {
+        "id": "17d6cb2601b67ad916d5433a404bfc000b0b6ef1",
+        "address": "rpc.archway.nodestake.top:666",
+        "provider": "NodeStake"
       }
     ]
   },
