@@ -1,0 +1,65 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-40",
+    "connection_id": "connection-43"
+  },
+  "chain_2": {
+    "chain_name": "gravitybridge",
+    "client_id": "07-tendermint-424",
+    "connection_id": "connection-406"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-38",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-145",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1cx82d7pm4dgffy7a93rl6ul5g84vjgxkjd68em"
+      },
+      "chain_2": {
+        "address": "gravity1cx82d7pm4dgffy7a93rl6ul5g84vjgxkrk5mky"
+      },
+      "memo": "Relayed by Architect Nodes! ",
+      "name": "Architect Nodes",
+      "discord_handle": "architectnodes"
+    },
+    {
+      "chain_1": {
+        "address": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+      },
+      "chain_2": {
+        "address": "gravity18xrruhq5r246mwk0yj9elnn3mte8xa9uy9f4f5"
+      },
+      "memo": "Relayed with 💜 by Lavender.Five Nodes 🐝",
+      "name": "Lavender.Five Nodes",
+      "discord_handle": "dylanschultzie"
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "gravity1z8zdu7fu58qsmzpydmmrlf8wrma6nnepwe9y7y"
+      },
+      "memo": "Relayed by Pro-Nodes75",
+      "name": "Pro-Nodes75",
+      "discord_handle": "sw33pronodes"
+    }
+  ]
+}

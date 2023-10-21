@@ -1,0 +1,45 @@
+---
+name: Validate IBC path
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      paths: ${{ steps.filter.outputs.ibc_files }}
+    steps:
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          list-files: shell
+          filters: |
+            ibc:
+              - added|modified: '**/_IBC/*.json'
+  Validation:
+    needs: changes
+    runs-on: ubuntu-latest
+    if: ${{ needs.changes.outputs.paths != null }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install rly
+        uses: jaxxstorm/action-install-gh-release@v1
+        with:
+          repo: cosmos/relayer
+          tag: v2.4.2
+          binaries-location: Cosmos Relayer_2.4.2_linux_amd64
+      - name: Validate trusting period
+        shell: bash {0}
+        run: |
+          declare -i result=0
+          paths=(${{ needs.changes.outputs.paths }})
+          for path in "${paths[@]}"; do
+              $(scripts/ibc-path-validator.sh $path)
+              result=$(($result+$?))
+          done
+          if [[ "$result" -gt 0 ]]; then
+              echo "Error: Incorrect trusting period for all or some clients" >&2
+              exit 1
+          fi

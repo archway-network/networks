@@ -1,5 +1,5 @@
 {
-  "$schema": "../ibc_data_schema.json",
+  "$schema": "../ibc_data.schema.json",
   "chain_1": {
     "chain_name": "archway",
     "client_id": "07-tendermint-6",
@@ -60,6 +60,28 @@
       "memo": "by AM Solutions | https://www.theamsolutions.info",
       "name": "AM Solutions",
       "discord_handle": "AlexeyM#5409"
+    },
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "umee1nts9ckkhj226kxrmal40ak24hytczplhmaz2yu"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord_handle": "meetrick"
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "umee14ym67y5zwq6qzkek9rlh58zugqrp6hhj8q3qc5"
+      },
+      "memo": "Relayed by Pro-Nodes75",
+      "name": "Pro-Nodes75",
+      "discord_handle": "sw33pronodes"
     }
   ]
 }

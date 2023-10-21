@@ -26,5 +26,29 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1m7m26sr22thnlwwywfyf2tvu9vlqjdtrhxajaa"
+      },
+      "chain_2": {
+        "address": "noble1m7m26sr22thnlwwywfyf2tvu9vlqjdtr2w570y"
+      },
+      "memo": "B-Harvest",
+      "name": "B-Harvest",
+      "discord_handle": "lucas_crescent_bharvest"
+    },    
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "noble1nts9ckkhj226kxrmal40ak24hytczplhpg2acq"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord_handle": "meetrick"
+    }
   ]
 }
