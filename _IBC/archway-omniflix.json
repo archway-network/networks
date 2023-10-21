@@ -38,6 +38,17 @@
       "memo": "Relayed by Architect Nodes! ",
       "name": "Architect Nodes",
       "discord_handle": "architectnodes"
+    },
+     {
+      "chain_1": {
+        "address": "archway1nms20r7jzaa4ms9exv90ckl2xfn0rd3rmqh7zm"
+      },
+      "chain_2": {
+        "address": "omniflix1nms20r7jzaa4ms9exv90ckl2xfn0rd3rn46rlj"
+      },
+      "memo": "Relayed by NodeStake",
+      "name": "NodeStake",
+      "discord_handle": "alan_nodestake"
     }
   ]
 }
