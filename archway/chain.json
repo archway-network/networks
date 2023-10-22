@@ -161,6 +161,10 @@
         "provider": "L0vd.com"
       },
       {
+        "address": "https://rpc-archway-mainnet.testnet-pride.com",
+        "provider": "TestnetPride"
+      },      
+      {
         "address": "https://archway-rpc.openbitlab.com",
         "provider": "openbitlab"
       },
@@ -202,6 +206,10 @@
         "address": "https://api-archway.cryptech.com.ua",
         "provider": "cryptech"
       },
+      {
+        "address": "https://api-archway-mainnet.testnet-pride.com",
+        "provider": "TestnetPride"
+      },      
       {
         "address": "https://api.archway.nodestake.top",
         "provider": "NodeStake"
@@ -272,6 +280,10 @@
         "address": "archway-mainnet.grpc.l0vd.com:80",
         "provider": "L0vd.com"
       },
+      {
+        "address": "grpc-archway-mainnet.testnet-pride.com:9096",
+        "provider": "TestnetPride"
+      },      
       {
         "address": "archway-grpc.openbitlab.com:443",
         "provider": "openbitlab"
