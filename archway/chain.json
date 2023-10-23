@@ -103,6 +103,11 @@
         "id": "17d6cb2601b67ad916d5433a404bfc000b0b6ef1",
         "address": "rpc.archway.nodestake.top:666",
         "provider": "NodeStake"
+      },
+      {
+        "id": "86bd5cb6e762f673f1706e5889e039d5406b4b90",
+        "address": "archway.seed.node75.org:10256",
+        "provider": "Pro-Nodes75"
       }
     ]
   },
