@@ -171,7 +171,11 @@
       {
         "address": "https://rpc-archway.mainnet.validatrium.club",
         "provider": "Validatrium"
-      }
+      },
+      {
+        "address": "https://rpc-archway-mainnet.testnet-pride.com",
+        "provider": "TestnetPride"
+      }      
     ],
     "rest": [
       {
@@ -237,7 +241,11 @@
       {
         "address": "https://api-archway.mainnet.validatrium.club",
         "provider": "Validatrium"
-      }
+      },
+      {
+        "address": "https://api-archway-mainnet.testnet-pride.com",
+        "provider": "TestnetPride"
+      }      
     ],
     "grpc": [
       {
@@ -283,7 +291,11 @@
       {
         "address": "grpc-archway.mainnet.validatrium.club:27490",
         "provider": "Validatrium"
-      }
+      },
+      {
+        "address": "grpc-archway-mainnet.testnet-pride.com:9096",
+        "provider": "TestnetPride"
+      }      
     ]
   },
   "explorers": [
