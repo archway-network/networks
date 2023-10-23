@@ -28,7 +28,11 @@ function create_grant() {
 }
 
 # Authenticate
-echo "$MNEMONIC" | archwayd keys add mainnet-relayer-archway --keyring-backend test --recover
+KEY=$(archwayd keys list --output json --keyring-backend test |jq -r '.[] | select(.name=="mainnet-relayer-archway")' )
+if [[ -z "$KEY" ]]; then
+  echo "Could not find mainnet-relayer-archway key, adding it" >&2
+  echo "$MNEMONIC" | archwayd keys add mainnet-relayer-archway --keyring-backend test --recover
+fi
 
 # Start the check
 # Get all operators and if it's null exit with error
@@ -51,5 +55,3 @@ for operator in $OPERATORS; do
     create_grant
   fi
 done
-
-echo "Done" >&2

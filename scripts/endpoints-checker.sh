@@ -21,6 +21,10 @@ is_synced() {
     fi
 
     diff=$(echo "{\"time\": $block_time}" | jq '(now - (.time | split(".")[0] + "Z" | fromdate)) | trunc')
+    if [[ $? -gt 0 ]]; then
+        exit 1
+    fi
+
     echo "Latest block is from $diff seconds ago" >&2
     if [[ $diff -gt $THRESHOLD ]]; then
         echo "Error: Endpoint is not synced" >&2
