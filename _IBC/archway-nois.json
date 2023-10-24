@@ -41,5 +41,29 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1jct5gn7gpknl0kmqkm3agfwxm2mmtekwk42t3h"
+      },
+      "chain_2": {
+        "address": "nois1jct5gn7gpknl0kmqkm3agfwxm2mmtekwjkt9hc"
+      },
+      "memo": "Relayed by Trivium.Network ▽",
+      "name": "TriviumX | Architech",
+      "discord_handle": "xiphiar"
+    },
+    {
+      "chain_1": {
+        "address": "archway1eqzquzqmnyn8aqd0js5g5lwscp6g4k6tfag98x"
+      },
+      "chain_2": {
+        "address": "nois1eqzquzqmnyn8aqd0js5g5lwscp6g4k6td7ftpf"
+      },
+      "memo": "Relayed by TriviumX",
+      "name": "TriviumX | Architech",
+      "discord_handle": "xiphiar"
+    }
   ]
 }
