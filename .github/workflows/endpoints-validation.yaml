@@ -25,7 +25,7 @@ jobs:
         uses: jaxxstorm/action-install-gh-release@v1
         with:
           repo: fullstorydev/grpcurl
-          tag: v1.8.8
+          tag: v1.8.7
       - name: Validate changed endpoints
         if: ${{ steps.filter.outputs.chain_files != null }}
         shell: bash {0}
