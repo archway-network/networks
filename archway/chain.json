@@ -265,16 +265,8 @@
         "provider": "WhisperNode🤐"
       },
       {
-        "address": "https://rpc.archway.stake-take.com",
-        "provider": "Stake-Take"
-      },
-      {
         "address": "https://archway-rpc.w3coins.io",
         "provider": "w3coins"
-      },
-      {
-        "address": "https://archway-mainnet-rpc.autostake.com:443",
-        "provider": "AutoStake 🛡️ Slash Protected"
       },
       {
         "address": "https://m-archway.rpc.utsa.tech",
@@ -371,10 +363,6 @@
         "provider": "cryptech"
       },
       {
-        "address": "https://archway-mainnet-lcd.autostake.com:443",
-        "provider": "AutoStake 🛡️ Slash Protected"
-      },
-      {
         "address": "https://api.archway.nodestake.top",
         "provider": "NodeStake"
       },
@@ -385,10 +373,6 @@
       {
         "address": "https://lcd-archway.whispernode.com:443",
         "provider": "WhisperNode🤐"
-      },
-      {
-        "address": "https://api.archway.stake-take.com",
-        "provider": "Stake-Take"
       },
       {
         "address": "https://archway-api.lavenderfive.com:443",
@@ -453,16 +437,8 @@
         "provider": "Archway Foundation"
       },
       {
-        "address": "grpc-archway.cosmos-spaces.cloud:2490",
-        "provider": "Cosmos Spaces"
-      },
-      {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
-      },
-      {
-        "address": "archway-grpc.w3coins.io:11590",
-        "provider": "w3coins"
       },
       {
         "address": "archway.grpc.kjnodes.com:15690",
@@ -479,10 +455,6 @@
       {
         "address": "grpc-archway.theamsolutions.info:443",
         "provider": "AM Solutions"
-      },
-      {
-        "address": "archway-mainnet-grpc.autostake.com:443",
-        "provider": "AutoStake 🛡️ Slash Protected"
       },
       {
         "address": "archway-grpc.lavenderfive.com:443",
