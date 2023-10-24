@@ -184,7 +184,11 @@
       {
         "address": "https://rpc-archway-mainnet.testnet-pride.com",
         "provider": "TestnetPride"
-      }      
+      },
+      {
+        "address": "https://archway.api.trivium.network:26657",
+        "provider": "TriviumX | Architech"
+      }
     ],
     "rest": [
       {
@@ -258,7 +262,11 @@
       {
         "address": "https://api-archway-mainnet.testnet-pride.com",
         "provider": "TestnetPride"
-      }      
+      },
+      {
+        "address": "https://archway.api.trivium.network:1317",
+        "provider": "TriviumX | Architech"
+      }   
     ],
     "grpc": [
       {
@@ -312,7 +320,11 @@
       {
         "address": "grpc-archway-mainnet.testnet-pride.com:9096",
         "provider": "TestnetPride"
-      }      
+      },
+      {
+        "address": "archway.api.trivium.network:9090",
+        "provider": "TriviumX | Architech"
+      }     
     ]
   },
   "explorers": [
