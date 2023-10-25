@@ -229,6 +229,10 @@
         "provider": "Cosmos Spaces"
       },
       {
+        "address": "http://archway.rpc.nodersteam.com:26657",
+        "provider": "[NODERS]TEAM"
+      },
+      {
         "address": "https://archway-mainnet-archive.allthatnode.com:26657",
         "provider": "All That Node"
       },
@@ -339,6 +343,10 @@
         "provider": "w3coins"
       },
       {
+        "address": "http://archway.api.nodersteam.com:1317",
+        "provider": "[NODERS]TEAM"
+      },
+      {
         "address": "https://m-archway.api.utsa.tech",
         "provider": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀"
       },
@@ -439,6 +447,10 @@
       {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "archway.grpc.nodersteam.com:9090",
+        "provider": "[NODERS]TEAM"
       },
       {
         "address": "archway.grpc.kjnodes.com:15690",
