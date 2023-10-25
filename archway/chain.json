@@ -331,6 +331,10 @@
       {
         "address": "https://archway.api.trivium.network:26657",
         "provider": "TriviumX | Architech"
+      },
+      {
+        "address": "https://rpc-archway.architectnodes.com",
+        "provider": "Architect Nodes"
       }
     ],
     "rest": [
@@ -437,6 +441,10 @@
       {
         "address": "https://archway-mainnet-archive.allthatnode.com:1317",
         "provider": "All That Node"
+      },
+      {
+        "address": "https://rest-archway.architectnodes.com",
+        "provider": "Architect Nodes"
       }
     ],
     "grpc": [
@@ -515,6 +523,10 @@
       {
         "address": "archway.api.trivium.network:9090",
         "provider": "TriviumX | Architech"
+      },
+      {
+        "address": "grpc-archway.architectnodes.com:1443",
+        "provider": "Architect Nodes"
       } 
     ]
   },
