@@ -1,0 +1,116 @@
+{
+    "$schema": "../chain.schema.json",
+    "chain_name": "archway",
+    "status": "live",
+    "network_type": "devnet",
+    "website": "https://archway.io/",
+    "pretty_name": "Archway",
+    "chain_id": "titus-1",
+    "bech32_prefix": "archway",
+    "daemon_name": "archwayd",
+    "node_home": "$HOME/.archway",
+    "key_algos": [
+      "secp256k1"
+    ],
+    "slip44": 118,
+    "fees": {
+      "fee_tokens": [
+        {
+          "denom": "aarch",
+          "fixed_min_gas_price": 900000000000,
+          "low_gas_price": 1000000000000,
+          "average_gas_price": 1500000000000,
+          "high_gas_price": 2000000000000
+        }
+      ]
+    },
+    "staking": {
+      "staking_tokens": [
+        {
+          "denom": "aarch"
+        }
+      ],
+      "lock_duration": {
+        "time": "7200s"
+      }
+    },
+    "codebase": {
+      "git_repo": "https://github.com/archway-network/archway",
+      "recommended_version": "v4.0.2",
+      "compatible_versions": [
+        "v4.0.2"
+      ],
+      "binaries": {
+        "linux/amd64": "https://github.com/archway-network/archway/releases/download/v4.0.2/archwayd_linux_amd64",
+        "linux/arm64": "https://github.com/archway-network/archway/releases/download/v4.0.2/archwayd_linux_arm64",
+        "darwin/amd64": "https://github.com/archway-network/archway/releases/download/v4.0.2/archwayd_darwin_amd64",
+        "darwin/arm64": "https://github.com/archway-network/archway/releases/download/v4.0.2/archwayd_darwin_arm64"
+      },
+      "cosmos_sdk_version": "v0.45.16",
+      "consensus": {
+        "type": "tendermint",
+        "version": "v0.34.27"
+      },
+      "cosmwasm_version": "v0.33.0",
+      "cosmwasm_enabled": true,
+      "ibc_go_version": "v4.3.1",
+      "genesis": {
+        "genesis_url": "https://github.com/archway-network/networks/raw/main/devnets/archwaydevnet/genesis.json"
+      },
+      "versions": [
+        {
+          "name": "v4.0.2",
+          "recommended_version": "v4.0.2",
+          "compatible_versions": [
+            "v4.0.2"
+          ],
+          "height": 1,
+          "consensus": {
+            "type": "cometbft",
+            "version": "v0.34.27"
+          },
+          "cosmos_sdk_version": "v0.45.16",
+          "cosmwasm_version": "v0.33.0",
+          "cosmwasm_enabled": true,
+          "ibc_go_version": "v4.3.1",
+          "cosmwasm_path": "$HOME/.archway/data/wasm",
+          "binaries": {
+            "linux/amd64": "https://github.com/archway-network/archway/releases/download/v4.0.2/archwayd_linux_amd64",
+            "linux/arm64": "https://github.com/archway-network/archway/releases/download/v4.0.2/archwayd_linux_arm64"
+          },
+          "next_version_name": ""
+        }
+      ]
+    },
+    "peers": {
+      "seeds": [
+        {
+          "id": "f8fd54bda5477660ac1981991a3a332cd4734f62",
+          "address": "34.173.118.210:26656",
+          "provider": "Archway Foundation"
+        }
+      ],
+      "persistent_peers": []
+    },
+    "apis": {
+      "rpc": [
+        {
+          "address": "https://rpc.titus.archway.io",
+          "provider": "Archway Foundation"
+        }
+      ],
+      "rest": [
+        {
+          "address": "https://api.titus.archway.io",
+          "provider": "Archway Foundation"
+        }
+      ],
+      "grpc": [
+        {
+          "address": "grpc.titus.archway.io:443",
+          "provider": "Archway Foundation"
+        }
+      ]
+    },
+    "explorers": []
+  }
