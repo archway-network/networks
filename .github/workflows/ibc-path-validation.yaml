@@ -18,6 +18,7 @@ jobs:
           filters: |
             ibc:
               - added|modified: '**/_IBC/*.json'
+              - '!devnets/_IBC/*.json'
   Validation:
     needs: changes
     runs-on: ubuntu-latest
