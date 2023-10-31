@@ -17,8 +17,7 @@ jobs:
           list-files: shell
           filters: |
             ibc:
-              - '!devnets/_IBC/*.json'
-              - added|modified: '**/_IBC/*.json'
+              - added|modified: '(_IBC|testnets/_IBC)/*.json'
   Validation:
     needs: changes
     runs-on: ubuntu-latest
