@@ -5,6 +5,7 @@
     "client_id": "07-tendermint-45",
     "connection_id": "connection-39"
   },
+
   "chain_2": {
     "chain_name": "akashtestnet",
     "client_id": "07-tendermint-4",
