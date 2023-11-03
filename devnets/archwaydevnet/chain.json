@@ -5,7 +5,7 @@
     "network_type": "devnet",
     "website": "https://archway.io/",
     "pretty_name": "Archway",
-    "chain_id": "titus-1",
+    "chain_id": "titus-2",
     "bech32_prefix": "archway",
     "daemon_name": "archwayd",
     "node_home": "$HOME/.archway",
@@ -16,7 +16,7 @@
     "fees": {
       "fee_tokens": [
         {
-          "denom": "aarch",
+          "denom": "atitus",
           "fixed_min_gas_price": 900000000000,
           "low_gas_price": 1000000000000,
           "average_gas_price": 1500000000000,
@@ -27,7 +27,7 @@
     "staking": {
       "staking_tokens": [
         {
-          "denom": "aarch"
+          "denom": "atitus"
         }
       ],
       "lock_duration": {

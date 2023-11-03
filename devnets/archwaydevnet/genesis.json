@@ -1,6 +1,6 @@
 {
   "genesis_time": "2023-10-25T15:00:00Z",
-  "chain_id": "titus-1",
+  "chain_id": "titus-2",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -60,7 +60,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -71,7 +71,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -80,7 +80,7 @@
               "amount": [
                 {
                   "amount": "3750000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -89,7 +89,7 @@
               "amount": [
                 {
                   "amount": "3750000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -110,7 +110,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -121,7 +121,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -130,7 +130,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -139,7 +139,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -148,7 +148,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -157,7 +157,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -166,7 +166,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -175,7 +175,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -184,7 +184,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -193,7 +193,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -202,7 +202,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -211,7 +211,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -220,7 +220,7 @@
               "amount": [
                 {
                   "amount": "690000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -241,7 +241,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -252,7 +252,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -261,7 +261,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -270,7 +270,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -279,7 +279,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -288,7 +288,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -297,7 +297,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -306,7 +306,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -315,7 +315,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -324,7 +324,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -333,7 +333,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -342,7 +342,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -351,7 +351,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -360,7 +360,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -369,7 +369,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -378,7 +378,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -387,7 +387,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -396,7 +396,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -405,7 +405,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -414,7 +414,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -423,7 +423,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -432,7 +432,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -441,7 +441,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -450,7 +450,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -459,7 +459,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -468,7 +468,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -477,7 +477,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -486,7 +486,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -495,7 +495,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -504,7 +504,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -513,7 +513,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -522,7 +522,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -531,7 +531,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -540,7 +540,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -549,7 +549,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -558,7 +558,7 @@
               "amount": [
                 {
                   "amount": "214000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -567,7 +567,7 @@
               "amount": [
                 {
                   "amount": "224000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -588,7 +588,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -599,7 +599,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -608,7 +608,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -617,7 +617,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -626,7 +626,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -635,7 +635,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -644,7 +644,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -653,7 +653,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -662,7 +662,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -671,7 +671,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -680,7 +680,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -689,7 +689,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -698,7 +698,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -707,7 +707,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -716,7 +716,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -725,7 +725,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -734,7 +734,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -743,7 +743,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -752,7 +752,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -761,7 +761,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -770,7 +770,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -779,7 +779,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -788,7 +788,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -797,7 +797,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -806,7 +806,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -815,7 +815,7 @@
               "amount": [
                 {
                   "amount": "324000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -836,7 +836,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -847,7 +847,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -856,7 +856,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -865,7 +865,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -874,7 +874,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -883,7 +883,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -892,7 +892,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -901,7 +901,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -910,7 +910,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -919,7 +919,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -928,7 +928,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -937,7 +937,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -946,7 +946,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -955,7 +955,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -964,7 +964,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -973,7 +973,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -982,7 +982,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -991,7 +991,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1000,7 +1000,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1009,7 +1009,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1018,7 +1018,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1027,7 +1027,7 @@
               "amount": [
                 {
                   "amount": "357000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1036,7 +1036,7 @@
               "amount": [
                 {
                   "amount": "360000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -1057,7 +1057,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -1068,7 +1068,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1077,7 +1077,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1086,7 +1086,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1095,7 +1095,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1104,7 +1104,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1113,7 +1113,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1122,7 +1122,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1131,7 +1131,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1140,7 +1140,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1149,7 +1149,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1158,7 +1158,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1167,7 +1167,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1176,7 +1176,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -1197,7 +1197,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -1208,7 +1208,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1217,7 +1217,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1226,7 +1226,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1235,7 +1235,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1244,7 +1244,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1253,7 +1253,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1262,7 +1262,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1271,7 +1271,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1280,7 +1280,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1289,7 +1289,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1298,7 +1298,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1307,7 +1307,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1316,7 +1316,7 @@
               "amount": [
                 {
                   "amount": "625000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -1337,7 +1337,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -1348,7 +1348,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1357,7 +1357,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1366,7 +1366,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1375,7 +1375,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1384,7 +1384,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1393,7 +1393,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1402,7 +1402,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1411,7 +1411,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1420,7 +1420,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1429,7 +1429,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1438,7 +1438,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1447,7 +1447,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1456,7 +1456,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1465,7 +1465,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1474,7 +1474,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1483,7 +1483,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1492,7 +1492,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1501,7 +1501,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1510,7 +1510,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1519,7 +1519,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1528,7 +1528,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1537,7 +1537,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1546,7 +1546,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1555,7 +1555,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1564,7 +1564,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1573,7 +1573,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1582,7 +1582,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1591,7 +1591,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1600,7 +1600,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1609,7 +1609,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1618,7 +1618,7 @@
               "amount": [
                 {
                   "amount": "250000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -1639,7 +1639,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -1650,7 +1650,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1659,7 +1659,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1668,7 +1668,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1677,7 +1677,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1686,7 +1686,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1695,7 +1695,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1704,7 +1704,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1713,7 +1713,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1722,7 +1722,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1731,7 +1731,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1740,7 +1740,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1749,7 +1749,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1758,7 +1758,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1767,7 +1767,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1776,7 +1776,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1785,7 +1785,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1794,7 +1794,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1803,7 +1803,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1812,7 +1812,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1821,7 +1821,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1830,7 +1830,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1839,7 +1839,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1848,7 +1848,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1857,7 +1857,7 @@
               "amount": [
                 {
                   "amount": "312000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1866,7 +1866,7 @@
               "amount": [
                 {
                   "amount": "324000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -1887,7 +1887,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -1898,7 +1898,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1907,7 +1907,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1916,7 +1916,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1925,7 +1925,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1934,7 +1934,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1943,7 +1943,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1952,7 +1952,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1961,7 +1961,7 @@
               "amount": [
                 {
                   "amount": "937000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -1970,7 +1970,7 @@
               "amount": [
                 {
                   "amount": "941000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -1991,7 +1991,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -2002,7 +2002,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2011,7 +2011,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2020,7 +2020,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2029,7 +2029,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -2050,7 +2050,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -2061,7 +2061,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2070,7 +2070,7 @@
               "amount": [
                 {
                   "amount": "7500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -2091,7 +2091,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -2102,7 +2102,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2111,7 +2111,7 @@
               "amount": [
                 {
                   "amount": "3750000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2120,7 +2120,7 @@
               "amount": [
                 {
                   "amount": "3750000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -2141,7 +2141,7 @@
             "original_vesting": [
               {
                 "amount": "10000000000000000000000",
-                "denom": "aarch"
+                "denom": "atitus"
               }
             ]
           },
@@ -2152,7 +2152,7 @@
               "amount": [
                 {
                   "amount": "2500000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2161,7 +2161,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2170,7 +2170,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2179,7 +2179,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2188,7 +2188,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2197,7 +2197,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2206,7 +2206,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2215,7 +2215,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2224,7 +2224,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2233,7 +2233,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2242,7 +2242,7 @@
               "amount": [
                 {
                   "amount": "681000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             },
@@ -2251,7 +2251,7 @@
               "amount": [
                 {
                   "amount": "690000000000000000000",
-                  "denom": "aarch"
+                  "denom": "atitus"
                 }
               ]
             }
@@ -2276,7 +2276,7 @@
           "coins": [
             {
               "amount": "999859966000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2285,7 +2285,7 @@
           "coins": [
             {
               "amount": "10000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2294,7 +2294,7 @@
           "coins": [
             {
               "amount": "10000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2303,7 +2303,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2312,7 +2312,7 @@
           "coins": [
             {
               "amount": "14000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2321,7 +2321,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2330,7 +2330,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2339,7 +2339,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2348,7 +2348,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2357,7 +2357,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2366,7 +2366,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2375,7 +2375,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2384,7 +2384,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2393,7 +2393,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2402,7 +2402,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2411,7 +2411,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2420,7 +2420,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2429,7 +2429,7 @@
           "coins": [
             {
               "amount": "10000000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         }
@@ -2439,25 +2439,25 @@
           "description": "The native staking token of the Archway blockchain.",
           "denom_units": [
             {
-              "denom": "arch",
+              "denom": "titus",
               "exponent": 0,
               "aliases": []
             },
             {
-              "denom": "uarch",
+              "denom": "utitus",
               "exponent": 6,
               "aliases": []
             },
             {
-              "denom": "aarch",
+              "denom": "atitus",
               "exponent": 18,
               "aliases": []
             }
           ],
-          "base": "arch",
-          "display": "arch",
-          "name": "Archway ARCH",
-          "symbol": "ARCH"
+          "base": "titus",
+          "display": "titus",
+          "name": "Archway TIIUS",
+          "symbol": "TITUS"
         }
       ],
       "params": {
@@ -2467,7 +2467,7 @@
       "supply": [
         {
           "amount": "1000000000000000000000000000",
-          "denom": "aarch"
+          "denom": "atitus"
         }
       ]
     },
@@ -2478,7 +2478,7 @@
     "crisis": {
       "constant_fee": {
         "amount": "1000000000000000000000",
-        "denom": "aarch"
+        "denom": "atitus"
       }
     },
     "distribution": {
@@ -2522,7 +2522,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2533,7 +2533,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2544,7 +2544,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2555,7 +2555,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2566,7 +2566,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2577,7 +2577,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2588,7 +2588,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2599,7 +2599,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2610,7 +2610,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2621,7 +2621,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2632,7 +2632,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2643,7 +2643,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2654,7 +2654,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         },
@@ -2665,7 +2665,7 @@
           "amount": [
             {
               "amount": "1000000000000000000",
-              "denom": "aarch"
+              "denom": "atitus"
             }
           ]
         }
@@ -2698,7 +2698,7 @@
                   "key": "4T2qWNlIBH33BdeuCMG+q+sggzQKK+gb8uBjCrZhFic="
                 },
                 "value": {
-                  "denom": "aarch",
+                  "denom": "atitus",
                   "amount": "9500000000000000000"
                 }
               }
@@ -2726,7 +2726,7 @@
             "fee": {
               "amount": [
                 {
-                  "denom": "aarch",
+                  "denom": "atitus",
                   "amount": "180000000000000000"
                 }
               ],
@@ -2736,7 +2736,7 @@
             }
           },
           "signatures": [
-            "Gz11lFT2TOq27TMVeuKZ1Om3QgF4t87kTk7tGQlgub0vI65VpMCwiQcxeXJC3p1w2BHhVwTfDCZT3SPDdDOjFg=="
+            "gdGDNj1m2BQxhF1s+yiULWYriIuY3Q03L4mY90zYl2cIBNW7EweAoOslR8zMLO6s7J0qgtkjcTaOgLPGiWqQyg=="
           ]
         },
         {
@@ -2764,7 +2764,7 @@
                   "key": "msxp68WOZA+5aCCD1WO1yp90SWuNuUpv5yi1pj/wCMU="
                 },
                 "value": {
-                  "denom": "aarch",
+                  "denom": "atitus",
                   "amount": "9500000000000000000"
                 }
               }
@@ -2792,7 +2792,7 @@
             "fee": {
               "amount": [
                 {
-                  "denom": "aarch",
+                  "denom": "atitus",
                   "amount": "180000000000000000"
                 }
               ],
@@ -2802,7 +2802,7 @@
             }
           },
           "signatures": [
-            "fBBI/N4Q0JtP0yqikFHaeLSLzl8fYujQHJSE/SgkpUhXahh3K74ade1+LBxQAafUgZuAcbsFtB5btshUkg8D8Q=="
+            "a10jVmkkxEgd7b88orHUIScTKKrMF2c2/wRTE3IklVJmDuSiX9LASOcQdB9iwdEyGc1LzzI3kRePA/798s7p1g=="
           ]
         }
       ]
@@ -2816,7 +2816,7 @@
         "min_deposit": [
           {
             "amount": "10000000000000000000",
-            "denom": "aarch"
+            "denom": "atitus"
           }
         ],
         "max_deposit_period": "7200s"
@@ -2893,7 +2893,7 @@
         "inflation_max": "0.100000000000000000",
         "inflation_min": "0.099999999999999999",
         "inflation_rate_change": "0.130000000000000000",
-        "mint_denom": "aarch"
+        "mint_denom": "atitus"
       }
     },
     "params": null,
@@ -2911,7 +2911,7 @@
         "tx_fee_rebate_ratio": "0.500000000000000000",
         "min_price_of_gas": {
           "amount": "900000000000",
-          "denom": "aarch"
+          "denom": "atitus"
         }
       },
       "rewards_record_last_id": "0",
@@ -2935,7 +2935,7 @@
       "last_total_power": "0",
       "last_validator_powers": [],
       "params": {
-        "bond_denom": "aarch",
+        "bond_denom": "atitus",
         "historical_entries": "10000",
         "max_entries": "7",
         "max_validators": "100",
