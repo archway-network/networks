@@ -37,7 +37,8 @@
       },
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
-      "discord_handle": "kjnodes"
+      "discord_handle": "kjnodes",
+      "discord_id": "403199803330134018"
     },
     {
       "chain_1": {
@@ -48,7 +49,8 @@
       },
       "memo": "Relayed by L0vd.com",
       "name": "L0vd.com",
-      "discord_handle": "jango_l0vd"
+      "discord_handle": "jango_l0vd",
+      "discord_id": "651866634444603393"
     }
   ]
 }
