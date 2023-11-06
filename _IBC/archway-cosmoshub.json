@@ -37,7 +37,8 @@
       },
       "memo": "mzonder",
       "name": "mzonder",
-      "discord_handle": "mzonder"
+      "discord_handle": "mzonder",
+      "discord_id": "397204139005706240"
     },
     {
       "chain_1": {
@@ -48,7 +49,8 @@
       },
       "memo": "Relayed by Pro-Nodes75",
       "name": "Pro-Nodes75",
-      "discord_handle": "sw33pronodes"
+      "discord_handle": "sw33pronodes",
+      "discord_id": "748273679711994028"
     }
   ]
 }
