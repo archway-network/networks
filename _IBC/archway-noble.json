@@ -37,8 +37,9 @@
       },
       "memo": "B-Harvest",
       "name": "B-Harvest",
-      "discord_handle": "lucas_crescent_bharvest"
-    },    
+      "discord_handle": "lucas_crescent_bharvest",
+      "discord_id": "919820537952354334"
+    },
     {
       "chain_1": {
         "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
@@ -48,7 +49,8 @@
       },
       "memo": "Relayed by DSRV",
       "name": "DSRV",
-      "discord_handle": "meetrick"
+      "discord_handle": "meetrick",
+      "discord_id": "859968765163733003"
     }
   ]
 }
