@@ -1,11 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft-07/schema",
   "type": "object",
-  "required": [
-    "chain_1",
-    "chain_2",
-    "channels"
-  ],
+  "required": ["chain_1", "chain_2", "channels"],
   "properties": {
     "$schema": {
       "type": "string",
@@ -23,12 +19,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": [
-          "chain_1",
-          "chain_2",
-          "ordering",
-          "version"
-        ],
+        "required": ["chain_1", "chain_2", "ordering", "version"],
         "properties": {
           "chain_1": {
             "type": "object",
@@ -39,10 +30,7 @@
             "$ref": "#/$defs/channel_info"
           },
           "ordering": {
-            "enum": [
-              "ordered",
-              "unordered"
-            ],
+            "enum": ["ordered", "unordered"],
             "description": "Determines if packets from a sending module must be 'ordered' or 'unordered'."
           },
           "version": {
@@ -58,11 +46,7 @@
             "description": "Human readable key:value pairs that help describe and distinguish channels.",
             "properties": {
               "status": {
-                "enum": [
-                  "live",
-                  "upcoming",
-                  "killed"
-                ]
+                "enum": ["live", "upcoming", "killed"]
               },
               "preferred": {
                 "type": "boolean"
@@ -85,10 +69,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "required": [
-          "chain_1",
-          "chain_2"
-        ],
+        "required": ["chain_1", "chain_2"],
         "properties": {
           "chain_1": {
             "type": "object",
@@ -109,21 +90,21 @@
           "discord_handle": {
             "type": "string",
             "description": "Relayer discord handle"
+          },
+          "discord_id": {
+            "type": "string",
+            "description": "Relayer discord ID"
           }
         }
       }
-    }   
+    }
   },
   "additionalProperties": false,
   "$defs": {
     "chain_info": {
       "type": "object",
       "description": "Top level IBC data pertaining to the chain. `chain_1` and `chain_2` should be in alphabetical order.",
-      "required": [
-        "chain_name",
-        "client_id",
-        "connection_id"
-      ],
+      "required": ["chain_name", "client_id", "connection_id"],
       "properties": {
         "chain_name": {
           "type": "string"
@@ -141,10 +122,7 @@
     },
     "channel_info": {
       "type": "object",
-      "required": [
-        "channel_id",
-        "port_id"
-      ],
+      "required": ["channel_id", "port_id"],
       "properties": {
         "channel_id": {
           "type": "string",
@@ -159,9 +137,7 @@
     },
     "operator_info": {
       "type": "object",
-      "required": [
-        "address"
-      ],
+      "required": ["address"],
       "properties": {
         "address": {
           "type": "string",
