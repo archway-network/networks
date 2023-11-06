@@ -52,7 +52,8 @@
       },
       "memo": "Relayed by Trivium.Network ▽",
       "name": "TriviumX | Architech",
-      "discord_handle": "xiphiar"
+      "discord_handle": "xiphiar",
+      "discord_id": "399354080549404673"
     },
     {
       "chain_1": {
@@ -63,7 +64,8 @@
       },
       "memo": "Relayed by TriviumX",
       "name": "TriviumX | Architech",
-      "discord_handle": "xiphiar"
+      "discord_handle": "xiphiar",
+      "discord_id": "399354080549404673"
     }
   ]
 }
