@@ -37,7 +37,8 @@
       },
       "memo": "by AM Solutions | https://www.theamsolutions.info",
       "name": "AM Solutions",
-      "discord_handle": "AlexeyM#5409"
+      "discord_handle": "AlexeyM#5409",
+      "discord_id": "852503078128189440"
     },
     {
       "chain_1": {
@@ -48,7 +49,8 @@
       },
       "memo": "Relayed by NodeStake",
       "name": "NodeStake",
-      "discord_handle": "nodestake"
+      "discord_handle": "nodestake",
+      "discord_id": "814168584104050710"
     }
   ]
 }
