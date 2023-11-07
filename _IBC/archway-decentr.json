@@ -37,7 +37,10 @@
       },
       "memo": "Relayed by NodeStake",
       "name": "NodeStake",
-      "discord_handle": "alan_nodestake"
+      "discord": {
+        "handle": "alan_nodestake",
+        "id": "814168584104050710"
+      }
     }
   ]
 }

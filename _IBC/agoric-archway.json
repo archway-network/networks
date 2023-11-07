@@ -37,7 +37,10 @@
       },
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
-      "discord_handle": "kjnodes"
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
     },
     {
       "chain_1": {
@@ -48,7 +51,10 @@
       },
       "memo": "Relayed by Lavender.Five",
       "name": "Lavender.Five Nodes",
-      "discord_handle": "dylanschultzie"
+      "discord": {
+        "handle": "dylanschultzie",
+        "id": "309379950878654466"
+      }
     }
   ]
 }

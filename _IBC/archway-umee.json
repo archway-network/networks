@@ -37,7 +37,10 @@
       },
       "memo": "mzonder",
       "name": "mzonder",
-      "discord_handle": "mzonder"
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     },
     {
       "chain_1": {
@@ -48,9 +51,12 @@
       },
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
-      "discord_handle": "kjnodes"
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
     },
-        {
+    {
       "chain_1": {
         "address": "archway16l5ls4ajah6hethh374tpgn42r5q4sqeuw8udj"
       },
@@ -59,7 +65,10 @@
       },
       "memo": "by AM Solutions | https://www.theamsolutions.info",
       "name": "AM Solutions",
-      "discord_handle": "AlexeyM#5409"
+      "discord": {
+        "handle": "AlexeyM#5409",
+        "id": "852503078128189440"
+      }
     },
     {
       "chain_1": {
@@ -70,7 +79,10 @@
       },
       "memo": "Relayed by DSRV",
       "name": "DSRV",
-      "discord_handle": "meetrick"
+      "discord": {
+        "handle": "meetrick",
+        "id": "859968765163733003"
+      }
     },
     {
       "chain_1": {
@@ -81,7 +93,10 @@
       },
       "memo": "Relayed by Pro-Nodes75",
       "name": "Pro-Nodes75",
-      "discord_handle": "sw33pronodes"
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
     }
   ]
 }
