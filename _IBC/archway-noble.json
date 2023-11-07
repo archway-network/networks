@@ -37,8 +37,10 @@
       },
       "memo": "B-Harvest",
       "name": "B-Harvest",
-      "discord_handle": "lucas_crescent_bharvest",
-      "discord_id": "919820537952354334"
+      "discord": {
+        "handle": "lucas_crescent_bharvest",
+        "id": "919820537952354334"
+      }
     },
     {
       "chain_1": {
@@ -49,8 +51,10 @@
       },
       "memo": "Relayed by DSRV",
       "name": "DSRV",
-      "discord_handle": "meetrick",
-      "discord_id": "859968765163733003"
+      "discord": {
+        "handle": "meetrick",
+        "id": "859968765163733003"
+      }
     }
   ]
 }

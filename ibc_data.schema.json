@@ -87,13 +87,19 @@
             "type": "string",
             "description": "Relayer name"
           },
-          "discord_handle": {
-            "type": "string",
-            "description": "Relayer discord handle"
-          },
-          "discord_id": {
-            "type": "string",
-            "description": "Relayer discord ID"
+          "discord": {
+            "type": "object",
+            "required": ["handle", "id"],
+            "properties": {
+              "handle": {
+                "type": "string",
+                "description": "Relayer discord handle"
+              },
+              "id": {
+                "type": "string",
+                "description": "Relayer discord ID"
+              }
+            }
           }
         }
       }

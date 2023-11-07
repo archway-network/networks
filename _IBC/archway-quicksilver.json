@@ -37,8 +37,10 @@
       },
       "memo": "Relayed by Architect Nodes! ",
       "name": "Architect Nodes",
-      "discord_handle": "architectnodes",
-      "discord_id": "912470114216083456"
+      "discord": {
+        "handle": "architectnodes",
+        "id": "912470114216083456"
+      }
     },
     {
       "chain_1": {
@@ -49,8 +51,10 @@
       },
       "memo": "lesnik_utsa (UTSA relayer)",
       "name": "lesnik | UTSA",
-      "discord_handle": "lesnik_utsa",
-      "discord_id": "496365599673286685"
+      "discord": {
+        "handle": "lesnik_utsa",
+        "id": "496365599673286685"
+      }
     },
     {
       "chain_1": {
@@ -61,8 +65,10 @@
       },
       "memo": "Relayed with love by openbitlab",
       "name": "openbitlab",
-      "discord_handle": "openbitlab",
-      "discord_id": "483017792061308941"
+      "discord": {
+        "handle": "openbitlab",
+        "id": "483017792061308941"
+      }
     }
   ]
 }

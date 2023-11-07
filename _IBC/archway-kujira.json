@@ -37,8 +37,10 @@
       },
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
-      "discord_handle": "kjnodes",
-      "discord_id": "403199803330134018"
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
     },
     {
       "chain_1": {
@@ -49,8 +51,10 @@
       },
       "memo": "by AM Solutions | https://www.theamsolutions.info",
       "name": "AM Solutions",
-      "discord_handle": "AlexeyM#5409",
-      "discord_id": "852503078128189440"
+      "discord": {
+        "handle": "AlexeyM#5409",
+        "id": "852503078128189440"
+      }
     }
   ]
 }

@@ -37,8 +37,10 @@
       },
       "memo": "Relayed by Architect Nodes! ",
       "name": "Architect Nodes",
-      "discord_handle": "architectnodes",
-      "discord_id": "912470114216083456"
+      "discord": {
+        "handle": "architectnodes",
+        "id": "912470114216083456"
+      }
     },
     {
       "chain_1": {
@@ -49,8 +51,10 @@
       },
       "memo": "Relayed by NodeStake",
       "name": "NodeStake",
-      "discord_handle": "alan_nodestake",
-      "discord_id": "814168584104050710"
+      "discord": {
+        "handle": "alan_nodestake",
+        "id": "814168584104050710"
+      }
     }
   ]
 }

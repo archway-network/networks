@@ -37,7 +37,10 @@
       },
       "memo": "Relayed by Architect Nodes! ",
       "name": "Architect Nodes",
-      "discord_handle": "architectnodes"
+      "discord": {
+        "handle": "architectnodes",
+        "id": "912470114216083456"
+      }
     },
     {
       "chain_1": {
@@ -48,8 +51,10 @@
       },
       "memo": "Relayed with 💜 by Lavender.Five Nodes 🐝",
       "name": "Lavender.Five Nodes",
-      "discord_handle": "dylanschultzie",
-      "discord_id": "309379950878654466"
+      "discord": {
+        "handle": "dylanschultzie",
+        "id": "309379950878654466"
+      }
     },
     {
       "chain_1": {
@@ -60,8 +65,10 @@
       },
       "memo": "Relayed by Pro-Nodes75",
       "name": "Pro-Nodes75",
-      "discord_handle": "sw33pronodes",
-      "discord_id": "748273679711994028"
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
     }
   ]
 }
