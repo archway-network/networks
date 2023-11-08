@@ -25,6 +25,36 @@
       "tags": {
         "status": "live"
       }
-    }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-45",
+        "port_id": "wasm.wasm.archway16v6tzjhgt5v5mlfmh5x269vz5gc0t09flgzextspnkym6cc79m0qy0z40s"
+      },
+      "chain_2": {
+        "channel_id": "channel-413",
+        "port_id": "wasm.juno129y879p7fc7lwktj5c72cqrxyl6n9t4e3a9knr5mwjfc5algft0sw6ep29"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-47",
+        "port_id": "wasm.archway127xg63gy0s8qhlk7matnypymp0cuww4yx87td87hp52f9lp7yadsw8n963"
+      },
+      "chain_2": {
+        "channel_id": "channel-415",
+        "port_id": "wasm.juno1zr8lfu9nxr62qhwllau8uanrlhwjamtfx58lda7fxwnakm4mvutqwu2f3c"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
+    },
   ]
 }
