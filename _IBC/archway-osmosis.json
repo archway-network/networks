@@ -25,6 +25,21 @@
       "tags": {
         "status": "live"
       }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-42",
+        "port_id": "wasm.archway1zla0cm4sjytmktj4skrdm00hlars6q4jgkeqz5wy0tlftzu494tsqpkhuj"
+      },
+      "chain_2": {
+        "channel_id": "channel-7707",
+        "port_id": "wasm.osmo1kju3qsgcfwfuhqdrwm623xrf7hn3lmp2scaznxn75r3mlv36x4xsc7lnz2"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
     }
   ],
   "operators": [
