@@ -29,7 +29,7 @@
     {
       "chain_1": {
         "channel_id": "channel-45",
-        "port_id": "wasm.wasm.archway16v6tzjhgt5v5mlfmh5x269vz5gc0t09flgzextspnkym6cc79m0qy0z40s"
+        "port_id": "wasm.archway16v6tzjhgt5v5mlfmh5x269vz5gc0t09flgzextspnkym6cc79m0qy0z40s"
       },
       "chain_2": {
         "channel_id": "channel-413",
@@ -55,6 +55,6 @@
       "tags": {
         "status": "live"
       }
-    },
+    }
   ]
 }
