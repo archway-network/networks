@@ -25,6 +25,36 @@
             "tags": {
                 "status": "live"
             }
+        },
+        {
+          "chain_1": {
+            "channel_id": "",
+            "port_id": "wasm.archway18hylzwtvx68m8pffctkkwe7d42jkaq682v2s450mk2qt8r0n530qjldw0d"
+          },
+          "chain_2": {
+            "channel_id": "",
+            "port_id": "wasm.terra1k5evzuxqg649k32w0934epu4nv0lj906z4fv2a3lnemq85fe320srd4qn6"
+          },
+          "ordering": "unordered",
+          "version": "WyJKU09OLUNvc21vc01zZyJd",
+          "tags": {
+            "status": "live"
+          }
+        },
+        {
+          "chain_1": {
+            "channel_id": "",
+            "port_id": "wasm.archway1ge0zdux54pn8f234l203nvugl4xnsr6hgv3tyah2wwm8qgz4y6esfzpwgg"
+          },
+          "chain_2": {
+            "channel_id": "",
+            "port_id": "wasm.terra1x366fdkmpd88fvtjq09ksupjjgre6fr08zulwn3qe8mfefxfd3jswdmy3x"
+          },
+          "ordering": "unordered",
+          "version": "WyJKU09OLUNvc21vc01zZyJd",
+          "tags": {
+            "status": "live"
+          }
         }
     ],
   "operators": [
