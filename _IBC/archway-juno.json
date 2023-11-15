@@ -26,5 +26,21 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+      },
+      "chain_2": {
+        "address": "juno1muakfr26e3gg25kxgd80ejhpayupqw0xyyd4t4"
+      },
+      "memo": "Stake with us!",
+      "name": "Validatrium",
+      "discord": {
+        "handle": "validatrium_yuri_tech",
+        "id": 919880039753973780
+      }
+    }
   ]
 }
