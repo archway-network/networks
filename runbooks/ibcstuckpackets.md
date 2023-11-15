@@ -36,3 +36,9 @@ There is no one solution to mitigate the issue but you can try clearing stuck pa
 ```shell
 hermes clear packets [OPTIONS] --chain <CHAIN_ID> --port <PORT_ID> --channel <CHANNEL_ID>
 ```
+
+or
+
+```shell
+rly transact flush [path_name] [src_channel_id] [flags]
+```
