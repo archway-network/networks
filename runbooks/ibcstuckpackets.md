@@ -31,4 +31,8 @@ rly query unrelayed-packets path src_channel_id
 
 ## Mitigation
 
-There is no one solution to mitigate the issue.
+There is no one solution to mitigate the issue but you can try clearing stuck packets:
+
+```shell
+hermes clear packets [OPTIONS] --chain <CHAIN_ID> --port <PORT_ID> --channel <CHANNEL_ID>
+```
