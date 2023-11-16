@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-44",
+    "connection_id": "connection-51"
+  },
+  "chain_2": {
+    "chain_name": "neutron",
+    "client_id": "07-tendermint-57",
+    "connection_id": "connection-38"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-56",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-37",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1fgjxu53sv77g27acmyrk2pqftclv0r8h6y5w46"
+      },
+      "chain_2": {
+        "address": "neutron16vaqaxn9rzht55ad8ztn6qgk6xf40sw9mv56u"
+      },
+      "memo": "Luganodes relayer (archway -- neutron)",
+      "name": "Luganodes",
+      "discord": {
+        "handle": "hakai0625",
+        "id": "1134470370783670282"
+      }
+    }
+  ]
+}
