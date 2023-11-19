@@ -37,7 +37,10 @@
       },
       "memo": "mzonder",
       "name": "mzonder",
-      "discord_handle": "mzonder"
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     },
     {
       "chain_1": {
@@ -48,7 +51,10 @@
       },
       "memo": "Nodes.Guru | https://stake.nodes.guru",
       "name": "Nodes.Guru",
-      "discord_handle": "0xan_nodes_guru"
+      "discord": {
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
+      }
     }
   ]
 }

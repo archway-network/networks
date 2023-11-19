@@ -198,6 +198,11 @@
         "id": "17d6cb2601b67ad916d5433a404bfc000b0b6ef1",
         "address": "rpc.archway.nodestake.top:666",
         "provider": "NodeStake"
+      },
+      {
+        "id": "86bd5cb6e762f673f1706e5889e039d5406b4b90",
+        "address": "archway.seed.node75.org:10256",
+        "provider": "Pro-Nodes75"
       }
     ],
     "persistent_peers": [
@@ -215,6 +220,11 @@
         "id": "218eed47b5472642034e81fdf408dec8b79dcba7",
         "address": "88.99.208.54:31656",
         "provider": "StakeTown"
+      },
+      {
+        "id": "68cac650b02d5f62fa1365cff979da7977abea26",
+        "address": "archway-mainnet.peers.l0vd.com:26656",
+        "provider": "L0vd.com ❤️"
       }
     ]
   },
@@ -331,6 +341,10 @@
       {
         "address": "https://archway.api.trivium.network:26657",
         "provider": "TriviumX | Architech"
+      },
+      {
+        "address": "https://rpc-archway.architectnodes.com",
+        "provider": "Architect Nodes"
       }
     ],
     "rest": [
@@ -437,6 +451,10 @@
       {
         "address": "https://archway-mainnet-archive.allthatnode.com:1317",
         "provider": "All That Node"
+      },
+      {
+        "address": "https://rest-archway.architectnodes.com",
+        "provider": "Architect Nodes"
       }
     ],
     "grpc": [
@@ -515,6 +533,10 @@
       {
         "address": "archway.api.trivium.network:9090",
         "provider": "TriviumX | Architech"
+      },
+      {
+        "address": "grpc-archway.architectnodes.com:1443",
+        "provider": "Architect Nodes"
       } 
     ]
   },
@@ -565,6 +587,12 @@
       "url": "https://bigdipper.live/archway",
       "tx_page": "https://bigdipper.live/archway/transactions/${txHash}",
       "account_page": "https://bigdipper.live/archway/accounts/${accountAddress}"
+    },
+    {
+      "kind": "L0vd.com ❤️",
+      "url": "https://explorers.l0vd.com/archway-mainnet",
+      "tx_page": "https://explorers.l0vd.com/archway-mainnet/tx/${txHash}",
+      "account_page": "https://explorers.l0vd.com/archway-mainnet/account/${accountAddress}"
     }
   ],
   "images": [
