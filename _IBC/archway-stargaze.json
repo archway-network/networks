@@ -6,7 +6,7 @@
     "connection_id": "connection-54"
   },
   "chain_2": {
-    "chain_name": "stargaze-1",
+    "chain_name": "stargaze",
     "client_id": "07-tendermint-322",
     "connection_id": "connection-258"
   },
