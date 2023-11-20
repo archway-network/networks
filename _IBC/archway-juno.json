@@ -41,6 +41,20 @@
         "handle": "validatrium_yuri_tech",
         "id": "919880039753973780"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "juno1l267dmlmprhu4p5aqslf50f495vjqlg3txfl4h"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
     }
   ]
 }

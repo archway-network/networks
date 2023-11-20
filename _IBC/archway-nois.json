@@ -70,6 +70,20 @@
         "handle": "xiphiar",
         "id": "399354080549404673"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "nois1l267dmlmprhu4p5aqslf50f495vjqlg3vuhw7n"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
     }
   ]
 }

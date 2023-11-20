@@ -69,6 +69,20 @@
         "handle": "openbitlab",
         "id": "483017792061308941"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "quick1l267dmlmprhu4p5aqslf50f495vjqlg3ks6kte"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
     }
   ]
 }
