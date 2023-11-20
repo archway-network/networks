@@ -37,7 +37,10 @@
       },
       "memo": "[NODERS]TEAM Relayer | hermes 1.7.0+e98bd7e83 (https://hermes.informal.systems)",
       "name": "[NODERS]TEAM",
-      "discord_handle": "nodersseptima"
+      "discord": {
+        "handle": "nodersseptima",
+        "id": "811947913537519647"
+      }
     }
   ]
 }
