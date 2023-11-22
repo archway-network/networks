@@ -7,8 +7,8 @@
   },
   "chain_2": {
     "chain_name": "osmosistestnet",
-    "client_id": "07-tendermint-1397",
-    "connection_id": "connection-1296"
+    "client_id": "07-tendermint-1464",
+    "connection_id": "connection-1372"
   },
   "channels": [
     {
@@ -17,7 +17,7 @@
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-4309",
+        "channel_id": "channel-4400",
         "port_id": "transfer"
       },
       "ordering": "unordered",
