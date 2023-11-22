@@ -56,6 +56,20 @@
         "handle": "nodersseptima",
         "id": "811947913537519647"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1fgjxu53sv77g27acmyrk2pqftclv0r8h6y5w46"
+      },
+      "chain_2": {
+        "address": "neutron16vaqaxn9rzht55ad8ztn6qgk6xf40sw9mv56uw"
+      },
+      "memo": "Luganodes relayer",
+      "name": "Luganodes",
+      "discord": {
+        "handle": "hakai0625",
+        "id": "1134470370783670282"
+      }
     }
   ]
 }
