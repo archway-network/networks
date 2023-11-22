@@ -1,23 +1,23 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "archway",
-    "client_id": "07-tendermint-23",
-    "connection_id": "connection-21"
-  },
-  "chain_2": {
     "chain_name": "agoric",
     "client_id": "07-tendermint-75",
     "connection_id": "connection-69"
   },
+  "chain_2": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-23",
+    "connection_id": "connection-21"
+  },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-20",
+        "channel_id": "channel-60",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-60",
+        "channel_id": "channel-20",
         "port_id": "transfer"
       },
       "ordering": "unordered",
@@ -37,7 +37,10 @@
       },
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
-      "discord_handle": "kjnodes"
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
     },
     {
       "chain_1": {
@@ -48,7 +51,10 @@
       },
       "memo": "Relayed by Lavender.Five",
       "name": "Lavender.Five Nodes",
-      "discord_handle": "dylanschultzie"
+      "discord": {
+        "handle": "dylanschultzie",
+        "id": "309379950878654466"
+      }
     }
   ]
 }

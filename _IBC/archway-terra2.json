@@ -1,0 +1,74 @@
+{
+    "$schema": "../ibc_data.schema.json",
+    "chain_1": {
+        "chain_name": "archway",
+        "client_id": "07-tendermint-42",
+        "connection_id": "connection-47"
+    },
+    "chain_2": {
+        "chain_name": "terra2",
+        "client_id": "07-tendermint-384",
+        "connection_id": "connection-360"
+    },
+    "channels": [
+        {
+            "chain_1": {
+                "channel_id": "channel-50",
+                "port_id": "transfer"
+            },
+            "chain_2": {
+                "channel_id": "channel-265",
+                "port_id": "transfer"
+            },
+            "ordering": "unordered",
+            "version": "ics20-1",
+            "tags": {
+                "status": "live"
+            }
+        }
+    ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+      },
+      "chain_2": {
+        "address": "terra18xrruhq5r246mwk0yj9elnn3mte8xa9ux3pdwu"
+      },
+      "memo": "Relayed with 💜 by Lavender.Five Nodes 🐝",
+      "name": "Lavender.Five Nodes",
+      "discord": {
+        "handle": "dylanschultzie",
+        "id": "309379950878654466"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "terra139xmun2suypgu8hpl2z3tsvdt8py7e2erlfpe8"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "terra1l267dmlmprhu4p5aqslf50f495vjqlg3mssyst"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    }
+  ]
+}

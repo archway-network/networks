@@ -1,0 +1,75 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-51",
+    "connection_id": "connection-58"
+  },
+  "chain_2": {
+    "chain_name": "neutron",
+    "client_id": "07-tendermint-62",
+    "connection_id": "connection-43"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-61",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-41",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live",
+        "preferred": true
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1yghndrffay859ma2ue4pa2cltw640vta3jlf42"
+      },
+      "chain_2": {
+        "address": "neutron1yghndrffay859ma2ue4pa2cltw640vtaqx2096"
+      },
+      "memo": "relayed by CryptoCrew Validators",
+      "name": "CryptoCrew",
+      "discord": {
+        "handle": "ccclaimens",
+        "id": "392674350039564297"
+      }
+    },
+     {
+      "chain_1": {
+        "address": "archway14n8p425hz5l6xxcrq4ml00djkmwezm0m0uunqz"
+      },
+      "chain_2": {
+        "address": "neutron14n8p425hz5l6xxcrq4ml00djkmwezm0m7gf4sj"
+      },
+      "memo": "[NODERS]TEAM Relayer | hermes 1.7.0+e98bd7e83 (https://hermes.informal.systems)",
+      "name": "[NODERS]TEAM",
+      "discord": {
+        "handle": "nodersseptima",
+        "id": "811947913537519647"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1fgjxu53sv77g27acmyrk2pqftclv0r8h6y5w46"
+      },
+      "chain_2": {
+        "address": "neutron16vaqaxn9rzht55ad8ztn6qgk6xf40sw9mv56uw"
+      },
+      "memo": "Luganodes relayer",
+      "name": "Luganodes",
+      "discord": {
+        "handle": "hakai0625",
+        "id": "1134470370783670282"
+      }
+    }
+  ]
+}

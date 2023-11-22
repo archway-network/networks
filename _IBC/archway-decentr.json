@@ -37,7 +37,38 @@
       },
       "memo": "Relayed by NodeStake",
       "name": "NodeStake",
-      "discord_handle": "alan_nodestake"
+      "discord": {
+        "handle": "alan_nodestake",
+        "id": "814168584104050710"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway16l5ls4ajah6hethh374tpgn42r5q4sqeuw8udj"
+      },
+      "chain_2": {
+        "address": "decentr134a4es94hjqqej732cymf0w3988zh3c4kvgw3s"
+      },
+      "memo": "by AM Solutions | https://www.theamsolutions.info",
+      "name": "AM Solutions",
+      "discord": {
+        "handle": "amsolutions",
+        "id": "852503078128189440"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jmzv7q8v2s86ta7jl3f7yd5j5e8xqqp5rmpflc"
+      },
+      "chain_2": {
+        "address": "decentr1fpzkxywl6pqlz2qssqunp5ztwm7eqmraz34zhy"
+      },
+      "memo": "Relayed by vinjan",
+      "name": "vinjan",
+      "discord": {
+        "handle": "vinjan",
+        "id": "824628985488736336"  
+      }
     }
   ]
 }

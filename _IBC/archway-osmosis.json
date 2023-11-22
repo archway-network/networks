@@ -37,7 +37,10 @@
       },
       "memo": "mzonder",
       "name": "mzonder",
-      "discord_handle": "mzonder"
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     },
     {
       "chain_1": {
@@ -48,7 +51,38 @@
       },
       "memo": "Nodes.Guru | https://stake.nodes.guru",
       "name": "Nodes.Guru",
-      "discord_handle": "0xan_nodes_guru"
+      "discord": {
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "osmo1l267dmlmprhu4p5aqslf50f495vjqlg340e5ye"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1kz6qywrj9jyer9r5hkx5qe7mrm96xudq9mmu9z"
+      },
+      "chain_2": {
+        "address": "osmo1kz6qywrj9jyer9r5hkx5qe7mrm96xudqct5ge8"
+      },
+      "memo": "Relayed by Stakely",
+      "name": "Stakely",
+      "discord": {
+        "handle": "josect_hs",
+        "id": "360160710497533953"
+      }
     }
   ]
 }

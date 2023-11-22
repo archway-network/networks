@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-47",
+    "connection_id": "connection-54"
+  },
+  "chain_2": {
+    "chain_name": "stargaze",
+    "client_id": "07-tendermint-322",
+    "connection_id": "connection-258"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-57",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-242",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "None",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway14n8p425hz5l6xxcrq4ml00djkmwezm0m0uunqz"
+      },
+      "chain_2": {
+        "address": "stars14n8p425hz5l6xxcrq4ml00djkmwezm0mwth2py"
+      },
+      "memo": "[NODERS]TEAM Relayer | hermes 1.7.0+e98bd7e83 (https://hermes.informal.systems)",
+      "name": "[NODERS]TEAM",
+      "discord": {
+        "handle": "nodersseptima",
+        "id": "811947913537519647"
+      }
+    }
+  ]
+}
