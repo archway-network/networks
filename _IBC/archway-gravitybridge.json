@@ -69,6 +69,20 @@
         "handle": "sw33pronodes",
         "id": "748273679711994028"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "gravity1l267dmlmprhu4p5aqslf50f495vjqlg3eycuhr"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
     }
   ]
 }
