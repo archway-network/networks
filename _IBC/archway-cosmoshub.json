@@ -69,6 +69,20 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1kz6qywrj9jyer9r5hkx5qe7mrm96xudq9mmu9z"
+      },
+      "chain_2": {
+        "address": "cosmos1kz6qywrj9jyer9r5hkx5qe7mrm96xudqss8c04"
+      },
+      "memo": "Relayed by Stakely",
+      "name": "Stakely",
+      "discord": {
+        "handle": "josect_hs",
+        "id": "360160710497533953"
+      }
     }
   ]
 }
