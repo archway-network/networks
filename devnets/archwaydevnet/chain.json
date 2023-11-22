@@ -5,7 +5,7 @@
     "network_type": "devnet",
     "website": "https://archway.io/",
     "pretty_name": "Archway",
-    "chain_id": "titus-2",
+    "chain_id": "titus-3",
     "bech32_prefix": "archway",
     "daemon_name": "archwayd",
     "node_home": "$HOME/.archway",
