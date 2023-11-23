@@ -83,6 +83,20 @@
         "handle": "josect_hs",
         "id": "360160710497533953"
       }
-    }
+    },
+    {
+      "chain_1": {
+        "address": "archway122sr7ukcdr580nt0jmyyd0cwnudd73kvwfkqqr"
+      },
+      "chain_2": {
+        "address": "cosmos122sr7ukcdr580nt0jmyyd0cwnudd73kvmz2y25"
+      },
+      "memo": "Relayed by TienThuatToan",
+      "name": "TienThuatToan",
+      "discord": {
+        "handle": "meatedis",
+        "id": "892651560407015495"
+      }
+    }    
   ]
 }
