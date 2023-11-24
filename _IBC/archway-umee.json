@@ -97,6 +97,20 @@
         "handle": "sw33pronodes",
         "id": "748273679711994028"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
+      },
+      "chain_2": {
+        "address": "umee1jqz2205er0d8657ugll98c462cyplkcqdml2ue"
+      },
+      "memo": "Relayed by Huginn | https://huginn.tech ",
+      "name": "Huginn",
+      "discord": {
+        "handle": "gökay#5690",
+        "id": "259764661602222091"
+      }
     }
   ]
 }
