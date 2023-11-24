@@ -41,6 +41,20 @@
         "handle": "nodersseptima",
         "id": "811947913537519647"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jmzv7q8v2s86ta7jl3f7yd5j5e8xqqp5rmpflc"
+      },
+      "chain_2": {
+        "address": "stars1a5rs0ux4a6eq6qwfr9p7qqj6rejptzrgd8ucsz"
+      },
+      "memo": "Relayed by vinjan",
+      "name": "vinjan",
+      "discord": {
+        "handle": "vinjan",
+        "id": "824628985488736336"   
+      }
     }
   ]
 }
