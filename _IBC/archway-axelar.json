@@ -30,6 +30,16 @@
   "operators": [
     {
       "chain_1": {
+        "address": "archway1eg9h07mnwslj6urfqjf37wyul52q0lp9wyr6rc"
+      },
+      "chain_2": {
+        "address": "axelar1zeje980ynlujr8zsunj9dsh53eqxzpr5u5adas"
+      },
+      "memo": "Relayed by Archway Foundation",
+      "name": "philabs"
+    },
+    {
+      "chain_1": {
         "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
       },
       "chain_2": {
