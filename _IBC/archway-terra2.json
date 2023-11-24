@@ -69,6 +69,20 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
+      },
+      "chain_2": {
+        "address": "terra1jqz2205er0d8657ugll98c462cyplkcqefc46t"
+      },
+      "memo": "Relayed by Huginn | https://huginn.tech ",
+      "name": "Huginn",
+      "discord": {
+        "handle": "gökay#5690",
+        "id": "259764661602222091"
+      }
     }
   ]
 }
