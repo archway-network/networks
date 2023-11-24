@@ -111,6 +111,20 @@
         "handle": "gökay#5690",
         "id": "259764661602222091"
       }
-    }
+    },
+    {
+      "chain_1": {
+        "address": "archway1pdvq7k50jpae8gm66dyuwrmhee6a40xqwvsg54"
+      },
+      "chain_2": {
+        "address": "umee1pdvq7k50jpae8gm66dyuwrmhee6a40xqf33n6s"
+      },
+      "memo": "Relayed by Baryon",
+      "name": "Baryon",
+      "discord": {
+        "handle": "kai_baryon",
+        "id": "3115DDA1633A6964"
+      }
+    },
   ]
 }
