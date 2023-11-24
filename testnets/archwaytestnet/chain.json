@@ -141,6 +141,12 @@
         "url": "https://testnet.mintscan.io/archway-testnet",
         "tx_page": "https://testnet.mintscan.io/archway-testnet/txs/${txHash}",
         "account_page": "https://testnet.mintscan.io/archway-testnet/account/${accountAddress}"
+      },
+      {
+        "kind": "L0vd",
+        "url": "https://explorers.l0vd.com/archway-testnet",
+        "tx_page": "https://explorers.l0vd.com/archway-testnet/tx/${txHash}",
+        "account_page": "https://explorers.l0vd.com/archway-testnet/account/${accountAddress}"
       }
     ]
   }
