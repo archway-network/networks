@@ -25,6 +25,36 @@
       "tags": {
         "status": "live"
       }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-87",
+        "port_id": "wasm.archway1x2rg8xe9cq6qgy7ejjs7stkkh7zmnd2ymdkygycf5l9dva2fvjussdyx4x"
+      },
+      "chain_2": {
+        "channel_id": "channel-249",
+        "port_id": "wasm.stars18ug3f0c7cqz5y2k38z6perudyeggvzhsel9qe7xl5x88xzxmwvxsl4v2kq"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-86",
+        "port_id": "wasm.archway1hd4s3z4ga7f26eae4p44mp70dvr5my39d7l2qrh2hrl74jsv22dquc6h63"
+      },
+      "chain_2": {
+        "channel_id": "channel-248",
+        "port_id": "wasm.stars1ny7xvq2l07sgxdrak4qzrcj8eszyk5cwx34fkdshw4gyv84nyeus9cuw45"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
     }
   ],
   "operators": [
@@ -53,7 +83,7 @@
       "name": "vinjan",
       "discord": {
         "handle": "vinjan",
-        "id": "824628985488736336"   
+        "id": "824628985488736336"
       }
     }
   ]
