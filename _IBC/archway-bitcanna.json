@@ -55,6 +55,19 @@
         "handle": "jango_l0vd",
         "id": "651866634444603393"
       }
+    }, {
+      "chain_1": {
+        "address": "archway1a7zq9n09u5g5n4m0ht5fujv0wlddm7hgju69dq"
+      },
+      "chain_2": {
+        "address": "bcna1a7zq9n09u5g5n4m0ht5fujv0wlddm7hga8kq09"
+      },
+      "memo": "Relayed by KitKat",
+      "name": "KitKat",
+      "discord": {
+        "handle": "max_kitkat",
+        "id": "130192092247883776"
+      }
     }
   ]
 }
