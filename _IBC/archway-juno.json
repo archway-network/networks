@@ -56,5 +56,63 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+      },
+      "chain_2": {
+        "address": "juno1muakfr26e3gg25kxgd80ejhpayupqw0xyyd4t4"
+      },
+      "memo": "Stake with us!",
+      "name": "Validatrium",
+      "discord": {
+        "handle": "validatrium_yuri_tech",
+        "id": "919880039753973780"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "juno1l267dmlmprhu4p5aqslf50f495vjqlg3txfl4h"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
+      },
+      "chain_2": {
+        "address": "juno1jqz2205er0d8657ugll98c462cyplkcqflpwlh"
+      },
+      "memo": "Relayed by Huginn | https://huginn.tech ",
+      "name": "Huginn",
+      "discord": {
+        "handle": "gökay#5690",
+        "id": "259764661602222091"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
+      },
+      "chain_2": {
+        "address": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy"
+      },
+      "memo": "Relayed by Smart Stake",
+      "name": "Smart Stake",
+      "discord": {
+        "handle": "bigb4ever",
+        "id": "400514913505640451"
+      }
+    }
   ]
 }

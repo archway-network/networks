@@ -3,21 +3,21 @@
   "chain_1": {
     "chain_name": "archwaytestnet",
     "client_id": "07-tendermint-70",
-    "connection_id": "connection-60"
+    "connection_id": "connection-76"
   },
   "chain_2": {
     "chain_name": "axelartestnet",
-    "client_id": "07-tendermint-603",
-    "connection_id": "connection-418"
+    "client_id": "07-tendermint-760",
+    "connection_id": "connection-574"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-50",
+        "channel_id": "channel-60",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-305",
+        "channel_id": "channel-361",
         "port_id": "transfer"
       },
       "ordering": "unordered",

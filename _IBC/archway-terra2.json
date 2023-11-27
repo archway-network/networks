@@ -71,6 +71,34 @@
         "handle": "dylanschultzie",
         "id": "309379950878654466"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "terra139xmun2suypgu8hpl2z3tsvdt8py7e2erlfpe8"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "terra1l267dmlmprhu4p5aqslf50f495vjqlg3mssyst"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
     }
   ]
 }

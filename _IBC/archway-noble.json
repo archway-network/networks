@@ -30,15 +30,15 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway1m7m26sr22thnlwwywfyf2tvu9vlqjdtrhxajaa"
+        "address": "archway1709m80x3w2cuhx63jzrqk9pukn6n29l2kdc2uw"
       },
       "chain_2": {
         "address": "noble1m7m26sr22thnlwwywfyf2tvu9vlqjdtr2w570y"
       },
-      "memo": "B-Harvest",
+      "memo": "Relayed by B-Harvest",
       "name": "B-Harvest",
       "discord": {
-        "handle": "lucas_crescent_bharvest",
+        "handle": "lucas_bharvest",
         "id": "919820537952354334"
       }
     },
@@ -54,6 +54,20 @@
       "discord": {
         "handle": "meetrick",
         "id": "859968765163733003"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "noble1l267dmlmprhu4p5aqslf50f495vjqlg34hlv29"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
       }
     }
   ]

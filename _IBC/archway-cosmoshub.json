@@ -30,6 +30,16 @@
   "operators": [
     {
       "chain_1": {
+        "address": "archway1eg9h07mnwslj6urfqjf37wyul52q0lp9wyr6rc"
+      },
+      "chain_2": {
+        "address": "cosmos1sca3zk93lheejjycwjrdxzqg3gvcv0zv35hjv2"
+      },
+      "memo": "Relayed by Archway Foundation",
+      "name": "philabs"
+    },
+    {
+      "chain_1": {
         "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
       },
       "chain_2": {
@@ -54,6 +64,76 @@
       "discord": {
         "handle": "sw33pronodes",
         "id": "748273679711994028"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "cosmos1l267dmlmprhu4p5aqslf50f495vjqlg3a52yjt"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1kz6qywrj9jyer9r5hkx5qe7mrm96xudq9mmu9z"
+      },
+      "chain_2": {
+        "address": "cosmos1kz6qywrj9jyer9r5hkx5qe7mrm96xudqss8c04"
+      },
+      "memo": "Relayed by Stakely",
+      "name": "Stakely",
+      "discord": {
+        "handle": "josect_hs",
+        "id": "360160710497533953"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
+      },
+      "chain_2": {
+        "address": "cosmos1jqz2205er0d8657ugll98c462cyplkcqldz4ct"
+      },
+      "memo": "Relayed by Huginn | https://huginn.tech ",
+      "name": "Huginn",
+      "discord": {
+        "handle": "gökay#5690",
+        "id": "259764661602222091"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1709m80x3w2cuhx63jzrqk9pukn6n29l2kdc2uw"
+      },
+      "chain_2": {
+        "address": "cosmos1709m80x3w2cuhx63jzrqk9pukn6n29l2rxywke"
+      },
+      "memo": "Relayed by B-Harvest",
+      "name": "B-Harvest",
+      "discord": {
+        "handle": "ironbharvest",
+        "id": "1000933680136585266"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
+      },
+      "chain_2": {
+        "address": "cosmos1wwxeusrluapjewppth29mp0dn6d8kukpa0l4zx"
+      },
+      "memo": "Relayed by Smart Stake",
+      "name": "Smart Stake",
+      "discord": {
+        "handle": "bigb4ever",
+        "id": "400514913505640451"
       }
     }
   ]
