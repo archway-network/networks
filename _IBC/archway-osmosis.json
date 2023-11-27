@@ -107,6 +107,20 @@
         "handle": "gökay#5690",
         "id": "259764661602222091"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
+      },
+      "chain_2": {
+        "address": "osmo1v6evmh0wdfvs56nrkq0dd66yvpuj3paq3gzksp"
+      },
+      "memo": "Relayed by Smart Stake",
+      "name": "Smart Stake",
+      "discord": {
+        "handle": "bigb4ever",
+        "id": "400514913505640451"
+      }
     }
   ]
 }
