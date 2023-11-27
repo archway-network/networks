@@ -110,6 +110,20 @@
     },
     {
       "chain_1": {
+        "address": "archway1709m80x3w2cuhx63jzrqk9pukn6n29l2kdc2uw"
+      },
+      "chain_2": {
+        "address": "osmo1709m80x3w2cuhx63jzrqk9pukn6n29l2tah7qt"
+      },
+      "memo": "Relayed by B-Harvest",
+      "name": "B-Harvest",
+      "discord": {
+        "handle": "ironbharvest",
+        "id": "1000933680136585266"
+      }
+    },
+    {
+      "chain_1": {
         "address": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
       },
       "chain_2": {
