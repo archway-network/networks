@@ -83,6 +83,20 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1cyuv4qfaanw34ur29m4tds7wydx5n8a3mrp02n"
+      },
+      "chain_2": {
+        "address": "gravity1fx8hkzdpmlkrg0zeyu32pkxevjhwjrkavz23p8"
+      },
+      "memo": "Relayed by Spectrum",
+      "name": "Spectrum",
+      "discord": {
+        "handle": "kernelpanic.",
+        "id": "791451920157376542"
+      }
     }
   ]
 }
