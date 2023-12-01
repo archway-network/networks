@@ -4,7 +4,7 @@
     "status": "live",
     "network_type": "testnet",
     "website": "https://archway.io/",
-    "pretty_name": "Archway",
+    "pretty_name": "Archway Testnet",
     "chain_id": "constantine-2",
     "bech32_prefix": "const",
     "daemon_name": "archwayd",
