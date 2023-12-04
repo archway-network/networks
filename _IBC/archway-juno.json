@@ -113,6 +113,20 @@
         "handle": "bigb4ever",
         "id": "400514913505640451"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
+      },
+      "chain_2": {
+        "address": "juno18p5jxxtsgdcn2un0jarase89a2cgtety7scl4j"
+      },
+      "memo": "Nodes.Guru | https://stake.nodes.guru",
+      "name": "Nodes.Guru",
+      "discord": {
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
+      }
     }
   ]
 }
