@@ -74,6 +74,20 @@
     },
     {
       "chain_1": {
+        "address": "archway14n8p425hz5l6xxcrq4ml00djkmwezm0m0uunqz"
+      },
+      "chain_2": {
+        "address": "terra14n8p425hz5l6xxcrq4ml00djkmwezm0mun6hg4"
+      },
+      "memo": "[NODERS]TEAM Relayer | hermes 1.7.0+e98bd7e83 (https://hermes.informal.systems)",
+      "name": "[NODERS]TEAM",
+      "discord": {
+        "handle": "nodersseptima",
+        "id": "811947913537519647"
+      }
+    },
+    {
+      "chain_1": {
         "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
       },
       "chain_2": {
