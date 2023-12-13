@@ -13,11 +13,11 @@
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-2",
+        "channel_id": "channel-3",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-4466",
+        "channel_id": "channel-4526",
         "port_id": "transfer"
       },
       "ordering": "unordered",
