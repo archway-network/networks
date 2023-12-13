@@ -3,12 +3,12 @@
   "chain_1": {
     "chain_name": "archwaydevnet",
     "client_id": "07-tendermint-2",
-    "connection_id": "connection-2"
+    "connection_id": "connection-3"
   },
   "chain_2": {
     "chain_name": "osmosistestnet",
-    "client_id": "07-tendermint-1533",
-    "connection_id": "connection-1428"
+    "client_id": "07-tendermint-1586",
+    "connection_id": "connection-1475"
   },
   "channels": [
     {
