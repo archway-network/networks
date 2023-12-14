@@ -41,6 +41,20 @@
         "handle": "kjnodes",
         "id": "403199803330134018"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
+      },
+      "chain_2": {
+        "address": "agoric18p5jxxtsgdcn2un0jarase89a2cgtety6lemzc"
+      },
+      "memo": "Nodes.Guru | https://stake.nodes.guru",
+      "name": "Nodes.Guru",
+      "discord": {
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
+      }
     }
   ]
 }
