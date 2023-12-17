@@ -179,6 +179,20 @@
         "handle": "bigb4ever",
         "id": "400514913505640451"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+      },
+      "chain_2": {
+        "address": "osmo1kqan6njymshfem9srxea09v3wzhly83ws64dxw"
+      },
+      "memo": "Stake with us!",
+      "name": "Validatrium",
+      "discord": {
+        "handle": "validatrium_yuri_tech",
+        "id": "919880039753973780"
+      }
     }
   ]
 }

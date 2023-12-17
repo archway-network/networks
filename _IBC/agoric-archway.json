@@ -44,16 +44,16 @@
     },
     {
       "chain_1": {
-        "address": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
       },
       "chain_2": {
-        "address": "agoric18dswkgr8xlw3jjpunzsxqm5z9u5v8m70wwvep5"
+        "address": "agoric18p5jxxtsgdcn2un0jarase89a2cgtety6lemzc"
       },
-      "memo": "Relayed by Lavender.Five",
-      "name": "Lavender.Five Nodes",
+      "memo": "Nodes.Guru | https://stake.nodes.guru",
+      "name": "Nodes.Guru",
       "discord": {
-        "handle": "dylanschultzie",
-        "id": "309379950878654466"
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
       }
     }
   ]
