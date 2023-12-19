@@ -85,6 +85,20 @@
         "handle": "vinjan",
         "id": "824628985488736336"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1p6u85sg2kqw06xe2wddkrw0sw0a6fjj8dc8wz5"
+      },
+      "chain_2": {
+        "address": "stars1p6u85sg2kqw06xe2wddkrw0sw0a6fjj8v0vhrj"
+      },
+      "memo": "n1stake relayer",
+      "name": "n1stake",
+      "discord": {
+        "handle": "Vincagame",
+        "id": "401391144786722817"
+      }
     }
   ]
 }
