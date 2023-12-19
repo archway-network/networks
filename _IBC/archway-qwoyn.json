@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-55",
+    "connection_id": "connection-65"
+  },
+  "chain_2": {
+    "chain_name": "qwoyn",
+    "client_id": "07-tendermint-8",
+    "connection_id": "connection-5"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-88",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-5",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "qwoyn1p0x73j998sncjd0jqgvznun0p7xtf8madardp4"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
+    }
+  ]
+}
