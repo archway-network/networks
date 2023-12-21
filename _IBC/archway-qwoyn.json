@@ -41,6 +41,20 @@
         "handle": "mzonder",
         "id": "397204139005706240"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+      },
+      "chain_2": {
+        "address": "qwoyn1muakfr26e3gg25kxgd80ejhpayupqw0x0k0stg"
+      },
+      "memo": "Stake with us!",
+      "name": "Validatrium",
+      "discord": {
+        "handle": "validatrium_yuri_tech",
+        "id": "919880039753973780"
+      }
     }
   ]
 }
