@@ -193,6 +193,20 @@
         "handle": "validatrium_yuri_tech",
         "id": "919880039753973780"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
+      },
+      "chain_2": {
+        "address": "osmo1q8pj4z552p9wpmq7mhlzwhtr3p97j04fpyudm9"
+      },
+      "memo": "Relayed by CroutonDigital",
+      "name": "CroutonDigital",
+      "discord": {
+        "handle": "ak32821",
+        "id": "894499551807950868"
+      }
     }
   ]
 }
