@@ -41,6 +41,20 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
+      },
+      "chain_2": {
+        "address": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"
+      },
+      "memo": "staketown-relayer",
+      "name": "StakeTown",
+      "discord": {
+        "handle": "hottochelli",
+        "id": "653208183325589529"
+      }
     }
   ]
 }
