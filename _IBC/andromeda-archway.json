@@ -44,6 +44,20 @@
     },
     {
       "chain_1": {
+        "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
+      },
+      "chain_2": {
+        "address": "andr1cmnkyhzk9uuwahk6kyeg640z6lwcydzvpkk5xm"
+      },
+      "memo": "Relayed by CroutonDigital",
+      "name": "CroutonDigital",
+      "discord": {
+        "handle": "ak32821",
+        "id": "894499551807950868"
+      }
+    },
+    {
+      "chain_1": {
         "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
       },
       "chain_2": {
