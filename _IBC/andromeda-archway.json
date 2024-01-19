@@ -41,7 +41,7 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
-    },    
+    },
     {
       "chain_1": {
         "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
@@ -54,6 +54,20 @@
       "discord": {
         "handle": "ak32821",
         "id": "894499551807950868"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
+      },
+      "chain_2": {
+        "address": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"
+      },
+      "memo": "staketown-relayer",
+      "name": "StakeTown",
+      "discord": {
+        "handle": "hottochelli",
+        "id": "653208183325589529"
       }
     }
   ]
