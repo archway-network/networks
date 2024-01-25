@@ -3,21 +3,21 @@
   "chain_1": {
     "chain_name": "archwaydevnet",
     "client_id": "07-tendermint-2",
-    "connection_id": "connection-3"
+    "connection_id": "connection-2"
   },
   "chain_2": {
     "chain_name": "osmosistestnet",
-    "client_id": "07-tendermint-1586",
-    "connection_id": "connection-1475"
+    "client_id": "07-tendermint-1831",
+    "connection_id": "connection-1755"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-3",
+        "channel_id": "channel-2",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-4526",
+        "channel_id": "channel-5125",
         "port_id": "transfer"
       },
       "ordering": "unordered",
