@@ -41,6 +41,20 @@
         "handle": "ak32821",
         "id": "894499551807950868"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "pylo1sezvzs4j4l87ndf7yegwmx44xq2x3s7kesy0fg"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     }
   ]
 }
