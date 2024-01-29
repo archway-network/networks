@@ -1,29 +1,145 @@
 {
-  "$schema": "../ibc_data_schema.json",
+  "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-18",
     "connection_id": "connection-19"
   },
   "chain_2": {
-    "chain_name": "juno-1",
+    "chain_name": "juno",
     "client_id": "07-tendermint-387",
     "connection_id": "connection-379"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-15", 
+        "channel_id": "channel-15",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-290", 
+        "channel_id": "channel-290",
         "port_id": "transfer"
       },
       "ordering": "unordered",
       "version": "ics20-1",
       "tags": {
         "status": "live"
+      }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-45",
+        "port_id": "wasm.archway16v6tzjhgt5v5mlfmh5x269vz5gc0t09flgzextspnkym6cc79m0qy0z40s"
+      },
+      "chain_2": {
+        "channel_id": "channel-413",
+        "port_id": "wasm.juno129y879p7fc7lwktj5c72cqrxyl6n9t4e3a9knr5mwjfc5algft0sw6ep29"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-47",
+        "port_id": "wasm.archway127xg63gy0s8qhlk7matnypymp0cuww4yx87td87hp52f9lp7yadsw8n963"
+      },
+      "chain_2": {
+        "channel_id": "channel-415",
+        "port_id": "wasm.juno1zr8lfu9nxr62qhwllau8uanrlhwjamtfx58lda7fxwnakm4mvutqwu2f3c"
+      },
+      "ordering": "unordered",
+      "version": "WyJKU09OLUNvc21vc01zZyJd",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+      },
+      "chain_2": {
+        "address": "juno1muakfr26e3gg25kxgd80ejhpayupqw0xyyd4t4"
+      },
+      "memo": "Stake with us!",
+      "name": "Validatrium",
+      "discord": {
+        "handle": "validatrium_yuri_tech",
+        "id": "919880039753973780"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "juno1l267dmlmprhu4p5aqslf50f495vjqlg3txfl4h"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
+      },
+      "chain_2": {
+        "address": "juno1jqz2205er0d8657ugll98c462cyplkcqflpwlh"
+      },
+      "memo": "Relayed by Huginn | https://huginn.tech ",
+      "name": "Huginn",
+      "discord": {
+        "handle": "gökay#5690",
+        "id": "259764661602222091"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway14n8p425hz5l6xxcrq4ml00djkmwezm0m0uunqz"
+      },
+      "chain_2": {
+        "address": "juno14n8p425hz5l6xxcrq4ml00djkmwezm0mv9rvdf"
+      },
+      "memo": "[NODERS]TEAM Relayer | hermes 1.7.0+e98bd7e83 (https://hermes.informal.systems)",
+      "name": "[NODERS]TEAM",
+      "discord": {
+        "handle": "nodersseptima",
+        "id": "811947913537519647"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway12qkshheaw2mrpr8asfj6jr9q2e5ms7qt6z0z6p"
+      },
+      "chain_2": {
+        "address": "juno12mczzwe9jsgejx0vccjwa7gyl2zhjus664uqdy"
+      },
+      "memo": "Relayed by Smart Stake",
+      "name": "Smart Stake",
+      "discord": {
+        "handle": "bigb4ever",
+        "id": "400514913505640451"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
+      },
+      "chain_2": {
+        "address": "juno18p5jxxtsgdcn2un0jarase89a2cgtety7scl4j"
+      },
+      "memo": "Nodes.Guru | https://stake.nodes.guru",
+      "name": "Nodes.Guru",
+      "discord": {
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
       }
     }
   ]

@@ -1,23 +1,23 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "constantine-3",
-    "client_id": "07-tendermint-45",
-    "connection_id": "connection-39"
+    "chain_name": "archwaydevnet",
+    "client_id": "07-tendermint-2",
+    "connection_id": "connection-2"
   },
   "chain_2": {
-    "chain_name": "sandbox-01",
-    "client_id": "07-tendermint-4",
-    "connection_id": "connection-4"
+    "chain_name": "osmosistestnet",
+    "client_id": "07-tendermint-1831",
+    "connection_id": "connection-1755"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-34",
+        "channel_id": "channel-2",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-4",
+        "channel_id": "channel-5125",
         "port_id": "transfer"
       },
       "ordering": "unordered",

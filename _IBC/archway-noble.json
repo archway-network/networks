@@ -1,12 +1,12 @@
 {
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-28",
     "connection_id": "connection-31"
   },
   "chain_2": {
-    "chain_name": "noble-1",
+    "chain_name": "noble",
     "client_id": "07-tendermint-17",
     "connection_id": "connection-26"
   },
@@ -26,6 +26,49 @@
         "status": "live"
       }
     }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1709m80x3w2cuhx63jzrqk9pukn6n29l2kdc2uw"
+      },
+      "chain_2": {
+        "address": "noble1m7m26sr22thnlwwywfyf2tvu9vlqjdtr2w570y"
+      },
+      "memo": "Relayed by B-Harvest",
+      "name": "B-Harvest",
+      "discord": {
+        "handle": "lucas_bharvest",
+        "id": "919820537952354334"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "noble1nts9ckkhj226kxrmal40ak24hytczplhpg2acq"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord": {
+        "handle": "meetrick",
+        "id": "859968765163733003"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1l267dmlmprhu4p5aqslf50f495vjqlg3glkqcu"
+      },
+      "chain_2": {
+        "address": "noble1l267dmlmprhu4p5aqslf50f495vjqlg34hlv29"
+      },
+      "memo": "Relayed for you by Crosnest.",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    }
   ]
 }
-

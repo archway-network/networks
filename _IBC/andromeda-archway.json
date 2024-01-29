@@ -1,0 +1,74 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-58",
+    "connection_id": "connection-68"
+  },
+  "chain_2": {
+    "chain_name": "andromeda",
+    "client_id": "07-tendermint-9",
+    "connection_id": "connection-9"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-97",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-11",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "{\"fee_version\":\"ics29-1\",\"app_version\":\"ics20-1\"}",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1n3llt9ms7zcjqmdc3dxwk58mkewc40nk20ls4u"
+      },
+      "chain_2": {
+        "address": "andr1n3llt9ms7zcjqmdc3dxwk58mkewc40nk80tkrx"
+      },
+      "memo": "Crosnest IBC relayer",
+      "name": "Crosnest",
+      "discord": {
+        "handle": "galadrin_crosnest",
+        "id": "339485547300913156"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
+      },
+      "chain_2": {
+        "address": "andr1cmnkyhzk9uuwahk6kyeg640z6lwcydzvpkk5xm"
+      },
+      "memo": "Relayed by CroutonDigital",
+      "name": "CroutonDigital",
+      "discord": {
+        "handle": "ak32821",
+        "id": "894499551807950868"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
+      },
+      "chain_2": {
+        "address": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"
+      },
+      "memo": "staketown-relayer",
+      "name": "StakeTown",
+      "discord": {
+        "handle": "hottochelli",
+        "id": "653208183325589529"
+      }
+    }
+  ]
+}

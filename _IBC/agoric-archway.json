@@ -1,0 +1,74 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "agoric",
+    "client_id": "07-tendermint-75",
+    "connection_id": "connection-69"
+  },
+  "chain_2": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-23",
+    "connection_id": "connection-21"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-60",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-20",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
+      },
+      "chain_2": {
+        "address": "agoric1twmgaeug7ymjq8c53ttstpl7rny43q8zh4rnh3"
+      },
+      "memo": "Relayed by kjnodes",
+      "name": "kjnodes",
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway14n8p425hz5l6xxcrq4ml00djkmwezm0m0uunqz"
+      },
+      "chain_2": {
+        "address": "agoric14n8p425hz5l6xxcrq4ml00djkmwezm0mg2zg6r"
+      },
+      "memo": "[NODERS]TEAM Relayer | hermes 1.7.0+e98bd7e83 (https://hermes.informal.systems)",
+      "name": "[NODERS]TEAM",
+      "discord": {
+        "handle": "nodersseptima",
+        "id": "811947913537519647"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway18p5jxxtsgdcn2un0jarase89a2cgtetyaf8qce"
+      },
+      "chain_2": {
+        "address": "agoric18p5jxxtsgdcn2un0jarase89a2cgtety6lemzc"
+      },
+      "memo": "Nodes.Guru | https://stake.nodes.guru",
+      "name": "Nodes.Guru",
+      "discord": {
+        "handle": "0xan_nodes_guru",
+        "id": "656918310964953112"
+      }
+    }
+  ]
+}

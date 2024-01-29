@@ -1,0 +1,42 @@
+---
+name: Validate endpoints
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  EndpointsValidation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dorny/paths-filter@v2
+        id: filter
+        with:
+          list-files: shell
+          filters: |
+            chain:
+              - added|modified: '**/chain.json'
+      - uses: actions/checkout@v4
+        if: ${{ steps.filter.outputs.chain_files != null }}
+        with:
+          fetch-depth: 0
+      - name: Install grpcurl
+        if: ${{ steps.filter.outputs.chain_files != null }}
+        uses: jaxxstorm/action-install-gh-release@v1
+        with:
+          repo: fullstorydev/grpcurl
+          tag: v1.8.7
+      - name: Validate changed endpoints
+        if: ${{ steps.filter.outputs.chain_files != null }}
+        shell: bash {0}
+        run: |
+          declare -i result=0
+          paths=(${{ steps.filter.outputs.chain_files }})
+          for path in "${paths[@]}"; do
+              echo "Checking $path" >&2
+              $(scripts/endpoints-checker.sh $path)
+              result=$(($result+$?))
+          done
+          if [[ "$result" -gt 0 ]]; then
+              exit 1
+          fi

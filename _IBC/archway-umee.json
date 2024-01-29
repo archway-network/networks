@@ -1,12 +1,12 @@
 {
-  "$schema": "../ibc_data_schema.json",
+  "$schema": "../ibc_data.schema.json",
   "chain_1": {
-    "chain_name": "archway-1",
+    "chain_name": "archway",
     "client_id": "07-tendermint-6",
     "connection_id": "connection-5"
   },
   "chain_2": {
-    "chain_name": "umee-1",
+    "chain_name": "umee",
     "client_id": "07-tendermint-228",
     "connection_id": "connection-190"
   },
@@ -30,14 +30,17 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0" 
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
       },
       "chain_2": {
         "address": "umee13qulwhndn3lldt9v2km7tu2gfnhg3emzxmu6vy"
       },
       "memo": "mzonder",
       "name": "mzonder",
-      "discord_handle": "mzonder"
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     },
     {
       "chain_1": {
@@ -48,9 +51,12 @@
       },
       "memo": "Relayed by kjnodes",
       "name": "kjnodes",
-      "discord_handle": "kjnodes"
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
     },
-        {
+    {
       "chain_1": {
         "address": "archway16l5ls4ajah6hethh374tpgn42r5q4sqeuw8udj"
       },
@@ -59,7 +65,66 @@
       },
       "memo": "by AM Solutions | https://www.theamsolutions.info",
       "name": "AM Solutions",
-      "discord_handle": "AlexeyM#5409"
+      "discord": {
+        "handle": "amsolutions",
+        "id": "852503078128189440"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "umee1nts9ckkhj226kxrmal40ak24hytczplhmaz2yu"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord": {
+        "handle": "meetrick",
+        "id": "859968765163733003"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1j694ux46ughsp7rd20ghzxhtc2dd53v9m0ckya"
+      },
+      "chain_2": {
+        "address": "umee14ym67y5zwq6qzkek9rlh58zugqrp6hhj8q3qc5"
+      },
+      "memo": "Relayed by Pro-Nodes75",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
+      },
+      "chain_2": {
+        "address": "umee1jqz2205er0d8657ugll98c462cyplkcqdml2ue"
+      },
+      "memo": "Relayed by Huginn | https://huginn.tech ",
+      "name": "Huginn",
+      "discord": {
+        "handle": "gökay#5690",
+        "id": "259764661602222091"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1pdvq7k50jpae8gm66dyuwrmhee6a40xqwvsg54"
+      },
+      "chain_2": {
+        "address": "umee1pdvq7k50jpae8gm66dyuwrmhee6a40xqf33n6s"
+      },
+      "memo": "Relayed by Baryon | https://baryon.guru ",
+      "name": "Baryon",
+      "discord": {
+        "handle": "kai_baryon",
+        "id": "3115DDA1633A6964"
+      }
     }
   ]
 }

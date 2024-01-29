@@ -4,7 +4,7 @@
     "status": "live",
     "network_type": "testnet",
     "website": "https://archway.io/",
-    "pretty_name": "Archway",
+    "pretty_name": "Archway Testnet",
     "chain_id": "constantine-3",
     "bech32_prefix": "archway",
     "daemon_name": "archwayd",
@@ -38,7 +38,10 @@
         "linux/arm64": "https://github.com/archway-network/archway/releases/download/v1.0.1/archwayd_linux_arm64"
       },
       "cosmos_sdk_version": "v0.45.16",
-      "tendermint_version": "v0.34.27",
+      "consensus": {
+        "type": "tendermint",
+        "version": "v0.34.27"
+      },
       "cosmwasm_version": "v0.32.0",
       "cosmwasm_enabled": true,
       "ibc_go_version": "v4.3.1",
@@ -97,20 +100,32 @@
     "apis": {
       "rpc": [
         {
-          "address": "https://rpc.constantine.archway.tech",
+          "address": "https://rpc.constantine.archway.io",
           "provider": "Archway Foundation"
+        },
+        {
+          "address": "https://constantine.api.trivium.network:26657",
+          "provider": "TriviumX | Architech"
         }
       ],
       "rest": [
         {
-          "address": "https://api.constantine.archway.tech",
+          "address": "https://api.constantine.archway.io",
           "provider": "Archway Foundation"
+        },
+        {
+          "address": "https://constantine.api.trivium.network:1317",
+          "provider": "TriviumX | Architech"
         }
       ],
       "grpc": [
         {
-          "address": "grpc.constantine.archway.tech:443",
+          "address": "grpc.constantine.archway.io:443",
           "provider": "Archway Foundation"
+        },
+        {
+          "address": "constantine.api.trivium.network:9090",
+          "provider": "TriviumX | Architech"
         }
       ]
     },
@@ -126,7 +141,12 @@
         "url": "https://testnet.mintscan.io/archway-testnet",
         "tx_page": "https://testnet.mintscan.io/archway-testnet/txs/${txHash}",
         "account_page": "https://testnet.mintscan.io/archway-testnet/account/${accountAddress}"
+      },
+      {
+        "kind": "L0vd",
+        "url": "https://explorers.l0vd.com/archway-testnet",
+        "tx_page": "https://explorers.l0vd.com/archway-testnet/tx/${txHash}",
+        "account_page": "https://explorers.l0vd.com/archway-testnet/account/${accountAddress}"
       }
     ]
   }
-  
