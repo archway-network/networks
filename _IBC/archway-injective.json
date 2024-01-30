@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-67",
+    "connection_id": "connection-73"
+  },
+  "chain_2": {
+    "chain_name": "injective",
+    "client_id": "07-tendermint-249",
+    "connection_id": "connection-242"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-102",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-211",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
+      },
+      "chain_2": {
+        "address": "inj1ayp0emu7pxpgpeaxq8walyyx903nkd42yqva73"
+      },
+      "memo": "Relayed by CroutonDigital",
+      "name": "CroutonDigital",
+      "discord": {
+        "handle": "ak32821",
+        "id": "894499551807950868"
+      }
+    }
+  ]
+}
