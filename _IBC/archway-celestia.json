@@ -55,6 +55,20 @@
         "handle": "kjnodes",
         "id": "403199803330134018"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1p6u85sg2kqw06xe2wddkrw0sw0a6fjj8dc8wz5"
+      },
+      "chain_2": {
+        "address": "celestia17uare0l0fgjkj98j5tykc2dqn44x0uhpjvpe59"
+      },
+      "memo": "n1stake relayer",
+      "name": "n1stake",
+      "discord": {
+        "handle": "Vincagame",
+        "id": "401391144786722817"
+      }
     }
   ]
 }
