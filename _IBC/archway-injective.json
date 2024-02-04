@@ -41,6 +41,20 @@
         "handle": "ak32821",
         "id": "894499551807950868"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1p6u85sg2kqw06xe2wddkrw0sw0a6fjj8dc8wz5"
+      },
+      "chain_2": {
+        "address": "inj1unst56mkxe608j70eaxzmwgkhsctyaeajuuwyp"
+      },
+      "memo": "n1stake relayer",
+      "name": "n1stake",
+      "discord": {
+        "handle": "Vincagame",
+        "id": "401391144786722817"
+      }
     }
   ]
 }
