@@ -69,6 +69,20 @@
         "handle": "Vincagame",
         "id": "401391144786722817"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "celestia1cdlz8scnf3mmxdnf4njmtp7vz4gps7fsm503qe"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     }
   ]
 }
