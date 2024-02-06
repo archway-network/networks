@@ -1,0 +1,88 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-65",
+    "connection_id": "connection-71"
+  },
+  "chain_2": {
+    "chain_name": "celestia",
+    "client_id": "07-tendermint-77",
+    "connection_id": "connection-47"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-100",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-24",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
+      },
+      "chain_2": {
+        "address": "celestia1fq6ddllcan5fkmjyu93gwd7fyz06mu7xt95e9w"
+      },
+      "memo": "Relayed by CroutonDigital",
+      "name": "CroutonDigital",
+      "discord": {
+        "handle": "ak32821",
+        "id": "894499551807950868"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
+      },
+      "chain_2": {
+        "address": "celestia1twmgaeug7ymjq8c53ttstpl7rny43q8z5zsua2"
+      },
+      "memo": "Relayed by kjnodes",
+      "name": "kjnodes",
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1p6u85sg2kqw06xe2wddkrw0sw0a6fjj8dc8wz5"
+      },
+      "chain_2": {
+        "address": "celestia17uare0l0fgjkj98j5tykc2dqn44x0uhpjvpe59"
+      },
+      "memo": "n1stake relayer",
+      "name": "n1stake",
+      "discord": {
+        "handle": "Vincagame",
+        "id": "401391144786722817"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "celestia1cdlz8scnf3mmxdnf4njmtp7vz4gps7fsm503qe"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
+    }
+  ]
+}
