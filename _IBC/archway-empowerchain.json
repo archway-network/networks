@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-81",
+    "connection_id": "connection-82"
+  },
+  "chain_2": {
+    "chain_name": "empowerchain",
+    "client_id": "07-tendermint-11",
+    "connection_id": "connection-8"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-111",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-8",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "empower1vg8ushym259e20h85enjr4wppetzxmaj72svye"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
+    }
+  ]
+}
