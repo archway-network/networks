@@ -100,6 +100,20 @@
         "handle": "hakai0625",
         "id": "1134470370783670282"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "neutron1ryq6zncdxpdnnwhn9h24ar48ap9zkqglaz9gst"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
+      }
     }
   ]
 }
