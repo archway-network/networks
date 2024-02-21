@@ -69,6 +69,20 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1dvfr02esfgkhwxrlv6x3dcq5cy58pcvyjam438"
+      },
+      "chain_2": {
+        "address": "noble15tmz024xrncl6n8kawzws6nzauua85pktjrepv"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
     }
   ]
 }
