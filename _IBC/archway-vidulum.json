@@ -1,0 +1,60 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-80",
+    "connection_id": "connection-81"
+  },
+  "chain_2": {
+    "chain_name": "vidulum",
+    "client_id": "07-tendermint-49",
+    "connection_id": "connection-46"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-110",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-24",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1z7egdvtck5zqn7xgyvcg05t0d2hergshte67nl"
+      },
+      "chain_2": {
+        "address": "vdl17mlshknvhl0vzdwgraukw0k8ss6ad953ld0k4n"
+      },
+      "memo": "Vidulum Relayer",
+      "name": "Corey",
+      "discord": {
+        "handle": "coreym_official",
+        "id": "432601608484814848"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1lk6ncz5xrfs2syhu42hz895advhsttd5ekecn6"
+      },
+      "chain_2": {
+        "address": "vdl1nl6k0d8uwnxtau9ftuyja3888u8gwn9jpcgg7t"
+      },
+      "memo": "Relayed by 🐔 The Chicken Coop 🦝",
+      "name": "red",
+      "discord": {
+        "handle": "redhaze",
+        "id": "267114625567293441"
+      }
+    }
+  ]
+}
