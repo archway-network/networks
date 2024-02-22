@@ -107,6 +107,20 @@
         "handle": "ironbharvest",
         "id": "1000933680136585266"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "axelar1ryq6zncdxpdnnwhn9h24ar48ap9zkqglan6zpd"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
+      }
     }
   ]
 }
