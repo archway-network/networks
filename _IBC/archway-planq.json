@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-82",
+    "connection_id": "connection-83"
+  },
+  "chain_2": {
+    "chain_name": "planq",
+    "client_id": "07-tendermint-561",
+    "connection_id": "connection-486"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-112",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-62",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
+      },
+      "chain_2": {
+        "address": "plq1hpee9ds0q9ma79d8jyh969thju75cm43npms6q"
+      },
+      "memo": "staketown-relayer",
+      "name": "StakeTown",
+      "discord": {
+        "handle": "hottochelli",
+        "id": "653208183325589529"
+      }
+    }
+  ]
+}
