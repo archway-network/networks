@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-84",
+    "connection_id": "connection-84"
+  },
+  "chain_2": {
+    "chain_name": "passage",
+    "client_id": "07-tendermint-3",
+    "connection_id": "connection-3"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-113",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-2",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+      },
+      "chain_2": {
+        "address": "pasg1muakfr26e3gg25kxgd80ejhpayupqw0x3wh5pk"
+      },
+      "memo": "Stake with us!",
+      "name": "Validatrium",
+      "discord": {
+        "handle": "validatrium_yuri_tech",
+        "id": "919880039753973780"
+      }
+    }
+  ]
+}
