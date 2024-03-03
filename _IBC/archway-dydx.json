@@ -55,6 +55,20 @@
         "handle": "Vincagame",
         "id": "401391144786722817"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
+      },
+      "chain_2": {
+        "address": "dydx164taprct9ajj82gqfmckzezvyxnzs9tljzq95s"
+      },
+      "memo": "Relayed by ENZORO",
+      "name": "ENZORO",
+      "discord": {
+        "handle": "enz0ro",
+        "id": "876544147970994236"
+      }
     }
   ]
 }

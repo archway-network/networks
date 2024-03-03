@@ -41,6 +41,20 @@
         "handle": "ak32821",
         "id": "894499551807950868"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
+      },
+      "chain_2": {
+        "address": "cudos10wjpyjnlv5yf3mm7tjcjh6rtfjlpgf0yg7r3d9"
+      },
+      "memo": "Relayed by ENZORO",
+      "name": "ENZORO",
+      "discord": {
+        "handle": "enz0ro",
+        "id": "876544147970994236"
+      }
     }
   ]
 }

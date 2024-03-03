@@ -55,6 +55,34 @@
         "handle": "mzonder",
         "id": "397204139005706240"
       }
-    }
+    },
+    {
+      "chain_1": {
+        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
+      },
+      "chain_2": {
+        "address": "pylo14mqc6kd8wjsr7dru3wa87dvw5p24tf3hppmpw7"
+      },
+      "memo": "Relayed by ENZORO",
+      "name": "ENZORO",
+      "discord": {
+        "handle": "enz0ro",
+        "id": "876544147970994236"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1dvfr02esfgkhwxrlv6x3dcq5cy58pcvyjam438"
+      },
+      "chain_2": {
+        "address": "pylo187skr8dsjcy0zr8uvrcufe8us4sst600jx47ew"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
+    } 
   ]
 }
