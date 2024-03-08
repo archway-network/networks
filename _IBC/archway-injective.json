@@ -83,6 +83,20 @@
         "handle": "enz0ro",
         "id": "876544147970994236"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "inj1vy7g76wljh7n99wz4539v2c80kcvaunwa793pk"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord": {
+        "handle": "meetrick",
+        "id": "859968765163733003"
+      }
     }
   ]
 }
