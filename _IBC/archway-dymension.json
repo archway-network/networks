@@ -2,22 +2,22 @@
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
     "chain_name": "archway",
-    "client_id": "07-tendermint-90",
-    "connection_id": "connection-88"
+    "client_id": "07-tendermint-91",
+    "connection_id": "connection-89"
   },
   "chain_2": {
-    "chain_name": "sentinel",
-    "client_id": "07-tendermint-198",
-    "connection_id": "connection-154"
+    "chain_name": "dymension",
+    "client_id": "07-tendermint-39",
+    "connection_id": "connection-30"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-118",
+        "channel_id": "channel-123",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-92",
+        "channel_id": "channel-45",
         "port_id": "transfer"
       },
       "ordering": "unordered",
@@ -30,24 +30,10 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
-      },
-      "chain_2": {
-        "address": "sent1hazrwqzj0eqrxy7t09u2e42l5ckxwy3f9p38de"
-      },
-      "memo": "Relayed by ENZORO",
-      "name": "ENZORO",
-      "discord": {
-        "handle": "enz0ro",
-        "id": "876544147970994236"
-      }
-    },
-    {
-      "chain_1": {
         "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
       },
       "chain_2": {
-        "address": "sent17pns7ujcjutrxrf9u0t9znvg5x3hv8l56flmnx"
+        "address": "dym1p7ewhq483zfrj6y23n3duj7anyx558wqu860jc"
       },
       "memo": "Relayed by CroutonDigital",
       "name": "CroutonDigital",

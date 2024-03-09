@@ -55,20 +55,6 @@
         "handle": "amsolutions",
         "id": "852503078128189440"
       }
-    },
-    {
-      "chain_1": {
-        "address": "archway1jmzv7q8v2s86ta7jl3f7yd5j5e8xqqp5rmpflc"
-      },
-      "chain_2": {
-        "address": "decentr1fpzkxywl6pqlz2qssqunp5ztwm7eqmraz34zhy"
-      },
-      "memo": "Relayed by vinjan",
-      "name": "vinjan",
-      "discord": {
-        "handle": "vinjan",
-        "id": "824628985488736336"  
-      }
     }
   ]
 }
