@@ -41,6 +41,20 @@
         "handle": "ak32821",
         "id": "894499551807950868"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1dvfr02esfgkhwxrlv6x3dcq5cy58pcvyjam438"
+      },
+      "chain_2": {
+        "address": "dym1nnxgtp6at89q4675edndcawwp9q7knhafe7xx7"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
     }
   ]
 }
