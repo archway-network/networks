@@ -55,6 +55,21 @@
       "tags": {
         "status": "live"
       }
+    },
+    {
+      "chain_1": {
+        "channel_id": "channel-*",
+        "port_id": "wasm.*"
+      },
+      "chain_2": {
+        "channel_id": "channel-*",
+        "port_id": "icahost"
+      },
+      "ordering": "ordered",
+      "version": "*",
+      "tags": {
+        "status": "live"
+      }
     }
   ],
   "operators": [
