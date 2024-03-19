@@ -58,11 +58,11 @@
     },
     {
       "chain_1": {
-        "channel_id": "channel-*",
+        "channel_id": "*",
         "port_id": "wasm.*"
       },
       "chain_2": {
-        "channel_id": "channel-*",
+        "channel_id": "*",
         "port_id": "icahost"
       },
       "ordering": "ordered",
