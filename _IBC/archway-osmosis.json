@@ -66,7 +66,7 @@
         "port_id": "icahost"
       },
       "ordering": "ordered",
-      "version": "*",
+      "version": "ics27-1",
       "tags": {
         "status": "live"
       }
