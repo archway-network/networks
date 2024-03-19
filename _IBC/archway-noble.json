@@ -83,6 +83,20 @@
         "handle": "sw33pronodes",
         "id": "748273679711994028"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "noble1g705249p7cz56tvhmxx42hkg06lnw3lp8e3fjn"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     }
   ]
 }
