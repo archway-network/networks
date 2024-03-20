@@ -1,0 +1,42 @@
+{
+    "$schema": "../ibc_data.schema.json",
+    "chain_1": {
+        "chain_name": "archway",
+        "client_id": "07-tendermint-92",
+        "connection_id": "connection-90"
+    },
+    "chain_2": {
+        "chain_name": "bitsong",
+        "client_id": "07-tendermint-80",
+        "connection_id": "connection-55"
+    },
+    "channels": [
+        {
+            "chain_1": {
+                "channel_id": "channel-124",
+                "port_id": "transfer"
+            },
+            "chain_2": {
+                "channel_id": "channel-29",
+                "port_id": "transfer"
+            },
+            "ordering": "unordered",
+            "version": "ics20-1",
+            "tags": {
+                "status": "live"
+            }
+        }
+    ],
+    "operators": [
+        {
+          "chain_1": {
+            "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+          },
+          "chain_2": {
+            "address": "bitsong1ku7u5axp3rpyk6kky02j9v5rp0j98v8ymzku35"
+          },
+          "memo": "Relayed by Validatrium",
+          "name": "Validatrium"
+        }
+    ]
+}
