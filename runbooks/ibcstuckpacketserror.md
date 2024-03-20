@@ -6,7 +6,7 @@ Relayer exporter failed to get metrics about stuck packets from the configured R
 
 ## Impact
 
-IBC stuck packets monitoring for this perticular connection is currently offline
+IBC stuck packets monitoring for this particular connection is currently offline
 
 ## Diagnosis
 
