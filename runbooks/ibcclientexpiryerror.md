@@ -6,7 +6,7 @@ Relayer exporter failed to get metrics about client expiry from the configured R
 
 ## Impact
 
-IBC client expiry monitoring for this perticular connection is currently offline
+IBC client expiry monitoring for this particular connection is currently offline
 
 ## Diagnosis
 
