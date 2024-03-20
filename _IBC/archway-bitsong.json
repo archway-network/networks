@@ -26,5 +26,17 @@
                 "status": "live"
             }
         }
+    ],
+    "operators": [
+        {
+          "chain_1": {
+            "address": "archway1muakfr26e3gg25kxgd80ejhpayupqw0x8aj2x7"
+          },
+          "chain_2": {
+            "address": "bitsong1ku7u5axp3rpyk6kky02j9v5rp0j98v8ymzku35"
+          },
+          "memo": "Relayed by Validatrium",
+          "name": "Validatrium"
+        }
     ]
 }
