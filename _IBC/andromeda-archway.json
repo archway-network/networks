@@ -72,11 +72,11 @@
     },
     {
       "chain_1": {
-        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
-      },
-      "chain_2": {
         "address": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
       },
+      "chain_2": {
+        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
+      },
       "memo": "Relayed with \\ud83d\\udc9c by Lavender.Five Nodes \\ud83d\\udc1d",
       "name": "Lavender.Five Nodes",
       "discord": {
@@ -86,11 +86,11 @@
     },
     {
       "chain_1": {
-        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
-      },
-      "chain_2": {
         "address": "archway1ure9g8re7h3qpk7d976e6t8yf4l9lz2e78dfaa"
       },
+      "chain_2": {
+        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
+      },
       "memo": "Relayed with \\ud83d\\udc9c by Lavender.Five Nodes \\ud83d\\udc1d",
       "name": "Lavender.Five Nodes",
       "discord": {
@@ -100,11 +100,11 @@
     },
     {
       "chain_1": {
-        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
-      },
-      "chain_2": {
         "address": "archway159rufrfkf5g8qld5zqlsejesr4mlnfx08atkq7"
       },
+      "chain_2": {
+        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
+      },
       "memo": "Relayed with \\ud83d\\udc9c by Lavender.Five Nodes \\ud83d\\udc1d",
       "name": "Lavender.Five Nodes",
       "discord": {
@@ -114,11 +114,11 @@
     },
     {
       "chain_1": {
-        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
-      },
-      "chain_2": {
         "address": "archway1j6swju2q7zywxmpcttcw4k98j7fphx5np9lvwp"
       },
+      "chain_2": {
+        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
+      },
       "memo": "Relayed with \\ud83d\\udc9c by Lavender.Five Nodes \\ud83d\\udc1d",
       "name": "Lavender.Five Nodes",
       "discord": {
@@ -128,11 +128,11 @@
     },
     {
       "chain_1": {
-        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
-      },
-      "chain_2": {
         "address": "archway1aypuqvaaq54jn3zleqd6lamnxruun5ne55jyqc"
       },
+      "chain_2": {
+        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
+      },
       "memo": "Relayed with \\ud83d\\udc9c by Lavender.Five Nodes \\ud83d\\udc1d",
       "name": "Lavender.Five Nodes",
       "discord": {
@@ -142,10 +142,10 @@
     },
     {
       "chain_1": {
-        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
+        "address": "archway1nzjcsulyfxh0evmajk3ruawh407h5x8f9jz0jn"
       },
       "chain_2": {
-        "address": "archway1nzjcsulyfxh0evmajk3ruawh407h5x8f9jz0jn"
+        "address": "andr18xrruhq5r246mwk0yj9elnn3mte8xa9uc7n0s3"
       },
       "memo": "Relayed with \\ud83d\\udc9c by Lavender.Five Nodes \\ud83d\\udc1d",
       "name": "Lavender.Five Nodes",
