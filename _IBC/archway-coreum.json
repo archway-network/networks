@@ -2,22 +2,22 @@
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
     "chain_name": "archway",
-    "client_id": "07-tendermint-103",
-    "connection_id": "connection-91"
+    "client_id": "07-tendermint-105",
+    "connection_id": "connection-93"
   },
   "chain_2": {
     "chain_name": "coreum",
-    "client_id": "07-tendermint-45",
-    "connection_id": "connection-30"
+    "client_id": "07-tendermint-47",
+    "connection_id": "connection-32"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-125",
+        "channel_id": "channel-127",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-28",
+        "channel_id": "channel-30",
         "port_id": "transfer"
       },
       "ordering": "unordered",
