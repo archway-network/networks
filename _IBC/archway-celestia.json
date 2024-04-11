@@ -97,6 +97,20 @@
         "handle": "sw33pronodes",
         "id": "748273679711994028"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
+      },
+      "chain_2": {
+        "address": "celestia1dkd967wypqe8rh0cf9rerwgpllazdqcw0sd8hk"
+      },
+      "memo": "staketown-relayer",
+      "name": "StakeTown",
+      "discord": {
+        "handle": "hottochelli",
+        "id": "653208183325589529"
+      }
     }
   ]
 }
