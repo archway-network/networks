@@ -69,6 +69,34 @@
         "handle": "galadrin_crosnest",
         "id": "339485547300913156"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1dvfr02esfgkhwxrlv6x3dcq5cy58pcvyjam438"
+      },
+      "chain_2": {
+        "address": "noble15tmz024xrncl6n8kawzws6nzauua85pktjrepv"
+      },
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
+      "discord": {
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1y8k9a33967dm9n7a8u2d2l6q9m7teecvnxy0t0"
+      },
+      "chain_2": {
+        "address": "noble1g705249p7cz56tvhmxx42hkg06lnw3lp8e3fjn"
+      },
+      "memo": "mzonder",
+      "name": "mzonder",
+      "discord": {
+        "handle": "mzonder",
+        "id": "397204139005706240"
+      }
     }
   ]
 }

@@ -28,7 +28,7 @@ function create_grant() {
 }
 
 # Authenticate
-KEY=$(archwayd keys list --output json --keyring-backend test |jq -r '.[] | select(.name=="mainnet-relayer-archway")' )
+KEY=$(archwayd keys list --output json --keyring-backend test |jq -r '.[] | select(.name=="mainnet-relayer-archway")' ) || true
 if [[ -z "$KEY" ]]; then
   echo "Could not find mainnet-relayer-archway key, adding it" >&2
   echo "$MNEMONIC" | archwayd keys add mainnet-relayer-archway --keyring-backend test --recover

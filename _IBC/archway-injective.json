@@ -55,6 +55,48 @@
         "handle": "Vincagame",
         "id": "401391144786722817"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "inj1jszj9xyh2eh8lx25u88rsv7hmsytvwsvr6cne0"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
+      },
+      "chain_2": {
+        "address": "inj1qyx03wzez6xutjf5v9hxj3tgvhrne9kvf7mjj6"
+      },
+      "memo": "Relayed by ENZORO",
+      "name": "ENZORO",
+      "discord": {
+        "handle": "enz0ro",
+        "id": "876544147970994236"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
+      },
+      "chain_2": {
+        "address": "inj1vy7g76wljh7n99wz4539v2c80kcvaunwa793pk"
+      },
+      "memo": "Relayed by DSRV",
+      "name": "DSRV",
+      "discord": {
+        "handle": "meetrick",
+        "id": "859968765163733003"
+      }
     }
   ]
 }

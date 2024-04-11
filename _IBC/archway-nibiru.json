@@ -1,0 +1,46 @@
+{
+  "$schema": "../ibc_data.schema.json",
+  "chain_1": {
+    "chain_name": "archway",
+    "client_id": "07-tendermint-106",
+    "connection_id": "connection-94"
+  },
+  "chain_2": {
+    "chain_name": "nibiru",
+    "client_id": "07-tendermint-3",
+    "connection_id": "connection-3"
+  },
+  "channels": [
+    {
+      "chain_1": {
+        "channel_id": "channel-131",
+        "port_id": "transfer"
+      },
+      "chain_2": {
+        "channel_id": "channel-3",
+        "port_id": "transfer"
+      },
+      "ordering": "unordered",
+      "version": "ics20-1",
+      "tags": {
+        "status": "live"
+      }
+    }
+  ],
+  "operators": [
+    {
+      "chain_1": {
+        "address": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
+      },
+      "chain_2": {
+        "address": "nibi1twmgaeug7ymjq8c53ttstpl7rny43q8zjd94w5"
+      },
+      "memo": "Relayed by kjnodes",
+      "name": "kjnodes",
+      "discord": {
+        "handle": "kjnodes",
+        "id": "403199803330134018"
+      }
+    }
+  ]
+}

@@ -34,7 +34,7 @@ jobs:
         uses: jaxxstorm/action-install-gh-release@v1
         with:
           repo: archway-network/archway
-          tag: v4.0.2
+          tag: v6.0.2
       - name: Create the fee grant
         env:
           MNEMONIC: ${{ secrets.FEEGRANT }}

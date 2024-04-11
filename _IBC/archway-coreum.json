@@ -2,22 +2,22 @@
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
     "chain_name": "archway",
-    "client_id": "07-tendermint-74",
-    "connection_id": "connection-78"
+    "client_id": "07-tendermint-105",
+    "connection_id": "connection-93"
   },
   "chain_2": {
-    "chain_name": "persistence",
-    "client_id": "07-tendermint-165",
-    "connection_id": "connection-203"
+    "chain_name": "coreum",
+    "client_id": "07-tendermint-47",
+    "connection_id": "connection-32"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-107",
+        "channel_id": "channel-127",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-156",
+        "channel_id": "channel-30",
         "port_id": "transfer"
       },
       "ordering": "unordered",
@@ -33,27 +33,13 @@
         "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
       },
       "chain_2": {
-        "address": "persistence163q6acq0qcvx8adye8t46wx5pdzpfvxnejlx6m"
+        "address": "core1yzwae8sy5pxe3pkdwh9prnj0ump90yg4x2eyfk"
       },
       "memo": "Relayed by CroutonDigital",
       "name": "CroutonDigital",
       "discord": {
         "handle": "ak32821",
         "id": "894499551807950868"
-      }
-    },
-    {
-      "chain_1": {
-        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
-      },
-      "chain_2": {
-        "address": "persistence13n6tsdj2a72s4ytdqzcvnqul7nx2qrpfftzc9e"
-      },
-      "memo": "Relayed by ENZORO",
-      "name": "ENZORO",
-      "discord": {
-        "handle": "enz0ro",
-        "id": "876544147970994236"
       }
     }
   ]

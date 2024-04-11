@@ -2,22 +2,22 @@
   "$schema": "../ibc_data.schema.json",
   "chain_1": {
     "chain_name": "archway",
-    "client_id": "07-tendermint-74",
-    "connection_id": "connection-78"
+    "client_id": "07-tendermint-91",
+    "connection_id": "connection-89"
   },
   "chain_2": {
-    "chain_name": "persistence",
-    "client_id": "07-tendermint-165",
-    "connection_id": "connection-203"
+    "chain_name": "dymension",
+    "client_id": "07-tendermint-39",
+    "connection_id": "connection-30"
   },
   "channels": [
     {
       "chain_1": {
-        "channel_id": "channel-107",
+        "channel_id": "channel-123",
         "port_id": "transfer"
       },
       "chain_2": {
-        "channel_id": "channel-156",
+        "channel_id": "channel-45",
         "port_id": "transfer"
       },
       "ordering": "unordered",
@@ -33,7 +33,7 @@
         "address": "archway1ejkj6ssfuwsea0lj9g84n0fsdzkzs28v9p7ju4"
       },
       "chain_2": {
-        "address": "persistence163q6acq0qcvx8adye8t46wx5pdzpfvxnejlx6m"
+        "address": "dym1p7ewhq483zfrj6y23n3duj7anyx558wqu860jc"
       },
       "memo": "Relayed by CroutonDigital",
       "name": "CroutonDigital",
@@ -44,16 +44,16 @@
     },
     {
       "chain_1": {
-        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
+        "address": "archway1dvfr02esfgkhwxrlv6x3dcq5cy58pcvyjam438"
       },
       "chain_2": {
-        "address": "persistence13n6tsdj2a72s4ytdqzcvnqul7nx2qrpfftzc9e"
+        "address": "dym1nnxgtp6at89q4675edndcawwp9q7knhafe7xx7"
       },
-      "memo": "Relayed by ENZORO",
-      "name": "ENZORO",
+      "memo": "Pro-Nodes75 Relayer",
+      "name": "Pro-Nodes75",
       "discord": {
-        "handle": "enz0ro",
-        "id": "876544147970994236"
+        "handle": "sw33pronodes",
+        "id": "748273679711994028"
       }
     }
   ]

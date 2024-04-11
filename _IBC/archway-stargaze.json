@@ -74,20 +74,6 @@
     },
     {
       "chain_1": {
-        "address": "archway1jmzv7q8v2s86ta7jl3f7yd5j5e8xqqp5rmpflc"
-      },
-      "chain_2": {
-        "address": "stars1a5rs0ux4a6eq6qwfr9p7qqj6rejptzrgd8ucsz"
-      },
-      "memo": "Relayed by vinjan",
-      "name": "vinjan",
-      "discord": {
-        "handle": "vinjan",
-        "id": "824628985488736336"
-      }
-    },
-    {
-      "chain_1": {
         "address": "archway1p6u85sg2kqw06xe2wddkrw0sw0a6fjj8dc8wz5"
       },
       "chain_2": {
@@ -98,6 +84,20 @@
       "discord": {
         "handle": "Vincagame",
         "id": "401391144786722817"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "stars1ryq6zncdxpdnnwhn9h24ar48ap9zkqgldpmhpa"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
       }
     }
   ]

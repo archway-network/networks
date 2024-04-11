@@ -55,6 +55,34 @@
         "handle": "nodestake",
         "id": "814168584104050710"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "jkl1ryq6zncdxpdnnwhn9h24ar48ap9zkqglqrzmnn"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
+      },
+      "chain_2": {
+        "address": "jkl1us3t5gsd6wrw8mk3d82ju4rnt9skxvtd9mmder"
+      },
+      "memo": "Relayed by ENZORO",
+      "name": "ENZORO",
+      "discord": {
+        "handle": "enz0ro",
+        "id": "876544147970994236"
+      }
     }
   ]
 }

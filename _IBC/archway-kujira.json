@@ -97,6 +97,20 @@
         "handle": "bigb4ever",
         "id": "400514913505640451"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "kujira1ryq6zncdxpdnnwhn9h24ar48ap9zkqglg4wj8x"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
+      }
     }
   ]
 }

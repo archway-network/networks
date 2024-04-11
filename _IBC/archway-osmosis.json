@@ -55,6 +55,21 @@
       "tags": {
         "status": "live"
       }
+    },
+    {
+      "chain_1": {
+        "channel_id": "*",
+        "port_id": "wasm.*"
+      },
+      "chain_2": {
+        "channel_id": "*",
+        "port_id": "icahost"
+      },
+      "ordering": "ordered",
+      "version": "ics27-1",
+      "tags": {
+        "status": "live"
+      }
     }
   ],
   "operators": [
@@ -206,6 +221,20 @@
       "discord": {
         "handle": "ak32821",
         "id": "894499551807950868"
+      }
+    },
+    {
+      "chain_1": {
+        "address": "archway1ryq6zncdxpdnnwhn9h24ar48ap9zkqglvkswqm"
+      },
+      "chain_2": {
+        "address": "osmo1ryq6zncdxpdnnwhn9h24ar48ap9zkqgl3xl6u7"
+      },
+      "memo": "Eat, Sleep, Relay, Repeat - by Team WhisperNode \ud83e\udd10",
+      "name": "WhisperNode",
+      "discord": {
+        "handle": "ghostdotexe",
+        "id": "704175156595130441"
       }
     }
   ]
