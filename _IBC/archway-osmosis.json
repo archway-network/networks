@@ -70,6 +70,21 @@
       "tags": {
         "status": "live"
       }
+    },
+    {
+      "chain_1": {
+        "channel_id": "*",
+        "port_id": "wasm.*"
+      },
+      "chain_2": {
+        "channel_id": "*",
+        "port_id": "icqhost"
+      },
+      "ordering": "unordered",
+      "version": "icq-1",
+      "tags": {
+        "status": "live"
+      }
     }
   ],
   "operators": [
@@ -152,12 +167,12 @@
         "handle": "josect_hs",
         "id": "360160710497533953"
       }
-   },
-   {
-     "chain_1": {
+    },
+    {
+      "chain_1": {
         "address": "archway1jqz2205er0d8657ugll98c462cyplkcq2x73ju"
       },
-     "chain_2": {
+      "chain_2": {
         "address": "osmo1jqz2205er0d8657ugll98c462cyplkcqhk39we"
       },
       "memo": "Relayed by Huginn | https://huginn.tech ",
