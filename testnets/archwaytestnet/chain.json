@@ -77,6 +77,11 @@
           "id": "e8d60ff778f3c27f54382ff22c7ac071f2a81027",
           "address": "35.223.36.227:26656",
           "provider": "Archway Foundation"
+        },
+        {
+          "id": "3f472746f46493309650e5a033076689996c8881",
+          "address": "archway-testnet.rpc.kjnodes.com:15659",
+          "provider": "kjnodes"
         }
       ],
       "persistent_peers": [
@@ -94,6 +99,11 @@
           "id": "7786f708c1851dd433a03f71ec3ff74d65895de7",
           "address": "34.31.130.235:26656",
           "provider": "Archway Foundation"
+        },
+        {
+          "id": "d5519e378247dfb61dfe90652d1fe3e2b3005a5b",
+          "address": "archway-testnet.rpc.kjnodes.com:15656",
+          "provider": "kjnodes"
         }
       ]
     },
@@ -106,6 +116,10 @@
         {
           "address": "https://constantine.api.trivium.network:26657",
           "provider": "TriviumX | Architech"
+        },
+        {
+          "address": "https://archway-testnet.rpc.kjnodes.com",
+          "provider": "kjnodes"
         }
       ],
       "rest": [
@@ -116,6 +130,10 @@
         {
           "address": "https://constantine.api.trivium.network:1317",
           "provider": "TriviumX | Architech"
+        },
+        {
+          "address": "https://archway-testnet.api.kjnodes.com",
+          "provider": "kjnodes"
         }
       ],
       "grpc": [
@@ -126,6 +144,10 @@
         {
           "address": "constantine.api.trivium.network:9090",
           "provider": "TriviumX | Architech"
+        },
+        {
+          "address": "archway-testnet.grpc.kjnodes.com:443",
+          "provider": "kjnodes"
         }
       ]
     },
