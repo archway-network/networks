@@ -9,9 +9,7 @@
   "bech32_prefix": "archway",
   "daemon_name": "archwayd",
   "node_home": "$HOME/.archway",
-  "key_algos": [
-    "secp256k1"
-  ],
+  "key_algos": ["secp256k1"],
   "slip44": 118,
   "fees": {
     "fee_tokens": [
@@ -37,10 +35,7 @@
   "codebase": {
     "git_repo": "https://github.com/archway-network/archway",
     "recommended_version": "v7.0.1",
-    "compatible_versions": [
-      "v7.0.0",
-      "v7.0.1"
-    ],
+    "compatible_versions": ["v7.0.0", "v7.0.1"],
     "binaries": {
       "linux/amd64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_linux_amd64",
       "linux/arm64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_linux_arm64",
@@ -62,10 +57,7 @@
       {
         "name": "v1.0.0",
         "recommended_version": "v1.0.1",
-        "compatible_versions": [
-          "v1.0.0",
-          "v1.0.1"
-        ],
+        "compatible_versions": ["v1.0.0", "v1.0.1"],
         "tag": "v1.0.1",
         "height": 1,
         "consensus": {
@@ -86,9 +78,7 @@
       {
         "name": "v2.0.0",
         "recommended_version": "v2.0.0",
-        "compatible_versions": [
-          "v2.0.0"
-        ],
+        "compatible_versions": ["v2.0.0"],
         "tag": "v2.0.0",
         "proposal": 10,
         "height": 525000,
@@ -110,9 +100,7 @@
       {
         "name": "v4.0.2",
         "recommended_version": "v4.0.3",
-        "compatible_versions": [
-          "v4.0.3"
-        ],
+        "compatible_versions": ["v4.0.3"],
         "proposal": 21,
         "height": 1215711,
         "consensus": {
@@ -135,9 +123,7 @@
       {
         "name": "v6.0.0",
         "recommended_version": "v6.0.3",
-        "compatible_versions": [
-          "v6.0.3"
-        ],
+        "compatible_versions": ["v6.0.3"],
         "proposal": 38,
         "height": 3554500,
         "consensus": {
@@ -162,10 +148,7 @@
         "proposal": 43,
         "height": 4473000,
         "recommended_version": "v7.0.1",
-        "compatible_versions": [
-          "v7.0.0",
-          "v7.0.1"
-        ],
+        "compatible_versions": ["v7.0.0", "v7.0.1"],
         "binaries": {
           "linux/amd64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_linux_amd64",
           "linux/arm64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_linux_arm64",
@@ -187,7 +170,6 @@
     "png": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.png",
     "svg": "https://raw.githubusercontent.com/cosmos/chain-registry/master/archway/images/archway.svg"
   },
-  "description": "An incentivized L1 blockchain that allows developers to capture the value their dapps create, enabling sustainable economic models.",
   "peers": {
     "seeds": [
       {
@@ -382,14 +364,6 @@
         "provider": "Stake&Relax 🦥"
       },
       {
-        "address": "https://rpc.archway.bronbro.io:443",
-        "provider": "Bro_n_Bro"
-      },
-      {
-        "address": "https://rpc-archway.luckyfriday.io/",
-        "provider": "GlobalStake"
-      },
-      {
         "address": "https://archway-rpc.noders.services",
         "provider": "[NODERS]TEAM"
       }
@@ -452,10 +426,6 @@
         "provider": "Luganodes"
       },
       {
-        "address": "https://archway-api.stake-town.com",
-        "provider": "StakeTown"
-      },
-      {
         "address": "https://archway-rest.0base.dev",
         "provider": "0base.vc"
       },
@@ -482,22 +452,6 @@
       {
         "address": "https://archway-mainnet-archive.allthatnode.com:1317",
         "provider": "All That Node"
-      },
-      {
-        "address": "https://archway-api.tienthuattoan.ventures",
-        "provider": "TienThuatToan"
-      },
-      {
-        "address": "https://archway-api.stakeandrelax.net",
-        "provider": "Stake&Relax 🦥"
-      },
-      {
-        "address": "https://lcd.archway.bronbro.io:443",
-        "provider": "Bro_n_Bro"
-      },
-      {
-        "address": "https://archway-api.noders.services",
-        "provider": "[NODERS]TEAM"
       }
     ],
     "grpc": [
@@ -528,10 +482,6 @@
       {
         "address": "archway-grpc.lavenderfive.com:443",
         "provider": "Lavender.Five Nodes 🐝"
-      },
-      {
-        "address": "archway.grpc.nodersteam.com:9090",
-        "provider": "[NODERS]TEAM"
       },
       {
         "address": "grpc-archway.mms.team:443",
@@ -576,22 +526,6 @@
       {
         "address": "archway.api.trivium.network:9090",
         "provider": "TriviumX | Architech"
-      },
-      {
-        "address": "archway-grpc.tienthuattoan.ventures:9290",
-        "provider": "TienThuatToan"
-      },
-      {
-        "address": "archway-grpc.stakeandrelax.net:11590",
-        "provider": "Stake&Relax 🦥"
-      },
-      {
-        "address": "https://grpc.archway.bronbro.io:443",
-        "provider": "Bro_n_Bro"
-      },
-      {
-        "address": "archway-grpc.noders.services:13090",
-        "provider": "[NODERS]TEAM"
       }
     ]
   },
