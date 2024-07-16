@@ -233,6 +233,11 @@
         "provider": "NodeStake"
       },
       {
+        "id": "86bd5cb6e762f673f1706e5889e039d5406b4b90",
+        "address": "archway.seed.node75.org:10256",
+        "provider": "Pro-Nodes75"
+      },
+      {
         "id": "8542cd7e6bf9d260fef543bc49e59be5a3fa9074",
         "address": "seed.publicnode.com:26656",
         "provider": "Allnodes ⚡️ Nodes & Staking"
@@ -255,6 +260,11 @@
         "provider": "StakeTown"
       },
       {
+        "id": "68cac650b02d5f62fa1365cff979da7977abea26",
+        "address": "archway-mainnet.peers.l0vd.com:26656",
+        "provider": "L0vd.com ❤️"
+      },
+      {
         "id": "34999776ce08cb4298a9849609c4b43c78e8be37",
         "address": "65.108.238.203:25656",
         "provider": "[NODERS]TEAM"
@@ -266,6 +276,14 @@
       {
         "address": "https://rpc.mainnet.archway.io",
         "provider": "Archway Foundation"
+      },
+      {
+        "address": "https://rpc-archway.cosmos-spaces.cloud",
+        "provider": "Cosmos Spaces"
+      },
+      {
+        "address": "http://archway.rpc.nodersteam.com:26657",
+        "provider": "[NODERS]TEAM"
       },
       {
         "address": "https://archway-mainnet-archive.allthatnode.com:26657",
@@ -332,6 +350,10 @@
         "provider": "StakeTown"
       },
       {
+        "address": "https://archway-rpc.huginn.tech",
+        "provider": "Huginn"
+      },
+      {
         "address": "https://archway-rpc.0base.dev",
         "provider": "0base.vc"
       },
@@ -356,8 +378,16 @@
         "provider": "StakeUp"
       },
       {
+        "address": "https://rpc-archway-mainnet.testnet-pride.com",
+        "provider": "TestnetPride"
+      },
+      {
         "address": "https://archway.api.trivium.network:26657",
         "provider": "TriviumX | Architech"
+      },
+      {
+        "address": "https://rpc-archway.architectnodes.com",
+        "provider": "Architect Nodes"
       },
       {
         "address": "https://archway-rpc.stakeandrelax.net",
@@ -378,6 +408,10 @@
         "provider": "w3coins"
       },
       {
+        "address": "http://archway.api.nodersteam.com:1317",
+        "provider": "[NODERS]TEAM"
+      },
+      {
         "address": "https://m-archway.api.utsa.tech",
         "provider": "𝐥𝐞𝐬𝐧𝐢𝐤 | 𝐔𝐓𝐒𝐀"
       },
@@ -392,6 +426,10 @@
       {
         "address": "https://archway.api.kjnodes.com",
         "provider": "kjnodes"
+      },
+      {
+        "address": "https://api-archway.cosmos-spaces.cloud",
+        "provider": "Cosmos Spaces"
       },
       {
         "address": "https://api-archway.cryptech.com.ua",
@@ -426,6 +464,14 @@
         "provider": "Luganodes"
       },
       {
+        "address": "https://archway-api.stake-town.com:443",
+        "provider": "StakeTown"
+      },
+      {
+        "address": "https://archway-lcd.huginn.tech",
+        "provider": "Huginn"
+      },
+      {
         "address": "https://archway-rest.0base.dev",
         "provider": "0base.vc"
       },
@@ -446,12 +492,20 @@
         "provider": "StakeUp"
       },
       {
+        "address": "https://api-archway-mainnet.testnet-pride.com",
+        "provider": "TestnetPride"
+      },
+      {
         "address": "https://archway.api.trivium.network:1317",
         "provider": "TriviumX | Architech"
       },
       {
         "address": "https://archway-mainnet-archive.allthatnode.com:1317",
         "provider": "All That Node"
+      },
+      {
+        "address": "https://rest-archway.architectnodes.com",
+        "provider": "Architect Nodes"
       }
     ],
     "grpc": [
@@ -462,6 +516,10 @@
       {
         "address": "grpc-1.archway.nodes.guru:10690",
         "provider": "Nodes.Guru"
+      },
+      {
+        "address": "archway.grpc.nodersteam.com:9090",
+        "provider": "[NODERS]TEAM"
       },
       {
         "address": "archway.grpc.kjnodes.com:15690",
@@ -526,6 +584,10 @@
       {
         "address": "archway.api.trivium.network:9090",
         "provider": "TriviumX | Architech"
+      },
+      {
+        "address": "grpc-archway.architectnodes.com:1443",
+        "provider": "Architect Nodes"
       }
     ]
   },
@@ -570,6 +632,12 @@
       "kind": "ping.pub",
       "url": "https://ping.pub/archway",
       "tx_page": "https://ping.pub/archway/tx/${txHash}"
+    },
+    {
+      "kind": "L0vd.com ❤️",
+      "url": "https://explorers.l0vd.com/archway-mainnet",
+      "tx_page": "https://explorers.l0vd.com/archway-mainnet/tx/${txHash}",
+      "account_page": "https://explorers.l0vd.com/archway-mainnet/account/${accountAddress}"
     },
     {
       "kind": "ezstaking",
