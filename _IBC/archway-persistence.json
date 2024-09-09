@@ -55,6 +55,20 @@
         "handle": "enz0ro",
         "id": "876544147970994236"
       }
+    },
+    {
+      "chain_1": {
+        "address": "agoric1awj48dlxvyul5k3y2a7r0lj2djghgym32967sk"
+      },
+      "chain_2": {
+        "address": "persistence1fu30nzku2z7c0mmwp3x5qxahc7l3ts68fuwjhs"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
     }
   ]
 }
