@@ -251,6 +251,20 @@
         "handle": "ghostdotexe",
         "id": "704175156595130441"
       }
+    },
+    {
+      "chain_1": {
+        "address": "agoric1awj48dlxvyul5k3y2a7r0lj2djghgym32967sk"
+      },
+      "chain_2": {
+        "address": "osmo1056sshv4vvyzu3ylrp5wd5r9we7cppl33vy2kv"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
     }
   ]
 }
