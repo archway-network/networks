@@ -99,6 +99,20 @@
         "handle": "ghostdotexe",
         "id": "704175156595130441"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
+      },
+      "chain_2": {
+        "address": "stars1qx6nnykvn390su7hrtunvdj509khadehdw3vzh"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
     }
   ]
 }
