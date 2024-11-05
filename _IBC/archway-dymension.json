@@ -55,6 +55,20 @@
         "handle": "sw33pronodes",
         "id": "748273679711994028"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
+      },
+      "chain_2": {
+        "address": "dym1jeppapc7z75mvmkkml8mymu4xzdnxlf7kgnjr9"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
     }
   ]
 }

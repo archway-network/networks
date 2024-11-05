@@ -83,6 +83,20 @@
         "handle": "enz0ro",
         "id": "876544147970994236"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
+      },
+      "chain_2": {
+        "address": "jkl1qx6nnykvn390su7hrtunvdj509khadehqvgqse"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
     }
   ]
 }

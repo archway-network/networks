@@ -69,6 +69,20 @@
         "handle": "0xan_nodes_guru",
         "id": "656918310964953112"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
+      },
+      "chain_2": {
+        "address": "agoric1awj48dlxvyul5k3y2a7r0lj2djghgym32967sk"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
     }
   ]
 }
