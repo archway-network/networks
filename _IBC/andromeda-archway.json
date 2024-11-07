@@ -58,20 +58,6 @@
     },
     {
       "chain_1": {
-        "address": "archway1vcr9kt2jqw7n5gq6vmxcxzvahywl6ztsn3qhvg"
-      },
-      "chain_2": {
-        "address": "andr1k2rrv7jzwq82apjvscfvaqmw5jpp92l0e882ju"
-      },
-      "memo": "staketown-relayer",
-      "name": "StakeTown",
-      "discord": {
-        "handle": "hottochelli",
-        "id": "653208183325589529"
-      }
-    },
-    {
-      "chain_1": {
         "address": "archway18xrruhq5r246mwk0yj9elnn3mte8xa9u478fxt"
       },
       "chain_2": {
