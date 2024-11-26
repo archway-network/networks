@@ -34,21 +34,21 @@
   },
   "codebase": {
     "git_repo": "https://github.com/archway-network/archway",
-    "recommended_version": "v7.0.1",
-    "compatible_versions": ["v7.0.0", "v7.0.1"],
+    "recommended_version": "v9.0.0",
+    "compatible_versions": ["v9.0.0", "v9.0.0"],
     "binaries": {
-      "linux/amd64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_linux_amd64",
-      "linux/arm64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_linux_arm64",
-      "darwin/amd64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_darwin_amd64",
-      "darwin/arm64": "https://github.com/archway-network/archway/releases/download/v7.0.1/archwayd_darwin_arm64"
+      "linux/amd64": "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_linux_amd64",
+      "linux/arm64": "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_linux_arm64",
+      "darwin/amd64": "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_darwin_amd64",
+      "darwin/arm64": "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_darwin_arm64"
     },
-    "cosmos_sdk_version": "v0.47.11",
-    "ibc_go_version": "v7.4.0",
+    "cosmos_sdk_version": "v0.50.6",
+    "ibc_go_version": "v8.4.0",
     "consensus": {
       "type": "cometbft",
-      "version": "v0.37.5"
+      "version": "v0.38.12"
     },
-    "cosmwasm_version": "v0.45.0",
+    "cosmwasm_version": "v0.51.0",
     "cosmwasm_enabled": true,
     "genesis": {
       "genesis_url": "https://github.com/archway-network/networks/raw/main/archway/genesis/genesis.json.gz"
@@ -163,7 +163,30 @@
         },
         "cosmwasm_version": "v0.45.0",
         "cosmwasm_enabled": true
+      },
+      {
+        "name": "v9.0.0",
+        "recommended_version": "v9.0.0",
+        "compatible_versions": [
+          "v9.0.0"
+        ],
+        "height": 1,
+        "consensus": {
+          "type": "cometbft",
+          "version": "v0.38.12"
+        },
+        "cosmos_sdk_version": "v0.50.6",
+        "cosmwasm_version": "v0.51.0",
+        "cosmwasm_enabled": true,
+        "ibc_go_version": "v8.4.0",
+        "cosmwasm_path": "$HOME/.archway/data/wasm",
+        "binaries": {
+          "linux/amd64": "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_linux_amd64",
+          "linux/arm64": "https://github.com/archway-network/archway/releases/download/v9.0.0/archwayd_linux_arm64"
+        },
+        "next_version_name": ""
       }
+      
     ]
   },
   "logo_URIs": {
@@ -173,8 +196,8 @@
   "peers": {
     "seeds": [
       {
-        "id": "3ba7bf08f00e228026177e9cdc027f6ef6eb2b39",
-        "address": "35.232.234.58:26656",
+        "id": "db106bc9c61dacadc26bcf28caa130089b75161b",
+        "address": "144.76.3.52:26656",
         "provider": "Archway Foundation"
       },
       {
