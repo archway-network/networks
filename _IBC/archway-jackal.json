@@ -83,6 +83,20 @@
         "handle": "enz0ro",
         "id": "876544147970994236"
       }
+    },
+    {
+      "chain_1": {
+        "address": "archway1femf9alfakjfwn3klzjgsjguymfqmudmdrwtfd"
+      },
+      "chain_2": {
+        "address": "jkl19enpj64jx2ctt65cph8hhtzjnk4z6eh0mjn6j3"
+      },
+      "memo": "Relayed by Jackal Labs",
+      "name": "Jackal Labs",
+      "discord": {
+        "handle": "marstonc",
+        "id": "567803018775625753"
+      }
     }
   ]
 }

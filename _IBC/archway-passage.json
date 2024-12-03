@@ -41,6 +41,20 @@
         "handle": "validatrium_yuri_tech",
         "id": "919880039753973780"
       }
-    }
+    },
+    {
+      "chain_1": {
+        "address": "archway1a3w66f24ct3kft4gx5vezghqnegvxvjsfqeakt"
+      },
+      "chain_2": {
+        "address": "pasg1znsg2durhsjzdx783j8c7uzz9h7d69l4sravhp"
+      },
+      "memo": "Relayed by Stake&Relax 🦥",
+      "name": "Stake&Relax 🦥",
+      "discord": {
+        "handle": "manueldb2",
+        "id": "392559841039745035"
+      }
+    }    
   ]
 }
