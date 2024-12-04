@@ -116,10 +116,6 @@
           "provider": "Archway Foundation"
         },
         {
-          "address": "https://constantine.api.trivium.network:26657",
-          "provider": "TriviumX | Architech"
-        },
-        {
           "address": "https://archway-testnet.rpc.kjnodes.com",
           "provider": "kjnodes"
         }
@@ -130,10 +126,6 @@
           "provider": "Archway Foundation"
         },
         {
-          "address": "https://constantine.api.trivium.network:1317",
-          "provider": "TriviumX | Architech"
-        },
-        {
           "address": "https://archway-testnet.api.kjnodes.com",
           "provider": "kjnodes"
         }
@@ -142,10 +134,6 @@
         {
           "address": "grpc.constantine.archway.io:443",
           "provider": "Archway Foundation"
-        },
-        {
-          "address": "constantine.api.trivium.network:9090",
-          "provider": "TriviumX | Architech"
         },
         {
           "address": "archway-testnet.grpc.kjnodes.com:443",
