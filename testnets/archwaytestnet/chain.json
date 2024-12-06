@@ -106,7 +106,12 @@
           "id": "d5519e378247dfb61dfe90652d1fe3e2b3005a5b",
           "address": "archway-testnet.rpc.kjnodes.com:15656",
           "provider": "kjnodes"
-        }
+        },
+        {
+          "id": "20b4f9207cdc9d0310399f848f057621f7251846",
+          "address": "222.106.187.14:53000",
+          "provider": "Cosmostation"
+        }          
       ]
     },
     "apis": {
@@ -138,12 +143,7 @@
         {
           "address": "archway-testnet.grpc.kjnodes.com:443",
           "provider": "kjnodes"
-        },
-        {
-          "id": "20b4f9207cdc9d0310399f848f057621f7251846",
-          "address": "222.106.187.14:53000",
-          "provider": "Cosmostation"
-        }             
+        }           
       ]
     },
     "explorers": [
