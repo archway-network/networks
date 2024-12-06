@@ -72,20 +72,6 @@
     },
     {
       "chain_1": {
-        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
-      },
-      "chain_2": {
-        "address": "inj1qyx03wzez6xutjf5v9hxj3tgvhrne9kvf7mjj6"
-      },
-      "memo": "Relayed by ENZORO",
-      "name": "ENZORO",
-      "discord": {
-        "handle": "enz0ro",
-        "id": "876544147970994236"
-      }
-    },
-    {
-      "chain_1": {
         "address": "archway1nts9ckkhj226kxrmal40ak24hytczplhuqr32e"
       },
       "chain_2": {

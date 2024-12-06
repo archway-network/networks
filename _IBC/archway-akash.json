@@ -55,20 +55,6 @@
         "handle": "ghostdotexe",
         "id": "704175156595130441"
       }
-    },
-    {
-      "chain_1": {
-        "address": "archway10cdm00r73whvfgg6wdl0f926jzzraa6u46yd6e"
-      },
-      "chain_2": {
-        "address": "akash14pqzqjx99xl44mjgzuca9jg37flcj4yct8tdv2"
-      },
-      "memo": "Relayed by ENZORO",
-      "name": "ENZORO",
-      "discord": {
-        "handle": "enz0ro",
-        "id": "876544147970994236"
-      }
     }
   ]
 }
