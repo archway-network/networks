@@ -30,20 +30,6 @@
   "operators": [
     {
       "chain_1": {
-        "address": "archway1twmgaeug7ymjq8c53ttstpl7rny43q8zsragds"
-      },
-      "chain_2": {
-        "address": "bcna1twmgaeug7ymjq8c53ttstpl7rny43q8zlc3d04"
-      },
-      "memo": "Relayed by kjnodes",
-      "name": "kjnodes",
-      "discord": {
-        "handle": "kjnodes",
-        "id": "403199803330134018"
-      }
-    },
-    {
-      "chain_1": {
         "address": "archway1wmzvyml04pzza6ddr0tvxga64q5q55z0mrg5gx"
       },
       "chain_2": {
